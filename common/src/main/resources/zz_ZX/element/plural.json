@@ -1,0 +1,555 @@
+{
+    "plural":[
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923509]_Every %1$d week on %2$s"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923544]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923368]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923355]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923449]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923633]_Every %1$d weeks on %2$s"
+                }
+            ]
+        },
+        {
+            "name":"conflicting_agendas",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_924529]_%d events during this period"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_924528]_%d event during this period"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_924527]_%d events during this period"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_924525]_%d events during this period"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_924526]_%d events during this period"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_924524]_%d events during this period"
+                }
+            ]
+        },
+        {
+            "name":"total_times",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_929799]_(%d time)"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_929796]_(%d times)"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_929798]_(%d times)"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_929797]_(%d times)"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_929800]_(%d times)"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_929801]_(%d times)"
+                }
+            ]
+        },
+        {
+            "name":"all_day_days_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923634]_%1$d day before (%2$d AM)"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923679]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923469]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923278]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923570]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923591]_%1$d days before (%2$d AM)"
+                }
+            ]
+        },
+        {
+            "name":"repetition_times",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923242]_For %d events"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923210]_For %d event"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923404]_For %d events"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923344]_For %d events"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923375]_For %d events"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923682]_For %d events"
+                }
+            ]
+        },
+        {
+            "name":"share_multiple_agendas",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_977860]_%d event"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_977861]_%d events"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_977859]_%d events"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_977862]_%d events"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_977857]_%d events"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_977858]_%d events"
+                }
+            ]
+        },
+        {
+            "name":"still_years",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1011686]_In %d year"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1011692]_In %d years"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1011687]_In %d years"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1011691]_In %d years"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1011690]_In %d years"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1011689]_In %d years"
+                }
+            ]
+        },
+        {
+            "name":"in_anniversarys",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1006900]_%d year"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1006898]_%d years"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1006889]_%d years"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1006893]_%d years"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1006887]_%d years"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1006892]_%d years"
+                }
+            ]
+        },
+        {
+            "name":"still_days",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1006904]_In %d day"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1006905]_In %d days"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1006901]_In %d days"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1006894]_In %d days"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1006899]_In %d days"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1006902]_In %d days"
+                }
+            ]
+        },
+        {
+            "name":"search_results_num",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1036408]_Found %d results"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1036405]_Found %d result"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1036410]_Found %d results"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1036407]_Found %d results"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1036406]_Found %d results"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1036409]_Found %d results"
+                }
+            ]
+        },
+        {
+            "name":"weeks_number",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1050874]_%d week"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1050871]_%d weeks"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1050873]_%d weeks"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1050872]_%d weeks"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1050869]_%d weeks"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1050870]_%d weeks"
+                }
+            ]
+        },
+        {
+            "name":"minutes_num",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1023781]_%d minutes"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1023765]_%d minute"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1023771]_%d minutes"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1023780]_%d minutes"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1023783]_%d minutes"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1023774]_%d minutes"
+                }
+            ]
+        },
+        {
+            "name":"attachment_count",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1085793]_%d"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1085787]_%d"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1085791]_%d"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1085792]_%d"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1085800]_%d"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1085798]_%d"
+                }
+            ]
+        },
+        {
+            "name":"next_day_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1090091]_%d class tomorrow"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1090090]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1090096]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1090089]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1090094]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1090087]_%d classes tomorrow"
+                }
+            ]
+        },
+        {
+            "name":"today_course_num",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1090088]_%d classes today"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1090093]_%d class today"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1090098]_%d classes today"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1090092]_%d classes today"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1090095]_%d classes today"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1090097]_%d classes today"
+                }
+            ]
+        },
+        {
+            "name":"minutes_in_advance",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1097795]_%d minutes in advance"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1097797]_%d minute in advance"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1097791]_%d minutes in advance"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1097787]_%d minutes in advance"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1097799]_%d minutes in advance"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1097794]_%d minutes in advance"
+                }
+            ]
+        },
+        {
+            "name":"today_total_classes_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1100750]_%d class today"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1100751]_%d classes today"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1100745]_%d classes today"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1100746]_%d classes today"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1100744]_%d classes today"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1100753]_%d classes today"
+                }
+            ]
+        },
+        {
+            "name":"broadcast_omit_agenda_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1102256]_%d event is hidden"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1102260]_%d events are hidden"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1102266]_%d events are hidden"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1102264]_%d events are hidden"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1102267]_%d events are hidden"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1102268]_%d events are hidden"
+                }
+            ]
+        },
+        {
+            "name":"broadcast_omit_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1108804]_%d more course, details are hidden"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1108810]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1108807]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1108803]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1108809]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1108805]_%d more courses, details are hidden"
+                }
+            ]
+        }
+    ]
+}

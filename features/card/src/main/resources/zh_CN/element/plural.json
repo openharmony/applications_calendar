@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"card_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"当天有 %d 个日程",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+/build
+/node_modules
+/.preview
+/oh_modules
+BuildProfile.ets

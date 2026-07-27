@@ -1,0 +1,18 @@
+{
+    "string":[
+        {
+            "name":"modify_schedule",
+            "value":"Click blocks to edit",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_screen_page_tv",
+            "value":"This app requires an Internet connection and the Calendar permission. By clicking Agree, you agree to these terms. For details about how your personal information is processed, refer to the %1$s.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

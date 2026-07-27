@@ -1,0 +1,16 @@
+{
+    "color" : [
+        {
+            "name" : "color_card_bg",
+            "value" : "#f1f3f5"
+        },
+        {
+            "name" : "color_card_bg_ext",
+            "value" : "#ffffff"
+        },
+        {
+            "name" : "color_privacy_red",
+            "value" : "#F76045"
+        }
+    ]
+}

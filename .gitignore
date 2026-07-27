@@ -1,0 +1,15 @@
+*.iml
+.gradle
+local.properties
+.DS_Store
+build
+captures
+.externalNativeBuild
+.preview
+.idea
+oh-package-lock.json5
+.hvigor
+oh_modules/
+hap-sign-tool.jar
+hapsign-online-plugin.jar
+lib

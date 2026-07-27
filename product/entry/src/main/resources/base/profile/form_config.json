@@ -1,0 +1,171 @@
+{
+    "forms" : [
+        {
+            "name" : "AgendaCard2x2",
+            "displayName" : "$string:AgendaCard_Proximity_Agenda",
+            "description" : "$string:show_current_day_agenda",
+            "src" : "./ets/widget/form/AgendaCard2x2.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : true,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "2*2",
+            "supportDimensions" : [
+                "2*2"
+            ],
+            "dataProxyEnabled" : true
+        },
+        {
+            "name" : "AgendaCard2x4",
+            "displayName" : "$string:AgendaCard_Proximity_Agenda",
+            "description" : "$string:show_current_day_agenda",
+            "src" : "./ets/widget/form/AgendaCard2x4.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "2*4",
+            "supportDimensions" : [
+                "2*4"
+            ],
+            "dataProxyEnabled" : true
+        },
+        {
+            "name" : "AgendaCard4x4",
+            "displayName" : "$string:AgendaCard_Proximity_Agenda",
+            "description" : "$string:show_seven_day_agenda",
+            "src" : "./ets/widget/form/AgendaCard4x4.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "4*4",
+            "supportDimensions" : [
+                "4*4"
+            ],
+            "dataProxyEnabled" : true
+        },
+        {
+            "name" : "AgendaCard4x6",
+            "displayName" : "$string:AgendaCard_Proximity_Agenda",
+            "description" : "$string:show_current_week_agenda",
+            "src" : "./ets/widget/form/AgendaCard4x6.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "6*4",
+            "supportDimensions" : [
+                "6*4"
+            ],
+            "dataProxyEnabled" : true
+        },
+        {
+            "name" : "MonthCard2x2",
+            "displayName" : "$string:description_Month_Card",
+            "description" : "$string:show_current_month",
+            "src" : "./ets/widget/form/MonthCard2x2.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "2*2",
+            "supportDimensions" : [
+                "2*2"
+            ]
+        },
+        {
+            "name" : "MonthCard4x4",
+            "displayName" : "$string:description_Month_Card",
+            "description" : "$string:show_current_month",
+            "src" : "./ets/widget/form/MonthCard4x4.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "multiScheduledUpdateTime" : "00:00,07:00,12:00,13:30,17:00,20:00",
+            "defaultDimension" : "4*4",
+            "supportDimensions" : [
+                "4*4"
+            ],
+            "dataProxyEnabled" : true
+        },
+        {
+            "name" : "ImportantCard2x2",
+            "displayName" : "$string:important_day",
+            "description" : "$string:show_important_days",
+            "src" : "./ets/widget/form/ImportantCard2x2.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "defaultDimension" : "2*2",
+            "supportDimensions" : [
+                "2*2"
+            ],
+            "dataProxyEnabled" : true,
+            "formConfigAbility" : "ability://CardEditAbility"
+        },
+        {
+            "name" : "ImportantCard2x4",
+            "displayName" : "$string:important_day",
+            "description" : "$string:show_important_days",
+            "src" : "./ets/widget/form/ImportantCard2x4.ets",
+            "uiSyntax" : "arkts",
+            "window" : {
+                "designWidth" : 720,
+                "autoDesignWidth" : true
+            },
+            "colorMode" : "auto",
+            "isDefault" : false,
+            "updateEnabled" : true,
+            "scheduledUpdateTime" : "00:00",
+            "defaultDimension" : "2*4",
+            "supportDimensions" : [
+                "2*4"
+            ],
+            "dataProxyEnabled" : true,
+            "formConfigAbility" : "ability://CardEditAbility"
+        }
+    ]
+}

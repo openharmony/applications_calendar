@@ -1,0 +1,88 @@
+{
+    "string":[
+        {
+            "name":"important_title_data",
+            "value":"Ngày",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"openharmony_calendar",
+            "value":"openharmony Lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"Bắt đầu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"vcs_share_account_title",
+            "value":"Lịch: %1$s %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"Tiêu đề",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"Vị trí",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_in_progress",
+            "value":"Tiến trình Nhập đang diễn ra. Vui lòng thử lại sau.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hint_export_description",
+            "value":"Ghi chú",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"Cả ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"Kết thúc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"importexport_ready_to_share",
+            "value":"Đang chuẩn bị chia sẻ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"importexport_hide",
+            "value":"Ẩn",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

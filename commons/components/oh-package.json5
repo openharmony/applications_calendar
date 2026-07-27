@@ -1,0 +1,11 @@
+{
+  "name" : "@app/common.components",
+  "version": "1.0.0",
+  "description": "common components",
+  "main": "Index.ets",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@app/common": "file:../../common",
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "src" : [
+        "pages/EntryPage",
+        "pages/ImportantCardEditPage",
+        "pages/CalendarPrivacyPage",
+        "pages/AgendaDetailPage"
+    ]
+}

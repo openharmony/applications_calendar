@@ -1,0 +1,11 @@
+{
+  "name": "@app/service.network",
+  "version": "1.0.0",
+  "description": "NetWork Service.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@app/common": "file:../../common"
+  }
+}

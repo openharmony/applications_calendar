@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "service.network",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

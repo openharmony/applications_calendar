@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "pafVersion": "14.17.7-304"
+  },
+
+  "devDependencies": {
+  },
+
+  "dynamicDependencies": {
+  },
+
+  // 支持参数化的字段有: version、dependencies、devDependencies和dynamicDependencies，未列举的字段均不支持参数化配置。
+}

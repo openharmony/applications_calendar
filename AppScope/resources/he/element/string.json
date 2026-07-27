@@ -1,0 +1,109 @@
+{
+    "string":[
+        {
+            "name":"at_time_of_event",
+            "value":"במועד האירוע",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"לוח השנה שלי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"שבוע לפני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"יום שישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"יום שני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"יום ראשון",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"יום רביעי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"יום חמישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"יום שבת",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"יום שלישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"חשבונות",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"אירועים קרובים",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"‏(ללא כותרת)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"משתתפים",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"תזכורות",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

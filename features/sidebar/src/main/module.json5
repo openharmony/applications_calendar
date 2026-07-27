@@ -1,0 +1,15 @@
+{
+  "module": {
+    "name": "feature.sidebar",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.PRIVACY_WINDOW"
+      }
+    ]
+  }
+}

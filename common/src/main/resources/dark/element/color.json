@@ -1,0 +1,56 @@
+{
+    "color" : [
+        {
+            "name" : "id_color_card_gradient_start",
+            "value" : "#002E3033"
+        },
+        {
+            "name" : "id_color_card_gradient",
+            "value" : "#2e3033"
+        },
+        {
+            "name" : "id_color_card_gray_gradient_start",
+            "value" : "#002E3033"
+        },
+        {
+            "name" : "id_color_card_gray_gradient",
+            "value" : "#2e3033"
+        },
+        {
+            "name" : "id_color_privacy_background",
+            "value" : "#121212"
+        },
+        {
+            "name" : "id_color_system_background",
+            "value" : "#00000000"
+        },
+        {
+            "name" : "slide_tab_bar_button_color",
+            "value" : "#666666"
+        },
+        {
+            "name" : "holiday_block_title_color",
+            "value" : "#99FFFFFF"
+        },
+        {
+            "name" : "holiday_block_bg_color",
+            "value" : "#26FFFFFF"
+        },
+        {
+            "name" : "holiday_block_bg_focus_color",
+            "value" : "#73FFFFFF"
+        },
+        {
+            "name" : "pop_background_color",
+            "value" : "#202224"
+        },
+        {
+            "name" : "agenda_list_item_select",
+            "value" : "#646464"
+        },
+        {
+            "name" : "start_page_background",
+            "value" : "#2e3033"
+        }
+    ]
+}
