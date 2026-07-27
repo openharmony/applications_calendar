@@ -1,0 +1,23 @@
+{
+    "plural":[
+        {
+            "name":"card_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d évènement",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d évènements",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

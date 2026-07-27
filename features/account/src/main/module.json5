@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.account",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

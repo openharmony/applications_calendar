@@ -1,0 +1,12 @@
+{
+  "app": {
+    "bundleName": "com.ohos.calendar",
+    "vendor": "openharmony",
+    "versionCode": 1600113500,
+    "versionName": "16.0.11.350",
+    "icon": "$media:launcher_icon",
+    "label": "$string:calendar",
+    "distributedNotificationEnabled": true,
+    "configuration": "$profile:configuration"
+  }
+}

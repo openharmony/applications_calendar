@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.yearview",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

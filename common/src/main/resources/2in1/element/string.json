@@ -1,0 +1,109 @@
+{
+    "string":[
+        {
+            "name":"commonly_used_holidays",
+            "value":"Suggested holidays",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"Double click to turn on",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"Double click to turn off",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"Double click to activate",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"Click %s to go to the selected date.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"Click blocks to edit",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"Preview service provided by openharmony Calendar\nClick to authorize",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"Click on a block to edit it.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"Click to return to Month view.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_double_tap_view_agenda",
+            "value":"Double-click to view events for this day",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"open_screen_page_tv",
+            "value":"This app requires an Internet connection and the Calendar permission. By clicking Agree, you agree to these terms. For details about how your personal information is processed, refer to the %1$s.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"Click to add a course schedule.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"To snooze a notification, simply click \"Snooze\" on the banner or in the Notification Panel.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_double_tap_view_calendar",
+            "value":"Double-click to view this month's calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"Click to go and select an image",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

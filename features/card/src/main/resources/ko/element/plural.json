@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"card_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"%d개 이벤트",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

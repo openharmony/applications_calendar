@@ -1,0 +1,90 @@
+{
+  "apiType": 'stageMode',
+  "buildOption": {
+    "nativeLib": {
+      "filter": {
+        "excludes": [
+          "x86_64/*.so",
+          "armeabi-v7a/*.so",
+          "arm64-v8a/libyundun.so",
+          "**/libnetwork-hwhttp.so",
+        ],
+        "enableOverride": true,
+      }
+    },
+    "arkOptions": {
+      "runtimeOnly": {
+        "sources": [
+        ],
+        "packages": [
+          "@app/feature.settings",
+          "@app/feature.agenda",
+          "@app/feature.card",
+          "@app/feature.importexport",
+          "@app/service.timezone",
+          "@app/service.network",
+          "@app/service.attachment"
+        ]
+      }
+    }
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": true,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default",
+    },
+    {
+      "name": "ohosTest",
+    },
+//    {
+//      "name": "emulator-arm",
+//      "config": {
+//        "buildOption": {
+//          "nativeLib": {
+//            "filter": {
+//              "pickFirsts": [
+//                "**/libcurl.so",
+//                "**/libnetwork-common.so"
+//              ],
+//              "excludes": [
+//                "x86_64/*.so"
+//              ]
+//            }
+//          }
+//        }
+//      },
+//    },
+//    {
+//      "name": "emulator-x86",
+//      "config": {
+//        "buildOption": {
+//          "nativeLib": {
+//            "filter": {
+//              "pickFirsts": [
+//                "**/libcurl.so",
+//                "**/libnetwork-common.so"
+//              ],
+//              "excludes": [
+//                "arm64-v8a/*.so"
+//              ]
+//            }
+//          }
+//        }
+//      }
+//    }
+  ]
+}

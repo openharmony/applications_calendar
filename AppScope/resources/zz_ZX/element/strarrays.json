@@ -1,0 +1,27 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"[TS_923575]_None"
+                },
+                {
+                    "value":"[TS_923586]_On the day (%s)"
+                },
+                {
+                    "value":"[TS_923587]_%1$d day before (%2$s)"
+                },
+                {
+                    "value":"[TS_923584]_2 days before (%s)"
+                },
+                {
+                    "value":"[TS_923585]_%1$d days before (%2$s)"
+                },
+                {
+                    "value":"[TS_923583]_1 week before (%s)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3091 @@
+{
+    "string":[
+        {
+            "name":"cancel_dialog_button",
+            "value":"بىكار قىلىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"ياردەم ۋە تەكلىپ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"پارىس يىلنامەسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"ئىمتىھان، تۇغۇلغان كۈن، مۇھىم كۈن...",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"بايرامدىكى ئارام ۋە ئىش كۈنلىرىنى كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"ۋاقىت رايونى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"قاتناشقۇچى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"كىرىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"%s دىن بۇرۇنقى كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"بارلىق كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"كۆچۈرگەندىن كېيىن كۈنتەرتىپ ئۇچۇرىنى باشقا ئەپتە ئورتاقلىشالايسىز.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"ساقلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close",
+            "value":"ئەسكەرتمەڭ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"ﮬﯧﺴﺎﺑﺎﺕ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"ئاياغلىشىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"بارلىق كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"سۈكۈت ھەپتە ئاخىرىنى ئىشلىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"سۈكۈت ئەسكەرتىش ۋاقتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"باشقا كالېندار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month",
+            "value":"ئاي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"نام",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"خۇاۋېي ھېسابى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"ئايلىق كۆرۈنۈشتە مۇھىم كۈنلەر كۆرۈنىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"بۇ كالېندارنى باشقىلار بىلەن ئورتاقلاشسىڭىز بولىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"بۇددا يىلنامەسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"ھەپتە ئاخىرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"كېچىكتۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"توپلايدىغان شەخسىي ئۇچۇر تىزىملىكى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"كۈنتەرتىپ يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"كۈنتەرتىپ تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"ۋاقىت رايونىنى قۇلۇپلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"يەھۇدى يىلنامەسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"پۈتۈن كۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"ئەسلەتمىدىكى ۋاقىت بويىچە قىلىدىغان ئىشلار ماسقەدەملىنىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"كۈنتەرتىپ ئەسكەرتمىسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"مۇھىم كۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"كۈنتەرتىپ كۆچۈرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"ئورۇن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"يەرلىك سۈكۈت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"كۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"ھەپتە بېشى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"دۆلەتلىك (رايونلۇق) بايرام",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"يەرلىك كالېندار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"ئىسلام ھىجرىيە يىلنامەسى (مەدىنە)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"كۆچۈرۈلدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"ھىندىستان دۆلەت يىلنامەسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"بىنەپشە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"at_time_of_event",
+            "value":"دەل ۋاقتىدا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"كۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"قاتناشقۇچى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"كۈنتەرتىپ ئىزدەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"ئورتاق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"بىخەتەرلىك ۋە مەخپىيەتلىك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"read",
+            "value":"ئوقۇلغان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"ئۇقتۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"كالېندارنىڭ تور ئىشلىتىشى ۋە بايرام، خىزمەت ۋاقتى قاتارلىق ئۇچۇرلارنى چۈشۈرۈشىگە رۇخسەتمۇ؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"تور يىغىنى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"كالېندار ھېسابى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"ئەسكەرتمە قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"كۈنتەرتىپ قۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"تېما",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"ئورتاقلىشىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"ئەتە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"شەرتكە ئۇيغۇن مەزمۇن يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"ماش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"يۈكلىنىۋاتىدۇ...",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"جەزملەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"كالېندارىم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"ئۆزگەرتىشلەرنى ساقلامسىز؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"رۇخسەت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"year",
+            "value":"يىل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"ﮬﻪﻣﻤﯩﻨﻰ ﺗﺎﻟﻼﺵ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"كالېندار تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"كالېندار كۆرۈنۈشى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"ئۈچىنچى تەرەپ SDK تىزىملىكى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"قىزىل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"سارغۇچ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"ئۆگۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"ساقلاش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"تاشلاش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_view",
+            "value":"ھەپتە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"مۇلازىمەت تېلېفونى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today",
+            "value":"بۈگۈن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"ھەپتە سانىنى كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"ئەگەشمە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"كالېندار ئورتاقلىشىش ئۈچۈن بۇلۇت بوشلۇقىنىڭ كالېندار ماسقەدەملەش تاللانمىسىنى ئېچىش كېرەك، ئاچامسىز؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"كالېندار قۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"كۈتۈك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"بۇ كالېندار ۋە ئۇنىڭدىكى بارلىق كۈنتەرتىپنى ئۆچۈرەمسىز؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"شەخسىي ھېسابات قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"%s دىن كېيىنكى كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"چۈشەندۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"كالېندار تور ئىشلىتىدۇ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"جۇڭگو دېھقانلار كالېندارى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"بوز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"كۈنتەرتىپنىڭ چېسلا ۋە ۋاقتىنى تاللىغان ۋاقىت رايونىدا كۆرسىتىدۇ. تۇرۇشلۇق ۋاقىت رايونى ئۆزگەرسىمۇ، كۈنتەرتىپنىڭ ۋاقىت رايونى ئۆزگەرمەيدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"يېشىل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"ئورتاقلاشقانلارنى كۆرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"تاللاشنى بىكار قىلىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"كالېندار باشقۇرۇشقا ئىشلىتىلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"ئۈلۈشكۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"ئۇچۇر مەركىزى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"كۆك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"تۈنۈگۈن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_preferences",
+            "value":"تەڭشەك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"(تېمىسىز)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"ئەسكەرتىش قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"قاتناشقۇچى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"1 كۈن بۇرۇن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"ئەسكەرتمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"چېكىپ بۇ كۈنتەرتىپنى باشقىلار بىلەن ئورتاقلىشىڭ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"كەلگۈسى يەتتە كۈندە كۈنتەرتىپ يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"رەڭ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"باشلىنىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"پۈتۈن كۈنلۈك ئىشنىڭ سۈكۈتتىكى ئەسكەرتىش ۋاقتى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"توق قىزغۇچ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"ئىش ماسقەدەملەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"ياپونىيە يىلنامەسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"بۈگۈن كۈنتەرتىپ يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"بۇ كۈنتەرتىپنى ئۆچۈرەمسىز؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"كالېندار ئورتاقلىشىش ئۈچۈن خۇاۋېي ھېسابىغا تىزىملاپ كىرىش كېرەك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"ئورتاقلىشىشنى توختىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"بۈگۈنكى ئورتاقلانما چەككە يەتتى، ئەتە قايتا سىناڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"ئېچىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"كۆچۈرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"ئوقۇلمىغان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"ئالاقىداش توسۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar",
+            "value":"كالېندار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"2 كۈن بۇرۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"1 سائەت بۇرۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"دۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"ئوڭۇشلۇق چىقىرىلدى.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"بىكار قىلىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"جەزملەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"2 سائەت بۇرۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"ھالەت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"چار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"يەك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"جۈم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"پەي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"شەن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"سەي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"1 ھەپتە بۇرۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"چىقىرىۋېتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"ئورتاق كالېندار قوبۇللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_share",
+            "value":"ئورتاق ھېساباتتىن چېكىنسىڭىز، ھېسابات ئۇچۇرى كەلمەيدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"كەلگۈسى كۈنتەرتىپ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"ئايلىق كۆرۈنۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"ئورتاق ھېساباتتىن چېكىنىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"ياردەم ۋە مۇلازىمەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"باشقا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_agenda_is_all_done",
+            "value":"بۈگۈنكى كۈنتەرتىپ پۈتتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_going",
+            "value":"داۋاملىشىۋاتىدۇ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_yet_authorized",
+            "value":"«كالېندار» نى ئېچىپ ئىجازەتلەڭ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"card_no_agenda",
+            "value":"بۈگۈن كۈنتەرتىپ يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"%d مىنۇت بۇرۇن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"ئورتاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"default_important_agenda",
+            "value":"يېڭى يىل ھارپىسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_title_separate",
+            "value":"\u200f%1$s · %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"چ ك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"morning",
+            "value":"چ ب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"شۇ كۈنى (چ ب %d)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"%1$d ھەپتە بۇرۇن (چ ب %2$d)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"go_back_today",
+            "value":"بۈگۈن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recent_holiday",
+            "value":"كەلگۈسى بايرام",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"كۆپ تاللاش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"كۈنتەرتىپ قۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"كۆرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule",
+            "value":"دەرس جەدۋىلى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"دەرس جەدۋىلى تەڭشىكى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"كىرگۈزۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"ئورتاقلىشىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"دەرس قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"دەرس تەھرىرلەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"تەگلىك رەڭگى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"دەرس ۋاقتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"ھەپتە نومۇرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"دەرس ۋاقتى قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"بارلىق دەرس جەدۋىلى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"دەرس جەدۋىلى قۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"دەرس جەدۋىلى تەھرىرلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"باشلىنىش ۋاقتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"نۆۋەتتىكى ھەپتە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"ھەپتە سانى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"ھەپتە ئاخىرى دەرسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"دەرس جەدۋىلى ۋاقىت تەڭشىكى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"دەرس ئەسكەرتمىسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"دەرستىن بۇرۇن ئەسكەرتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"ئەسكەرتىش ئۇسۇلى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_each_lesson",
+            "value":"بارلىق دەرس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_first_class_only",
+            "value":"پەقەت بىرىنچى دەرس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"ئەسكەرتىش ۋاقتى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before",
+            "value":"ئالدىنقى كۈنى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"on_the_same_day",
+            "value":"بۈگۈن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_openharmony_calendar",
+            "value":"خۇاۋېي كالېندارىدىن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"%s-ھەپتە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"%s-دەرس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"net_set_text",
+            "value":"تور تەڭشىكى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_internet_connection",
+            "value":"تور يوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_switching",
+            "value":"كۆرۈنۈش ئالماشتۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"searching_for_time_zones",
+            "value":"ۋاقىت رايونى ئىزدەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"جۇڭگو كالېندارى قاتارلىق مۇلازىمەتلەر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"مۇھىم نۇقتىلارنى كۆرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"دەرس تەپسىلاتى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"دەرس جەدۋىلىنىڭ نامى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"مەۋسۇم ئاخىرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"دەرسخانا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"ئوقۇتقۇچى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"ئوقۇش نومۇرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"ئىزاھات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"دەرس نامى كىرگۈزۈڭ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"دەرس جەدۋىلىنىڭ نامىنى كىرگۈزۈڭ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"دەرس ئۇزۇنلۇقى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"ئارام ئۇزۇنلۇقى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"دەرس جەدۋىلىنىڭ سانى چەككە يەتتى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"دەرس جەدۋىلى قوشۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"ئوقۇتۇش سىستېمىسىدىن كىرگۈزۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"ئالبومدىن كىرگۈزۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"دائىملىق ھالەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"كۆرۈنۈش تىزگىنى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"ئايرىم ھەپتىلىك ھالەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"تولۇق ئېكرانلىق ھالەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"ھازىر «%s» ئېچىلىدۇ...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"ئالاقىداش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"ئوچۇق، %s، ئۈزچات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"ئېتىك، %s، ئۈزچات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"بىر بارماقتا قوش چەكسىڭىز ئېچىلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"بىر بارماقتا قوش چەكسىڭىز ئېتىلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"بىر بارماقتا قوش چەكسىڭىز يۈرگۈزۈلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"ئىشلىمەيدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"ۋاقىت بۆلىكى %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"دەرس ئاياغلىشىش ۋاقتى چەكتىن ئارتۇق.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"بۇ دەرسنى ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"بوش دەرس جەدۋىلى قۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"%1$s-ھەپتە %2$s كۈنىدىكى دەرس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"بارلىق %s كۈنىدىكى دەرس (ئوخشاش ئوقۇتقۇچى ۋە ئورۇن)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"بۇ دەرسنىڭ بارلىق ۋاقىت بۆلىكى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"دەرس جەدۋىلى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"تاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"جۈپ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"بىرىنچى شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"بىرىنچى چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"بىرىنچى دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"بىرىنچى يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"بىرىنچى سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"بىرىنچى جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"بىرىنچى پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"ئىككىنچى شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"ئىككىنچى چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"ئىككىنچى دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"ئىككىنچى يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"ئىككىنچى سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"ئىككىنچى جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"ئىككىنچى پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"ئۈچىنچى سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"ئۈچىنچى يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"ئۈچىنچى جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"ئۈچىنچى شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"ئۈچىنچى پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"ئۈچىنچى دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"ئۈچىنچى چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"تۆتىنچى چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"تۆتىنچى دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"تۆتىنچى يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"تۆتىنچى سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"تۆتىنچى جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"تۆتىنچى پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"تۆتىنچى شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"ئاخىرقى سەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"ئاخىرقى دۈشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"ئاخىرقى يەكشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"ئاخىرقى شەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"ئاخىرقى چارشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"ئاخىرقى جۈمە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"ئاخىرقى پەيشەنبە",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"دەرس سانى چەككە يەتتى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"بىر ھەپتىلىك دەرس ئۇچۇرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"دەرس جەدۋىلى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"بۇ ئۈسكۈنىدە بۇلۇتقا ماسقەدەملەش ئېتىك، كۈنتەرتىپ ئۈسكۈنىلەر ئارا كۆرۈنمەيدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"بۇ كۈنتەرتىپ ماسقەدەملەنمىگەن، ئۈسكۈنىلەر ئارا كۆرۈنمەيدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"‏%s چېكىلسە شۇ كۈن ئېچىلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"دەرس ماتېرىيالى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"دەرس ۋە ئارام ۋاقتى ئۇزۇنلۇقى بويىچە دەرس ۋاقتىنى تەڭشەمسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"نۆۋەتتىكى دەرس جەدۋىلىدە دەرس بار، قاپلامسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"رەسىم يۈكلەش كۆرسەتمىسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"باشلانمىغان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"كېيىنكى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"دەرس بۆلىكى چەككە يەتتى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"قاپلاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"دەرس يوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"كىرگۈزۈلدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"ۋاقىت بۆلىكى قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"كۈنتەرتىپ بۆلىكىنى چېكىپ ئۆزگەرتسىڭىز بولىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"قاتناشقۇچى (%d)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"دەرس جەدۋىلىم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"دەرس يېشىلىۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"دەرس ئۆچۈرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"ئاياغلاشقان",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"شۇنداق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"دەرس تەپسىلاتىنى ئېتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"رەسىم ياخشىلىنىۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"دەرس جەدۋىلى يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"ئېكران يورۇق تۇرسۇن، ئېكراننى قۇلۇپلىماڭ ۋە بۇ ئەپتىن ئايرىلماڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"ياق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"قايتا يۈكلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"دەرس تەپسىلاتىنى تەھرىرلەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"رەسىم يېشىلمىدى، باشقا رەسىم تاللاڭ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"تونۇش نەتىجىسىنى جەزملەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"دەرس نامى يېشىلىۋاتىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"يېشىۋاتىدۇ...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"كۈنتەرتىپ كىرگۈزۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"ھۆججەتتىن كىرگۈزۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"ئۆلچەمسىز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"توغرا ئۆرنەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"تۇتۇق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"دەرس جەدۋىلى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"خۇشخەت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"ئالبومدىن كىرگۈزۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"سىزىق بار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"يانتۇ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"رەسىم سۈزۈك بولسۇن، دەرس جەدۋىلى رەسىمگە تولۇق چىقسۇن.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"خاتا ئۆرنەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"رەسىم كۆرسەتمىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"كۆپ جەدۋەل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"«كالېندار» ئۈچۈن «ئامبار» ئىجازىتى كېرەك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"دەرس جەدۋىلى تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"ھەپتە سانى ئالماشتۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"بىرىنچى بۆلەك دەرس %s دە باشلىنىدۇ، ۋاقتىدا تەييارلىق قىلىڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"بۇ ئىجازەت دەرس بىلەن مۇناسىۋەتلىك رەسىم تېپىش ئۈچۈن ئىشلىتىلىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"بۇ دەرس جەدۋىلىنى ئۆچۈرەمسىز؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"چەكلەش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"رەسىم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"دەرس جەدۋىلى ئۆچۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"كۈندىلىك دەرس ئەسكەرتمىسى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"نىشان بايقالمىدى.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"ئالبوم يوق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"قىيىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"قىيىشتىن يېنىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lunar_calendar_text",
+            "value":"دېھقانلار كالېندارى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"دەرس جەدۋىلى كىرگۈزۈپ، كۈندىلىك دەرسلىرىڭىزنى تېخىمۇ قولايلىق باشقۇرالايسىز.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"يانبالداقتىن دەرس جەدۋىلى قوشۇش ياكى قۇرۇشقا بولىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"ئۇقتۇرۇش كېچىكتۈرسىڭىز، %d مىنۇتتىن كېيىن يەنە ئەسكەرتىدۇ، مۇھىم ئىشلارنى ئۇنتۇپ قالمايسىز.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"تەۋسىيە ئېتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"دەرس جەدۋىلى ئالماشتۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن خۇاۋېي ھېسابىغا تىزىملاپ كىرىش كېرەك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"دەرس جەدۋىلى ئىقتىدارى چىقتى!",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"تونۇش ئۈنۈمىگە كاپالەتلىك قىلىش ئۈچۈن دەرس بىلەن مۇناسىۋەتسىز مەزمۇنلارنى كېسىپ ئېلىۋېتىڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"دەرس جەدۋىلى قوشۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"ئۇقتۇرۇش كېچىكتۈرۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"بالداق ئۇقتۇرۇش ياكى ئۇقتۇرۇش مەركىزىدە «كېچىكتۈرۈش» نى چېكىپ، ئۇقتۇرۇش كېچىكتۈرۈشكە بولىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"كالېندار كۆرەك مۇلازىمىتىنى خۇاۋېي كالېندار تەمىنلەيدۇ.\nچېكىپ ئىجازەتلەڭ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"دەرس ۋاقتى بويىچە ئامباردىن رەسىم تاپىدۇ، بارلىق دەرس جەدۋىلى ئۈچۈن كۈچكە ئىگە.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"مۇناسىۋەتلىك رەسىم كۆرسىتىش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"دەرس جەدۋىلى باشقۇرۇش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"بۈگۈن دەرس يوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"ئاستىغا سىيرىسىڭىز ئايلىق كۆرۈنۈشكە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"يېشىلمىگەن دەرس جەدۋىلىنى بىزگە ئىنكاس قىلسىڭىز، بىز تەكلىپىڭىز بويىچە مۇلازىمەتنى تېخىمۇ ياخشىلايمىز.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"دەرس بۆلىكىنى چېكىپ ئۆزگەرتسىڭىز بولىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"چەكسىڭىز ئايلىق كۆرۈنۈشكە قايتىدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"مەۋسۇم ئاياغلاشقان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"ياخشى ئۆرنەك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"ناچار ئۆرنەك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"بۇ ناملىق دەرس جەدۋىلى بار.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"\u200f%1$s (%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"ئايلىق كۆرۈنۈش",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"\u200f%1$s ~ %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"ئىككى بارماقتا سولغا سىيرىپ دەرس جەدۋىلى ئۆچۈرىسىز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"مەۋسۇم باشلانمىغان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"ئەتىنى كۆرۈپ بېقىڭ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"بۈگۈن كۈنتەرتىپ يوق.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"بۈگۈن باشقا ئىش يوق.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"بۇ رەسىم بۇلۇتقا يۈكلىنىپ، AI ئارقىلىق تونۇلىدۇ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"قىزغۇچ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"كۆك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"بىنەپشە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"يېشىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"خەت نۇسخىسى 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"خەت نۇسخىسى 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"خەت نۇسخىسى 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"خەت نۇسخىسى 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"خەت نۇسخىسى 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"ئاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"خەت نۇسخىسى 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"خەت نۇسخىسى 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"خەت نۇسخىسى 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"قىزىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"قارا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"سۈكۈت خەت نۇسخىسى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"ياشكۆك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"چەكسىڭىز رەسىم تاللاش بېتى ئېچىلىدۇ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"سېرىق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"دەرسخانا: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"ئوقۇش نومۇرى: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"ئوقۇتقۇچى: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"ئىزاھات: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"ئاچ كۆك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"ئاچ سېرىق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"قېنىق بىنەپشە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"ئاچ قىزىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"ئاچ ياشكۆك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"ئاچ قىزغۇچ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"ئاچ يېشىل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"نىل بىنەپشە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"ئاچ بىنەپشە",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collision_text",
+            "value":"توقۇنۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"ئۈستەل كالېندارى ئېچىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"ئۈستەل كالېندارى ئېتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"تەگلىك ئۆزلەشتۈرۈش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_agenda",
+            "value":"كۆپ تاللاش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_festive_holiday",
+            "value":"كۆرسىتىش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"festival_holiday_Display",
+            "value":"بايرام ۋە مەۋسۇم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hidden_festive_holiday",
+            "value":"يوشۇرۇش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title1",
+            "value":"تارىختىكى بۈگۈنكى كۈندە كۆرۈلگەن چوڭ ئىشلار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title2",
+            "value":"يۇلتۇز تۈركۈمى ۋە تەلەي ئۇچۇرلىرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title3",
+            "value":"جۇڭگو كالېندارى ۋە ئالاقىدار ئۇچۇرلار ئەينەن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name" : "double_title_guide_text",
+            "value" : "بۇ يەرنى قوش چەكسىڭىز بۇ ھەپتىگە قايتىدۇ.",
+            "attr" : {
+                "priority" : "translate"
+            }
+        },
+        {
+            "name":"create_single_period_popup_text",
+            "value":"چېكىپ ئايرىم دەرس قوشۇڭ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slight_pause_mark",
+            "value":"%1$s، %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"syncing",
+            "value":"ماسقەدەملەۋاتىدۇ...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_succeed",
+            "value":"ماسقەدەملەندى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"synchronize",
+            "value":"ماسقەدەملەش",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_fail",
+            "value":"ماسقەدەملەنمىدى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"caldav_waiting_for_validation",
+            "value":"دەلىللەنمەكچى...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_time_invalid_toast",
+            "value":"ئاياغلىشىش ۋاقتى باشلىنىش ۋاقتىدىن بۇرۇن بولمايدۇ.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"រៀងរាល់ %1$d សប្ដាហ៍នៅ%2$s",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

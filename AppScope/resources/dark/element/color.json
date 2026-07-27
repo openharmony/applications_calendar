@@ -1,0 +1,28 @@
+{
+    "color" : [
+        {
+            "name" : "sub_background",
+            "value" : "#000000"
+        },
+        {
+            "name" : "id_color_privacy_background",
+            "value" : "#121212"
+        },
+        {
+            "name" : "start_window_background",
+            "value" : "#000000"
+        },
+        {
+            "name" : "start_page_background",
+            "value" : "#2e3033"
+        },
+        {
+            "name" : "schedule_share_bg_color",
+            "value" : "#1A1A1A"
+        },
+        {
+            "name" : "caldav_net_background",
+            "value" : "#230A06"
+        }
+    ]
+}

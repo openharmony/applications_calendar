@@ -1,0 +1,20 @@
+{
+  "license": "ISC",
+  "types": "",
+  "devDependencies": {},
+  "name": "@app/feature.agenda",
+  "description": "a npm package which contains arkUI2.0 page",
+  "repository": "",
+  "version": "1.0.0",
+  "main" : "index.ets",
+  "dependencies": {
+    "@app/common": "file:../../common",
+    "@app/common.components": "file:../../commons/components",
+    "@app/feature.repeatrule": "file:../../features/repeatrule",
+    "@app/feature.importexport": "file:../../features/importexport",
+    "@app/service.timezone": "file:../../services/timezone",
+    "@app/commons.repeatruleview": "file:../../commons/repeatruleview",
+    "@app/service.network": "file:../../services/network",
+    "@app/service.attachment": "file:../../services/attachment"
+  }
+}

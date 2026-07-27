@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"vcs_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"(이벤트 %d개)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

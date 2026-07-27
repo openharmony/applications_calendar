@@ -1,0 +1,12 @@
+{
+    "color" : [
+        {
+            "name" : "color_card_bg",
+            "value" : "#2f3034"
+        },
+        {
+            "name" : "color_card_bg_ext",
+            "value" : "#2f3034"
+        }
+    ]
+}

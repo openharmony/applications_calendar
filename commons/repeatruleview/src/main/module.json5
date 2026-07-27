@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "repeatruleView",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

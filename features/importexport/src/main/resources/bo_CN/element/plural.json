@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"vcs_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"ལས་རིམ་ཁ་གྲངས། : %d",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        }
+    ]
+}

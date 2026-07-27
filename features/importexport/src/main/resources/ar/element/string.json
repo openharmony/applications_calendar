@@ -1,0 +1,88 @@
+{
+    "string":[
+        {
+            "name":"important_title_data",
+            "value":"التاريخ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"openharmony_calendar",
+            "value":"تقويم هواوي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"وقت البدء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"vcs_share_account_title",
+            "value":"التقويم:‏ \u202a%1$s\u202c ‏%2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"الاسم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"المكان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_in_progress",
+            "value":"عملية الاستيراد جارية حاليًا، أعد المحاولة لاحقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hint_export_description",
+            "value":"ملاحظات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"طوال اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"وقت الانتهاء",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"importexport_ready_to_share",
+            "value":"جارٍ التجهيز للمشاركة…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"importexport_hide",
+            "value":"إخفاء",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

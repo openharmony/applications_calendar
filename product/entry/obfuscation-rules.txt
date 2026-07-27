@@ -1,0 +1,125 @@
+# Define project specific obfuscation rules here.
+# You can include the obfuscation configuration files in the current module's build-profile.json5.
+#
+# For more details, see
+#   https://gitee.com/openharmony/arkcompiler_ets_frontend/blob/master/arkguard/README.md
+
+# Obfuscation options:
+# -disable-obfuscation: disable all obfuscations
+# -enable-property-obfuscation: obfuscate the property names
+# -enable-toplevel-obfuscation: obfuscate the names in the global scope
+# -compact: remove unnecessary blank spaces and all line feeds
+# -remove-log: remove all console.* statements
+# -print-namecache: print the name cache that contains the mapping from the old names to new names
+# -apply-namecache: reuse the given cache file
+
+# Keep options:
+# -keep-property-name: specifies property names that you want to keep
+# -keep-global-name: specifies names that you want to keep in the global scope
+
+-enable-export-obfuscation
+-enable-toplevel-obfuscation
+
+-keep
+../../oh_modules
+../../features/subfeature/src/main/ets/paf
+
+-keep-global-name
+# namespace下export方法
+BaseColumns
+AccountColumns
+AccountSyncColumns
+EventsColumns
+EventImportantStatus
+EventsEventStatus
+EventsPermission
+EventStatus
+CalendarAlertsColumns
+InstancesColumns
+ParticipantsColumns
+ParticipantsROLE
+ParticipantsType
+ParticipantsStatus
+RemindersColumns
+RemindersRemindType
+REMIND_MINUTES_NO_REMINDER
+AttendeesColumns
+SyncColumns
+CalDavAccountColumns
+CalDavTagColumns
+CalendarMetaDataColumns
+MeetingInfoColumns
+CalendarCacheColumns
+LockTimeZoneKeys
+Tables
+CalendarEntity
+Accounts
+Events
+Instances
+Participants
+Reminders
+Attendees
+MeetingInfo
+CalendarAlerts
+CalendarMetaData
+AppletEntity
+CalDavAccount
+CalDavTag
+AppletRepeatEntity
+CalendarAlertsIndex
+EventsIndex
+EventImportantType
+ImportantConfig
+TagType
+DataState
+AgendaCalendarType
+ServiceVerifyState
+CalendarType
+HwExtServiceType
+AgendaAlertType
+Range
+isSameDateRange
+isDateInRange
+GPosition
+GSize
+GRect
+isPositionInRect
+rectIntersect
+Dimen
+Color
+SignCallBack
+RevokeCallBack
+QueryCallBack
+clientInfo
+userAccount
+getAgreementTypes
+getGrsClient
+context
+windowStage
+AgendaListPage
+# await import动态导入方法
+EventExtractionBridge
+AgendaAlertType
+ServiceVerifyState
+HwExtServiceType
+CalendarType
+permissionPageLoader
+PushServiceWrapper
+pageBuilder
+TelephoneCallWrapper
+permissionChangeDialogLoader
+hiCarMainPageLoader
+guidePageLoader
+harInit
+isNull
+isUndefined
+isNullOrUndefined
+hasKey
+toString
+serviceInit
+
+# 文件不混淆
+# -keep-file-name
+# NavPathName
+# RecessServiceImpl
+# hvigorfile

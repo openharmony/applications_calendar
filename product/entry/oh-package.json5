@@ -1,0 +1,26 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "entry",
+  "description": "example description",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "@app/feature.importexport": "file:../../features/importexport",
+    "@app/common": "file:../../common",
+    "@app/common.components": "file:../../commons/components",
+    "@app/commons.repeatruleview": "file:../../commons/repeatruleview",
+    "@app/feature.yearview": "file:../../features/yearview",
+    "@app/feature.account": "file:../../features/account",
+    "@app/feature.weekview": "file:../../features/weekview",
+    "@app/feature.settings": "file:../../features/settings",
+    "@app/feature.sidebar": "file:../../features/sidebar",
+    "@app/feature.agenda": "file:../../features/agenda",
+    "@app/feature.card": "file:../../features/card",
+    "@app/feature.monthview": "file:../../features/monthview",
+    "@app/feature.repeatrule": "file:../../features/repeatrule",
+    "@app/service.timezone": "file:../../services/timezone",
+    "@app/service.network": "file:../../services/network",
+    "@app/service.attachment": "file:../../services/attachment"
+  }
+}

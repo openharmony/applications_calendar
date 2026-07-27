@@ -1,0 +1,33 @@
+{
+    "plural":[
+        {
+            "name":"card_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_952446]_%d event"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_952445]_%d events"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_952441]_%d events"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_952444]_%d events"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_952443]_%d events"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_952442]_%d events"
+                }
+            ]
+        }
+    ]
+}

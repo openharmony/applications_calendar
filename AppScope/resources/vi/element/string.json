@@ -1,0 +1,3084 @@
+{
+    "string":[
+        {
+            "name":"at_time_of_event",
+            "value":"Tại thời điểm diễn ra sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"Lịch của tôi",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"1 tuần trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"Thứ Sáu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"Thứ Hai",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"Chủ nhật",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"Thứ Tư",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"Thứ Năm",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"Thứ Bảy",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"Thứ Ba",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"TÀI KHOẢN",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"Sự kiện sắp tới",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"(Không có tiêu đề)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"Người tham gia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"Thông báo nhắc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"Hủy",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"Chiều",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_the_same_day",
+            "value":"Hôm nay",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar",
+            "value":"Lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"Kiểu thông báo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"Trợ giúp và phản hồi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"Đang chuyển hướng đến %s…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"Lịch Ba Tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"Ngày quan trọng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"Hiển thị lịch làm việc điều chỉnh cho ngày lễ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"Tuần hiện tại",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"Múi giờ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"Người tham gia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"Tham gia",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_agenda_is_all_done",
+            "value":"Không có thêm sự kiện nào vào hôm nay",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"Được chia sẻ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"Chỉ có lớp học %2$s trong tuần %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"Các sự kiện trước %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"Tất cả sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"Bạn có thể sao chép sự kiện này và dán vào các ứng dụng khác.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"Lưu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close",
+            "value":"Đóng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"Kết thúc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"Xem tất cả sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"Ngày cuối tuần mặc định",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"Mặc định",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"Lịch thay thế",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"Không có sẵn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"month",
+            "value":"Tháng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"Tên",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"ID openharmony",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"Hiển thị những ngày quan trọng ở Dạng xem tháng.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"Chi tiết khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"Sửa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"Sửa môn học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"Bạn có thể chia sẻ lịch này với người khác.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"Lịch Phật Giáo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"Tùy chỉnh ngày cuối tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"Báo lại",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"2 ngày trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"Thông tin cá nhân được thu thập",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"Không có sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"Thông báo nhắc môn học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_important_agenda",
+            "value":"Đêm giao thừa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"Tuần số",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"Sửa sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"Múi giờ khóa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"Nhận lịch chung",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_going",
+            "value":"Đang diễn ra",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"Tên lịch biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"Lịch Do Thái",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"Cả ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"Khác",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"Chạm đúp để bật",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"Sao chép",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"Đồng bộ danh sách việc cần làm theo thời gian từ Sổ tay.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"Thông báo nhắc sự kiện",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"Ngày quan trọng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"Sao chép sự kiện",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"Nhập",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"searching_for_time_zones",
+            "value":"Tìm kiếm múi giờ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"Vị trí",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"morning",
+            "value":"Sáng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"Mặc định trên máy",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"Bạn cần đăng nhập để chia sẻ lịch. Đăng nhập ngay?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"Thông báo nhắc trước giờ học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"Xóa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"Ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"Xóa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"1 giờ trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"Ngày đầu tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"Nhập tên môn học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"Ngày lễ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_each_lesson",
+            "value":"Tất cả lớp học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"Thiết bị này",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"Tất cả các lớp học %s cho khóa học này (cùng giáo viên và địa điểm)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"Lịch Hồi giáo (dạng bảng, kỷ nguyên dân sự)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"Đã sao chép.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_for_first_class_only",
+            "value":"Chỉ lớp học đầu tiên",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"Lịch Quốc gia Ấn Độ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"Sự kiện mới",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"Màu tím",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"Danh bạ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"net_set_text",
+            "value":"Cài đặt mạng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_share",
+            "value":"Bạn sẽ không nhận được thêm bất kỳ tin nhắn nào liên quan đến tài khoản này sau khi rời khỏi.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"T2",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"Ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"Tất cả lịch trình",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"Người tham gia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"Tìm kiếm sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"Đã chia sẻ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"Đã xóa.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"Tất cả các lớp học cho khóa học này",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"Bảo mật và quyền riêng tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"read",
+            "value":"Đã đọc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"Thông báo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"Lớp học %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"Cho phép Lịch tải xuống và cập nhật ngày lễ, tiện ích bổ sung và thông tin lịch?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"Thêm môn học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"Họp trực tuyến",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"Hủy",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"Các tài khoản trên Lịch",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"Thêm nhắc nhở",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"Xóa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"Chia sẻ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"form_openharmony_calendar",
+            "value":"Từ openharmony Lịch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"Tạo sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"Sửa lịch trình",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"Tiêu đề",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"Chia sẻ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"Chọn tiết học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"2 giờ trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"Ngày mai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"Sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_yet_authorized",
+            "value":"Chạm để bắt đầu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"Đang tải…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recent_holiday",
+            "value":"Kỳ nghỉ lễ tiếp theo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"Thời gian",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"Chưa đọc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"Màu nền",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"Xem theo tháng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"Lưu các thay đổi của bạn?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"Tín chỉ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"Chạm đúp để tắt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"Rời khỏi tài khoản chung",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"Nhập tên lịch trình",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"Cho phép",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"year",
+            "value":"Xem lịch cả năm",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"Trạng thái",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"Chọn tất cả",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"Ngừng chia sẻ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"Sửa lịch",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"Xem lịch",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"Danh sách SDK bên thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"Bật nút chuyển %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"T4",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"Màu đỏ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"Không có kết quả nào",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"Lẻ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_switching",
+            "value":"Chuyển đổi chế độ xem",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"Thời gian kết thúc quá muộn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"Màu cam nhạt",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"Chạm đúp để kích hoạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"Giáo viên",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"Ngày kia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"Lưu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"Bỏ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"Đặt thời gian biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before",
+            "value":"Ngày hôm trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"Xóa khóa học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_view",
+            "value":"Tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"Xem tóm tắt",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"Chọn nhiều",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"Chủ Nhật",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"Đường dây nóng dịch vụ khách hàng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"Tạo mới",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today",
+            "value":"Hôm nay",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"T6",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"T5",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"Hiển thị số tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"Tiện ích bổ sung",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"Ngày bắt đầu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"Chẵn",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"Tiết %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"Cần bật tính năng đồng bộ Lịch trong Cloud để chia sẻ lịch. Bật ngay?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"%d phút trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"T7",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"Đã đạt đến giới hạn chia sẻ hằng ngày. Hãy thử lại vào ngày mai.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"Ghi chú",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"Lịch mới",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"Đang chờ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"Xóa lịch này và tất cả các sự kiện trong đó?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"Kết thúc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"Trợ giúp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_title_separate",
+            "value":"%1$s · %2$s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"Thêm tài khoản cá nhân",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"Bật",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"Buổi học cuối tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"Các sự kiện sau %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"Mô tả",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"Cho phép truy cập Internet?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"Chặn liên hệ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"Lịch Trung Quốc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"Xem",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"T3",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"Màu xám",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"Luôn hiển thị ngày và giờ sự kiện theo múi giờ đã chọn.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"Màu xanh lá",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"Tắt nút chuyển %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"Quản lý chia sẻ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"Sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"Xóa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"Bỏ chọn tất",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"Quyền này dùng để quản lý lịch của bạn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"Lớp học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"Cài đặt",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"Ngày hôm kia",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"Trung tâm tin nhắn",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"Tạo lịch trống",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"Hôm qua",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"Thêm",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_preferences",
+            "value":"Cài đặt",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"Thêm thông báo nhắc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"1 ngày trước",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"Không",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"Bạn có thể chia sẻ sự kiện này với người khác.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"Không có sự kiện nào trong bảy ngày tới",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"Màu sắc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"Bắt đầu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"Dành cho các sự kiện kéo dài cả ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_internet_connection",
+            "value":"Không có kết nối Internet",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"Màu cam đậm",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"Đồng bộ danh sách việc cần làm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"Sự kiện",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"card_no_agenda",
+            "value":"Không có sự kiện nào",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"Số tuần",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"Tử vi và nhiều hơn nữa",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"Thêm giờ lên lớp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"Lịch Nhật Bản",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule",
+            "value":"Lịch biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"Hôm nay không có sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"Tuần %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"Xóa sự kiện này?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"Mỗi thứ Bảy đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"Thêm từ Bộ sưu tập",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"Mỗi Chủ nhật thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"Mỗi thứ Tư thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"Mỗi thứ Bảy thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"Mỗi thứ Ba cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"Thời lượng nghỉ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"Mỗi thứ Ba thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"Mỗi thứ Bảy cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"Mỗi thứ Ba thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"Mỗi thứ Tư đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"Mỗi Chủ nhật thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"Thêm lịch học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"Mỗi thứ Bảy thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"Lịch trình môn học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"Số lượng lịch trình đã đạt đến giới hạn tối đa.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"Mỗi thứ Sáu đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"Mỗi thứ Năm thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"Mỗi thứ Sáu thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"Mỗi thứ Tư cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"Mỗi thứ Hai đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"Mỗi thứ Hai thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"Mỗi thứ Năm thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"Thời lượng bài học",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"Mỗi thứ Tư thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"Mỗi thứ Sáu cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"Mỗi thứ Hai cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"Mỗi Chủ nhật thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"Mỗi thứ Hai thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"Xem các lớp học trong tuần.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"Thời khóa biểu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"Mỗi thứ Hai thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"Mỗi thứ Sáu thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"Mỗi thứ Năm đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"Mỗi thứ Sáu thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"Mỗi thứ Tư thứ ba",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"Mỗi thứ Bảy thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"Đã đạt số lượng khóa học tối đa.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"Mỗi Chủ nhật đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"Mỗi thứ Ba đầu tiên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"Mỗi thứ Năm cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"Mỗi thứ Năm thứ hai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"Nhập từ hệ thống quản lý giảng dạy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"Mỗi Chủ nhật cuối cùng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"Mỗi thứ Ba thứ tư",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"Đồng bộ đám mây đã bị tắt. Không thể xem sự kiện từ các thiết bị khác.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"Sự kiện này chưa được đồng bộ. Không thể xem trên thiết bị này.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"Chạm vào %s để chuyển đến ngày đã chọn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"Tài liệu khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"Nhập sự kiện",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"Thêm nhiều tiết học hơn",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"Phông chữ nghệ thuật",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"Chọn từ Bộ sưu tập",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"Cập nhật thời khóa biểu theo thời lượng tiết học và giờ nghỉ mới?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"Định dạng không chuẩn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"Chạm vào các khối để sửa",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"Người tham gia (%d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"Thời khóa biểu của tôi",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"Đang phân tích thời khóa biểu…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"Xóa khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"Đã có lớp học trong thời khóa biểu này. Ghi đè các lớp học này?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"Hướng dẫn tải hình ảnh lên",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"Ví dụ hoàn hảo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"Đã kết thúc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"Có",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"Đóng chi tiết khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"Sọc",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"Đang tối ưu hóa hình ảnh…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"Không có thời khóa biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"Nhập từ tệp tin",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"Đảm bảo màn hình luôn bật. Không rời khỏi ứng dụng này.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"Không",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"Tải lên lại",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"Sửa chi tiết khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"Nghiêng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"Chụp hoặc tải lên một bức ảnh rõ nét và đầy đủ về thời khóa biểu của bạn.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"Ví dụ chưa phù hợp",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"Phân tích hình ảnh không thành công. Vui lòng tải lên hình ảnh mới.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"Chưa bắt đầu",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"Mẹo về hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"Mờ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"Xác nhận thời khóa biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"Đang phân tích tên khóa học…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"Tiếp",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"Đã đạt số lượng tiết học tối đa.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"Nhiều bảng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"Đang phân tích…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"Ghi đè",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"Không có lớp học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"Đã nhập.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"Thời khóa biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"Cho phép Lịch truy cập Bộ sưu tập của bạn?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"Lịch học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"Chuyển đổi số tuần",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"Tiết học đầu tiên bắt đầu vào %s.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"Quyền này được dùng để giúp bạn tìm kiếm hình ảnh liên quan đến khóa học.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"Xóa thời khóa biểu này?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"Từ chối",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"Xem ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"Xóa thời khóa biểu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"Thông báo nhắc giờ học hằng ngày",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"Không phát hiện đối tượng nào",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"Không có album nào",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"Loại bỏ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"Hủy chọn đối tượng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"Chế độ Tiêu chuẩn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lunar_calendar_text",
+            "value":"农历",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"Thanh kéo để thay đổi chế độ xem",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"Chế độ một tuần",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"Chế độ toàn màn hình",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"Theo dõi tiến độ học tập bằng cách nhập lịch học của bạn.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"Bạn có thể thêm lịch học từ thanh bên.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"Giữ tập trung bằng cách báo lại những thông báo mà bạn không muốn bỏ lỡ. Các thông báo được báo lại sẽ xuất hiện lại sau %d phút.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"Tắt đề xuất",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"Chuyển đổi lịch trình",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"Đăng nhập vào ID openharmony để sử dụng tính năng này.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"Bây giờ bạn có thể thêm lịch học vào lịch của mình.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"Để có kết quả tốt nhất, hãy xóa nội dung không liên quan khỏi hình ảnh.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"Chạm để thêm lịch học.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"Báo lại thông báo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"Để báo lại một thông báo, chỉ cần chạm vào \"Báo lại\" trên biểu ngữ hoặc trong Bảng thông báo.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"Dịch vụ xem trước được cung cấp bởi openharmony Lịch\nChạm để cấp quyền",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"Tìm nhanh ảnh đã chụp trong lớp học. Áp dụng cho tất cả thời khóa biểu.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"Gợi ý hình ảnh liên quan",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"Quản lý lịch trình",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"Hôm nay không có tiết học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"Vuốt xuống để quay lại chế độ xem Tháng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"Bạn có thể giúp chúng tôi cải thiện tính năng này bằng cách cho chúng tôi biết khi nào không thể nhập lịch trình. Cung cấp phản hồi bây giờ?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"Chạm vào một khối để sửa.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"Chạm để quay lại chế độ xem Tháng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"Học kỳ đã kết thúc",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"Màu xanh dương",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"Màu chàm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"Vào ngày diễn ra (%d SA)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"Trước %1$d tuần (%2$d SA)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"Như thế này:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"Không phải thế này:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"Tên lịch trình đã tồn tại.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"Dạng xem tháng",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"Từ %1$s đến %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"Vuốt sang phải bằng hai ngón tay để xóa lịch trình khóa học",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"Học kỳ vẫn chưa bắt đầu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"Xem các sự kiện của ngày mai",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"Hôm nay không có sự kiện nào. Chúc bạn có một ngày vui vẻ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"Không có thêm sự kiện nào vào hôm nay",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"Hình ảnh của bạn sẽ được tải lên đám mây để AI nhận dạng.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"Màu cam",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"Xanh lam",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"Tím",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"Xanh lá",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"Phông chữ 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"Phông chữ 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"Phông chữ 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"Phông chữ 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"Phông chữ 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"Trắng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"Phông chữ 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"Phông chữ 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"Phông chữ 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"Đỏ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"Đen",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"Phông chữ mặc định",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"Xanh lơ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"Chạm để vào và chọn một hình ảnh",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"Vàng",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"Lớp học: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"Số tín chỉ: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"Giáo viên: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"Nhận xét: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"Xanh nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"Vàng nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"Tím hạt dẻ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"Đỏ nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"Xanh lơ nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"Cam nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"Xanh lá cây nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"Chàm",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"Tím nhạt",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collision_text",
+            "value":"Trùng giờ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"Chế độ xem áp phích",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"Thoát chế độ xem áp phích",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"Tùy chỉnh hình nền",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_agenda",
+            "value":"Chọn nhiều mục",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_festive_holiday",
+            "value":"Hiển thị",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"festival_holiday_Display",
+            "value":"Các ngày lễ và tiết khí",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hidden_festive_holiday",
+            "value":"Ẩn",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title1",
+            "value":"Tìm hiểu những sự kiện đã diễn ra vào ngày này trong lịch sử.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title2",
+            "value":"Theo dõi tử vi hằng ngày mọi lúc, mọi nơi.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title3",
+            "value":"Kiểm tra ngày đẹp một cách nhanh chóng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_title_guide_text",
+            "value":"Hãy chạm đúp để quay lại tuần này nhanh chóng.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"create_single_period_popup_text",
+            "value":"Chạm để thêm một tiết học.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slight_pause_mark",
+            "value":"%1$s, %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"syncing",
+            "value":"Đang đồng bộ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_succeed",
+            "value":"Lịch đã được đồng bộ.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"caldav_waiting_for_validation",
+            "value":"Đang đợi xác minh…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"synchronize",
+            "value":"Đồng bộ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_fail",
+            "value":"Không đồng bộ được.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_time_invalid_toast",
+            "value":"Thời gian kết thúc không được sớm hơn thời gian bắt đầu.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

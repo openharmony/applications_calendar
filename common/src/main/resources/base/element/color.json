@@ -1,0 +1,172 @@
+{
+    "color" : [
+        {
+            "name" : "main_background",
+            "value" : "#F7F7F7"
+        },
+        {
+            "name" : "sub_background",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "hover_background",
+            "value" : "#0D000000"
+        },
+        {
+            "name" : "press_background",
+            "value" : "#1a000000"
+        },
+        {
+            "name" : "default_background",
+            "value" : "#00000000"
+        },
+        {
+            "name" : "id_color_system_background",
+            "value" : "#f2f3f5"
+        },
+        {
+            "name" : "textColorSecondary",
+            "value" : "#99000000"
+        },
+        {
+            "name" : "buttonBackgroundColor",
+            "value" : "#E3E6E8"
+        },
+        {
+            "name" : "red_common",
+            "value" : "#f76045"
+        },
+        {
+            "name" : "blue_common",
+            "value" : "#0A59F7"
+        },
+        {
+            "name" : "in_app_tip_bg",
+            "value" : "#0C182431"
+        },
+        {
+            "name" : "id_color_card_gradient_start",
+            "value" : "#00ffffff"
+        },
+        {
+            "name" : "id_color_card_gradient",
+            "value" : "#ffffff"
+        },
+        {
+            "name" : "id_color_card_gray_gradient_start",
+            "value" : "#00f1f3f5"
+        },
+        {
+            "name" : "id_color_card_gray_gradient",
+            "value" : "#f1f3f5"
+        },
+        {
+            "name" : "id_color_privacy_background",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "lunar_year_first_day_line_color",
+            "value" : "#0A59F7"
+        },
+        {
+            "name" : "slide_tab_bar_button_color",
+            "value" : "#FFFFFF"
+        },
+        {
+            "name" : "new_years_day_number_color",
+            "value" : "#FF6361"
+        },
+        {
+            "name" : "new_years_day_string_color",
+            "value" : "#99FF6361"
+        },
+        {
+            "name" : "spring_festival_number_color",
+            "value" : "#FF6361"
+        },
+        {
+            "name" : "spring_festival_string_color",
+            "value" : "#99FF6361"
+        },
+        {
+            "name" : "qingming_festival_number_color",
+            "value" : "#53AE5C"
+        },
+        {
+            "name" : "qingming_festival_string_color",
+            "value" : "#9953AE5C"
+        },
+        {
+            "name" : "labor_day_number_color",
+            "value" : "#D67E25"
+        },
+        {
+            "name" : "labor_day_string_color",
+            "value" : "#99D67E25"
+        },
+        {
+            "name" : "dragon_boat_festival_number_color",
+            "value" : "#53AE5C"
+        },
+        {
+            "name" : "dragon_boat_festival_string_color",
+            "value" : "#9953AE5C"
+        },
+        {
+            "name" : "mid_autumn_festival_number_color",
+            "value" : "#F86C46"
+        },
+        {
+            "name" : "mid_autumn_festival_string_color",
+            "value" : "#99F86C46"
+        },
+        {
+            "name" : "national_day_number_color",
+            "value" : "#FF6361"
+        },
+        {
+            "name" : "national_day_string_color",
+            "value" : "#99FF6361"
+        },
+        {
+            "name" : "qixi_festival_number_color",
+            "value" : "#F86C46"
+        },
+        {
+            "name" : "qixi_festival_string_color",
+            "value" : "#99F86C46"
+        },
+        {
+            "name" : "double_ninth_festival_number_color",
+            "value" : "#D67E25"
+        },
+        {
+            "name" : "double_ninth_festival_string_color",
+            "value" : "#99D67E25"
+        },
+        {
+            "name" : "holiday_block_title_color",
+            "value" : "#99000000"
+        },
+        {
+            "name" : "holiday_block_bg_color",
+            "value" : "#0F000000"
+        },
+        {
+            "name" : "holiday_block_bg_focus_color",
+            "value" : "#33000000"
+        },
+        {
+            "name" : "pop_background_color",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "agenda_list_item_select",
+            "value" : "#F3F3F3"
+        },
+        {
+            "name" : "start_page_background",
+            "value" : "#F1F3F5"
+        }
+    ]
+}

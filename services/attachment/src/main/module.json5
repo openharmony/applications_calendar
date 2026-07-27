@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "service.attachment",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
