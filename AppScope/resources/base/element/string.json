@@ -1,0 +1,3175 @@
+{
+    "string":[
+        {
+            "name":"agenda_title_separate",
+            "value":"%1$s · %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar",
+            "value":"Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"today",
+            "value":"Today",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"year",
+            "value":"Year",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month",
+            "value":"Month",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"form_DayFormAbility_desc",
+            "value":"form_description"
+        },
+        {
+            "name":"form_DayFormAbility_label",
+            "value":"form_label"
+        },
+        {
+            "name":"day_form_description",
+            "value":"Calendar Day Form"
+        },
+        {
+            "name":"month_form_description",
+            "value":"Calendar Month Form"
+        },
+        {
+            "name":"menu_preferences",
+            "value":"Settings",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"Alternate calendars",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"None",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"Chinese Calendar",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"Japanese Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"Persian Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"Hebrew Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"Islamic Calendar (tabular, civil epoch)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"Buddhist Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"Indian National Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"Holidays",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"Sync to-dos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"Sync time-based to-dos from Notepad.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"Important days",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"Show important days in Month view.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"Add-ons",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"Calendar view",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"Show adjusted work schedule for holidays",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"Show week number",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"Week starts on",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"Cancel",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"Delete",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"Discard",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"Save",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"Allow",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"Allow Internet access?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"Allow Calendar to download and update holiday dates, add-ons, and calendar info?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"Local default",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"Customize weekend",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"Use default weekend",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"Lock time zone",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"Always show event times and dates in the selected time zone.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_event_timezone_title",
+            "value":"TIME ZONE"
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"Time zone",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"Reminders",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"Notifications",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"Default",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"For all-day events",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"Security & privacy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"Third-party SDK list",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"Personal information collected",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"Help & feedback",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"Help",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"Customer service hotline",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_network_title",
+            "value":"Network"
+        },
+        {
+            "name":"Monday",
+            "value":"Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"Saturday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"Mon",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"Tue",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"Wed",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"Thu",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"Fri",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"Sat",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"Sun",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"Events before %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"Events after %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"No events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"Event",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"View all events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"All events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"Search for events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"No results",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"Start",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"End",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"Date",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"All day",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"New event",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"Title",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"Important day",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"Location",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"Delete",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"Cancel",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"Select all",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"Deselect all",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"Copy",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"Delete this event?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"Description",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"Accounts",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"My calendar",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"Edit",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"Edit event",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"china_standard_time",
+            "value":"GMT+8:00 China Standard Time"
+        },
+        {
+            "name":"no_title_label",
+            "value":"(No title)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"Save your changes?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"Save",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"Snooze",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"close",
+            "value":"Close",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"%d minutes before",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"1 hour before",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"2 hours before",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"2 days before",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"1 week before",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"On the day (%d AM)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_day_one_day_before",
+            "value":"1 day before (9 AM)"
+        },
+        {
+            "name":"all_day_two_days_before",
+            "value":"2 days before (9 AM)"
+        },
+        {
+            "name":"all_day_three_days_before",
+            "value":"3 days before (9 AM)"
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"%1$d week before (%2$d AM)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"Add reminder",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"1 day before",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"at_time_of_event",
+            "value":"At time of event",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"Loading\u2026",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"Yesterday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"Day before yesterday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"Tomorrow",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"Day after tomorrow",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"This is used to manage your calendar.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"Event",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"Select multiple",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"Month view",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"description_Today_Agenda_Card",
+            "value":"Today's schedule"
+        },
+        {
+            "name":"week_view",
+            "value":"Week",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"Day",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_schedule_today_tip",
+            "value":"No schedule today. Click to create the schedule"
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"View",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"Share",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"Edit",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"Delete",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"New event",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_can_not_delete",
+            "value":"This Agenda Can't Delete"
+        },
+        {
+            "name":"morning",
+            "value":"AM",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"PM",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"Add reminder",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"You can copy this event and paste it into other apps.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"Copied.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"Copy event",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"This device",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"Calendar accounts",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"openharmony ID",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"Add personal account",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"New calendar",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"Name",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"Color",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"Red",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"Dark orange",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"Light orange",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"Green",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"Blue",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"Indigo",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"Purple",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"Gray",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"Other",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"Edit calendar",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"Delete this calendar and all its events?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"Join",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"on_going",
+            "value":"In progress",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"Online meeting",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"Participants",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"Participants",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_prefix",
+            "value":"Total"
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"Participants",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"Upcoming events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"Month view",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"No events today",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"No events for the next seven days",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"Add",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"Message center",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"Unread",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"read",
+            "value":"Read",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"Shared",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"Receive shared calendars",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"Block contacts",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"Remove",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"Removed.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"Pending",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"Stop sharing",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"Manage sharing",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"Status",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"Event reminders",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"Leave shared account",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"You can share this calendar with other people.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"Daily sharing limit reached. Try again tomorrow.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"You need to be logged in to share calendars. Log in now?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"Calendar syncing needs to be enabled in Cloud to share calendars. Enable now?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"Enable",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_all_schedules",
+            "value":"View all schedules in your account"
+        },
+        {
+            "name":"exit_share",
+            "value":"You won't receive any more messages related to this account once you leave.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"You can share this event with other people.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"go_back_today",
+            "value":"Today",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"today_agenda_is_all_done",
+            "value":"No more events today",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"card_no_agenda",
+            "value":"No events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"work_scheduler_label",
+            "value":"work_scheduler_label"
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"Shared",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_yet_authorized",
+            "value":"Tap to get started",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_important_agenda",
+            "value":"New Year's Eve",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recent_holiday",
+            "value":"Next holiday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule",
+            "value":"Schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"Settings",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"Import",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"Share",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"Add course",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"Edit course",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"Background color",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"Select periods",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"Week No.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"Add class time",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"All schedules",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"Create new",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"Edit schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"Starts on",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"Current week",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"Number of weeks",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"Weekend lessons",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"Set timetable",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"Course reminders",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"Pre-class reminders",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"Notification style",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_each_lesson",
+            "value":"All classes",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_first_class_only",
+            "value":"First class only",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"Time",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before",
+            "value":"Day before",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"on_the_same_day",
+            "value":"Today",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"form_openharmony_calendar",
+            "value":"From openharmony Calendar",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"Week %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"Period %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_internet_connection",
+            "value":"No Internet connection",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"net_set_text",
+            "value":"Network settings",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_switching",
+            "value":"Switch views",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"searching_for_time_zones",
+            "value":"Search time zones",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"Horoscopes and more",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"View summary",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"Course details",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"Schedule name",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"End",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"Classroom",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"Teacher",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"Credits",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"Remarks",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"Enter course name",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"Enter schedule name",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"Lesson duration",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"Break duration",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"Number of schedules has reached the upper limit.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"Add course schedule",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"Import from teaching administration system",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"Add from Gallery",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"Standard mode",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"Single week mode",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"Full screen mode",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"Draggable bar to change view",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"Contacts",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"Redirecting to %s…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"On, %s, switch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"Off, %s, switch",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"Unavailable",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"Double tap to activate",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"Double tap to turn off",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"Double tap to turn on",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"Class %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"End time is too late.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"Delete course",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"Create blank schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"All %s classes for this course (same teacher and location)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"Only the %2$s class in week %1$s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"All classes for this course",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"Odd",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"Even",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"Course schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"Every first Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"Every first Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"Every first Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"Every first Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"Every first Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"Every first Saturday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"Every first Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"Every second Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"Every second Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"Every second Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"Every second Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"Every second Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"Every second Saturday",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"Every second Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"Every third Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"Every third Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"Every third Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"Every third Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"Every third Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"Every third Saturday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"Every third Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"Every fourth Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"Every fourth Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"Every fourth Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"Every fourth Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"Every fourth Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"Every fourth Saturday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"Every fourth Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"Every last Monday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"Every last Tuesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"Every last Wednesday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"Every last Thursday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"Every last Friday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"Every last Saturday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"Every last Sunday",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"Max number of courses reached.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"Class schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"View your classes for the week.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"Tap %s to go to the selected date.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"This event hasn't been synced. Unable to view on this device.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"Cloud sync is disabled. Unable to view events from other devices.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"No course schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"No classes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"Update the schedule according to the new period and break lengths?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"Yes",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"No",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"My course schedule",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"Not started",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"Ended",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"Optimizing image…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"Keep the screen on. Don't leave this app.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"Parsing course name…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"Upload again",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"Next",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"Parsing schedule…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"There are already classes in this schedule. Overwrite them?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"Overwrite",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"Add more periods",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"Image upload guide",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"Parsing…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"Image parsing failed. Please upload a new image.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"Imported.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"Participants (%d)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"Course materials",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"Maximum number of course periods reached.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"Tap blocks to edit",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"Delete course",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"Edit course details",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"Close course details",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"Confirm schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"Schedule name already exists.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"Import events",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"Import from file",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"Image tips",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"Course schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"Upload a clear and complete photo of your course schedule.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"Perfect example",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"Poor examples",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"Select from Gallery",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"Slanted",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"Blurry",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"Multiple tables",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"Streaky",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"Non-standard format",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"Artistic fonts",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"First period starts at %s.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"Delete course schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"Switch week number",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"Delete this course schedule?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"Schedule",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"View photos",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"Allow Calendar to access your Gallery?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"This is used to help you find images related to the course.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"Deny",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"lunar_calendar_text",
+            "value":"农历",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"Daily class reminders",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"No objects detected",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"No albums",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"Cut out",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"Cancel cutout",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"Disable recommendations",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"Switch schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"Log in to your openharmony ID to use this feature.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"You can now add course schedules to your calendar.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"Tap to add a course schedule.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"Stay on top of your studies by importing your course schedules.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"You can add course schedules from the sidebar.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"Snooze notifications",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"Stay focused by snoozing notifications you don't want to miss. Snoozed notifications reappear after %d minutes.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"To snooze a notification, simply tap \"Snooze\" on the banner or in the Notification Panel.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"For the best results, remove unrelated content from the image.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"Preview service provided by openharmony Calendar\nTap to authorize",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"Suggest related images",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"Quickly find photos taken during classes. Applies to all course schedules.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"You can help us improve this feature by letting us know when a schedule can't be imported. Provide feedback now?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"No classes today",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"Term has ended",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"Tap on a block to edit it.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"Manage schedule",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"Swipe down to return to Month view.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"Tap to return to Month view.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"Like this:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"Not this:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"From %1$s to %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"Swipe right with two fingers to delete the course schedule",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"Semester has not started yet",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"View tomorrow's events",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"No events today. Enjoy your day.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"No more events today",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"Your image will be uploaded to the cloud for AI identification.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"Tap to go and select an image",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"Black",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"White",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"Red",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"Orange",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"Yellow",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"Cyan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"Green",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"Blue",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"Purple",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"Default font",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"Font 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"Font 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"Font 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"Font 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"Font 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"Font 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"Font 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"Font 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"Teacher: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"Classroom: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"Credits: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"Remarks: %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"Light red",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"Light orange",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"Light yellow",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"Light cyan",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"Light green",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"Light blue",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"Light purple",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"Maroon",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"Indigo",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collision_text",
+            "value":"Time conflict",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"Poster view",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"Exit poster view",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"Customize wallpaper",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_agenda",
+            "value":"Select multiple",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_festive_holiday",
+            "value":"Show",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hidden_festive_holiday",
+            "value":"Hide",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"festival_holiday_Display",
+            "value":"Holidays & solar terms",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title1",
+            "value":"Discover what happened on this day in history.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title2",
+            "value":"Read your daily horoscope on the go.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title3",
+            "value":"Check auspicious dates at a glance.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name" : "double_title_guide_text",
+            "value" : "Double-tap to quickly return to this week.",
+            "attr" : {
+                "priority" : "translate"
+            }
+        },
+        {
+            "name":"create_single_period_popup_text",
+            "value":"Touch to add a single period.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name": "slight_pause_mark",
+            "value": "%1$s, %2$s",
+            "attr": {
+                "priority": "translate"
+            }
+        },
+        {
+            "name":"syncing",
+            "value":"Syncing…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_succeed",
+            "value":"Calendar synced.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"caldav_waiting_for_validation",
+            "value":"Waiting for verification…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"synchronize",
+            "value":"Sync",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_fail",
+            "value":"Unable to sync.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar_ding_ding_domain",
+            "value":"calendar.dingtalk.com"
+        },
+        {
+            "name":"uri_formatter",
+            "value":"hwtips://com.openharmony.tips.app?funNum=%s&type=%s"
+        },
+        {
+            "name":"tpis_app_id",
+            "value":"com.openharmony.tips_BB4oLXt8JLOw5djd42S0oLOGzO6kOnT8hZfFRAAel2gbcQBG5jIsO4genni5cn2SQpKpKvkwOA7Ajsc7qf+MZgM="
+        },
+        {
+            "name":"moudle_name_appgallery",
+            "value":"com.openharmony.appgallery"
+        },
+        {
+            "name":"uri_appgallery",
+            "value":"store://appgallery.openharmony.com/app/detail?id=com.openharmony.tips"
+        },
+        {
+            "name":"end_time_invalid_toast",
+            "value":"The end time cannot be earlier than the start time.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

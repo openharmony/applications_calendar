@@ -1,0 +1,3084 @@
+{
+    "string":[
+        {
+            "name":"at_time_of_event",
+            "value":"이벤트 시점",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"내 캘린더",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"1주 전에",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"금요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"월요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"일요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"수요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"목요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"토요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"화요일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"계정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"예정된 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"(제목 없음)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"참가자",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"미리 알림",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"취소",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"PM",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_the_same_day",
+            "value":"오늘",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar",
+            "value":"캘린더",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"알림 스타일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"도움말 및 피드백",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"%s 앱으로 리디렉션 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"페르시아력",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"중요한 날",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"공휴일이 반영된 업무 일정 표시",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"이번 주",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"표준시간대",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"참가자",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"참여",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_agenda_is_all_done",
+            "value":"오늘 더 이상의 이벤트 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"공유된 항목",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"%1$s주차에 %2$s 클래스만",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"%s 이전 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"모든 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"이 이벤트를 복사하여 타사 앱에 붙여넣을 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"저장",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close",
+            "value":"닫기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"종료",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"모든 이벤트 보기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"기본 주말 기준",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"기본값",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"대체 캘린더",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"사용 불가",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"month",
+            "value":"월",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"이름",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"openharmony ID",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"월간 보기에서 중요한 날을 표시합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"코스 상세정보",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"편집",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"코스 편집",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"이 캘린더를 다른 사람들과 공유할 수 있습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"불교력",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"사용자 설정 주말 기준",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"다시 알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"2일 전",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"수집되는 개인정보",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"일정 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"코스 미리 알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_important_agenda",
+            "value":"새해 전날",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"주 번호",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"일정 수정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"표준시간대 잠금",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"공유 캘린더 수신",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_going",
+            "value":"진행 중",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"일정 이름",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"히브리력",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"종일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"기타",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"두 번 탭하여 켜기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"복사",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"메모장에서 시간별 할 일을 동기화합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"이벤트 미리 알림",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"중요한 날",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"이벤트 복사",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"가져오기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"searching_for_time_zones",
+            "value":"표준시간대 검색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"위치",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"morning",
+            "value":"AM",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"현지 기본값",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"캘린더를 공유하려면 로그인이 필요합니다. 지금 로그인하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"수업 전 알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"제거",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"1시간 전에",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"한 주의 시작",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"코스 이름 입력",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"휴일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_each_lesson",
+            "value":"모든 수업",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"이 장치",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"이 코스의 모든 %s 클래스(교사 및 위치 동일)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"이슬람 상용력",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"복사되었습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_for_first_class_only",
+            "value":"첫 수업만",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"인도력",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"새 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"보라색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"주소록",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"net_set_text",
+            "value":"네트워크 설정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_share",
+            "value":"나가면 이 계정과 관련된 메시지가 더 이상 수신되지 않습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"월",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"날짜",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"모든 일정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"참가자",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"이벤트 검색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"공유됨",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"제거됨.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"이 코스의 모든 클래스",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"보안 및 개인 정보 보호",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"read",
+            "value":"읽기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"클래스 %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"캘린더에서 공휴일 날짜, 애드온, 캘린더 정보를 다운로드하고 업데이트할 수 있도록 허용하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"코스 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"온라인 회의",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"취소",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"캘린더 계정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"미리 알림 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"공유",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"form_openharmony_calendar",
+            "value":"openharmony 캘린더에서",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"새 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"일정 편집",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"확인",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"제목",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"공유",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"기간 선택",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"2시간 전에",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"내일",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"수정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_yet_authorized",
+            "value":"탭하여 시작하기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"로드 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recent_holiday",
+            "value":"다음 공휴일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"시간",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"확인",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"읽지 않음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"배경색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"월간 보기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"변경 사항을 저장하시겠습니까?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"크레딧",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"두 번 탭하여 끄기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"공유 계정 나가기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"일정 이름 입력",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"허용",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"year",
+            "value":"년",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"상태",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"모두 선택",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"공유 중지",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"캘린더 편집",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"캘린더 보기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"타사 SDK 목록",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"켜기, %s, 스위치",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"수",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"빨간색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"결과 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"홀수",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_switching",
+            "value":"보기 전환",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"종료 시간이 너무 늦습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"연한 주황색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"두 번 탭하여 활성화",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"교사",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"모레",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"저장",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"시간표 설정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before",
+            "value":"어제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"코스 삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_view",
+            "value":"주",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"요약 보기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"다중 선택",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"고객 서비스 핫라인",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"새로 만들기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today",
+            "value":"오늘",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"금",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"목",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"몇째 주인지 표시",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"애드온",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"시작일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"짝수",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"기간 %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"캘린더를 공유하려면 Cloud에서 캘린더 동기화를 실행해야 합니다. 지금 실행하시겠습니까?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"%d분 전",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"토",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"일일 공유 한도에 도달했습니다. 내일 다시 시도하십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"설명",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"새 캘린더",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"대기 중",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"이 캘린더와 모든 관련 일정을 삭제하시겠습니까?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"종료일",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"도움말",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_title_separate",
+            "value":"%1$s · %2$s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"개인 계정 추가",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"실행",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"주말 강의",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"%s 이후 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"설명",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"인터넷 액세스를 허용하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"연락처 차단",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"음력 달력",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"보기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"화",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"회색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"항상 이벤트 시간 및 날짜를 선택한 표준시간대로 표시합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"녹색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"끄기, %s, 스위치",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"공유 관리",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"모두선택 취소",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"이 권한은 캘린더를 관리하는 데 사용됩니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"교실",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"설정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"그저께",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"메시지 센터",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"빈 일정 만들기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"어제",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_preferences",
+            "value":"설정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"미리 알림 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"1일 전",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"없음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"이 이벤트를 다른 사람들과 공유할 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"다음 7일간 이벤트 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"컬러",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"시작",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"종일 이벤트",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_internet_connection",
+            "value":"인터넷 연결 없음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"짙은 주황색",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"할 일 동기화",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"이벤트",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"card_no_agenda",
+            "value":"이벤트 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"주 수",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"운세 및 기타",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"수업 시간 추가",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"일본력",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule",
+            "value":"일정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"오늘 이벤트 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"%s주차",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"이 이벤트를 삭제하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"첫 번째 토요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"갤러리에서 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"두 번째 일요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"네 번째 수요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"세 번째 토요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"마지막 화요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"휴식 시간",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"세 번째 화요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"마지막 토요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"두 번째 화요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"첫 번째 수요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"세 번째 일요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"코스 일정 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"두 번째 토요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"코스 일정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"일정 수가 상한에 도달했습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"첫 번째 금요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"세 번째 목요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"네 번째 금요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"마지막 수요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"첫 번째 월요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"네 번째 월요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"네 번째 목요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"레슨 시간",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"두 번째 수요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"마지막 금요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"마지막 월요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"네 번째 일요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"세 번째 월요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"이번 주의 수업을 봅니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"수업 일정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"두 번째 월요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"세 번째 금요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"첫 번째 목요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"두 번째 금요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"세 번째 수요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"네 번째 토요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"최대 수의 코스에 도달했습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"첫 번째 일요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"첫 번째 화요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"마지막 목요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"두 번째 목요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"교습 행정 시스템에서 가져오기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"마지막 일요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"네 번째 화요일마다",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"Cloud 동기화가 종료되었습니다. 다른 장치의 이벤트를 볼 수 없습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"이 이벤트는 동기화되지 않았습니다. 이 장치에서 볼 수 없습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"%s 날짜를 탭하여 선택한 날짜로 이동합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"교재",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"이벤트 가져오기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"더 많은 기간 추가",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"아티스틱 글꼴",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"갤러리에서 선택",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"새로운 기간과 휴식 시간에 따라 일정을 업데이트하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"비표준 형식",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"블록 탭하여 편집",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"참가자(%d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"내 코스 일정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"일정 구문 분석 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"코스 삭제",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"이 일정에는 이미 수업이 있습니다. 덮어쓰시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"이미지 업로드 가이드",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"좋은 예",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"종료됨",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"예",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"코스 상세정보 닫기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"줄이 보임",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"이미지 최적화 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"코스 일정 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"파일에서 가져오기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"화면을 켠 상태로 유지하십시오. 이 앱에서 나가지 마십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"아니요",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"다시 업로드",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"코스 상세정보 편집",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"기울어짐",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"수업 일정의 명확하고 완전한 사진을 업로드합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"나쁜 예",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"이미지 구문 분석에 실패했습니다. 새 이미지를 업로드하십시오.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"시작하지 않음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"이미지 도움말",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"흐리게 나옴",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"일정 확인",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"코스 이름 구문 분석 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"다음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"최대 코스 기간 수에 도달했습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"여러 표",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"구문 분석 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"덮어쓰기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"수업 없음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s(%2$s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"가져왔습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"코스 일정",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"캘린더의 갤러리 액세스를 허용하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"일정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"주별 숫자 전환",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"첫 시간이 %s에 시작합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"코스와 관련된 이미지를 찾는 데 사용됩니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"이 코스 일정을 삭제하시겠습니까?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"거부",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"사진 보기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"코스 일정 삭제",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"일일 수업 미리 알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"감지된 개체 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"앨범 없음",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"잘라내기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"컷아웃 취소",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"표준 모드",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lunar_calendar_text",
+            "value":"农历",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"보기를 변경하는 드래그할 수 있는 표시줄",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"단일 주간 모드",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"전체 화면 모드",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"코스 일정을 가져와서 학습 상황을 파악합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"사이드바에서 코스 일정을 추가할 수 있습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"놓치고 싶지 않은 알림은 다시 알림을 설정하여 집중할 수 있습니다. 다시 알림은 %d분 후에 다시 나타납니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"추천 종료",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"일정 전환",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"이 기능을 사용하려면 openharmony ID에 로그인하십시오.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"이제 코스 일정을 캘린더에 추가할 수 있습니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"최상의 결과를 위해 이미지에서 관련이 없는 콘텐츠를 제거합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"코스 일정을 추가하려면 탭합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"알림 다시 알림",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"알림을 나중에 다시 알리려면 배너나 알림 패널에서 \"다시 알림\"을 탭합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"openharmony 캘린더에서 제공하는 미리보기 서비스\n탭하여 승인",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"수업 중에 촬영한 사진을 빠르게 찾습니다. 모든 코스 일정에 적용됩니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"관련 이미지 추천",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"일정 관리",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"오늘 수업 없음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"아래로 스와이프하여 월간 보기로 돌아갑니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"일정을 가져올 수 없을 경우 알려주시면 이 기능을 개선하는 데 도움이 됩니다. 지금 피드백을 제공하시겠습니까?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"블록을 탭하여 편집합니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"탭하여 월간 보기로 돌아갑니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"학기가 종료됨",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"파란색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"남색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"당일(오전 %d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"%1$d주 전(오전 %2$d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"좋은 예:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"나쁜 예:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"일정 이름이 이미 존재합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"%1$s(%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"월간 보기",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"%1$s에서 %2$s까지",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"두 손가락으로 오른쪽으로 스와이프하여 코스 일정 삭제",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"학기가 아직 시작되지 않았습니다",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"내일 이벤트 보기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"오늘은 이벤트가 없습니다. 좋은 하루 보내시기 바랍니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"오늘 더 이상의 이벤트 없음",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"이미지는 AI 식별을 위해 클라우드에 업로드됩니다.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"주황색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"파란색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"보라색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"녹색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"글꼴 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"글꼴 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"글꼴 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"글꼴 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"글꼴 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"흰색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"글꼴 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"글꼴 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"글꼴 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"빨간색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"검은색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"기본 글꼴",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"청록색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"탭하여 이동하고 이미지 선택",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"노란색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"교실: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"크레딧: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"교사: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"비고: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"연한 파란색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"연한 노란색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"고동색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"연한 빨간색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"연한 청록색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"연한 주황색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"연한 녹색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"남색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"연한 보라색",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collision_text",
+            "value":"시간 겹침",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"포스터 보기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"포스터 보기 끝내기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"배경화면 사용자 설정",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_agenda",
+            "value":"복수 선택",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_festive_holiday",
+            "value":"표시",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"festival_holiday_Display",
+            "value":"연휴 및 절기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hidden_festive_holiday",
+            "value":"숨기기",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title1",
+            "value":"역사 속 오늘, 무슨 일이 일어났는지 알아봅니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title2",
+            "value":"이동 중에도 일일 별자리 운세를 읽어볼 수 있습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title3",
+            "value":"한 눈에 길조 날짜를 확인합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name" : "double_title_guide_text",
+            "value" : "두 번 탭하면 이번 주로 빠르게 돌아갑니다.",
+            "attr" : {
+                "priority" : "translate"
+            }
+        },
+        {
+            "name":"create_single_period_popup_text",
+            "value":"터치하여 하나의 기간을 추가합니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slight_pause_mark",
+            "value":"%1$s, %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"syncing",
+            "value":"데이터 동기화 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_succeed",
+            "value":"캘린더가 동기화되었습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"caldav_waiting_for_validation",
+            "value":"확인 대기 중…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"synchronize",
+            "value":"데이터 동기화",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_fail",
+            "value":"동기화할 수 없습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_time_invalid_toast",
+            "value":"종료 시간은 시작 시간보다 빠를 수 없습니다.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

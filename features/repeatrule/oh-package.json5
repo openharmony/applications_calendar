@@ -1,0 +1,13 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "@app/feature.repeatrule",
+  "description": "Please describe the basic information.",
+  "version": "1.0.0",
+  "main": "",
+  "author": "",
+  "dependencies": {
+    "@app/common": "file:../../common",
+  }
+}
+

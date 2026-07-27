@@ -1,0 +1,39 @@
+{
+    "color" : [
+        {
+            "name" : "main_background",
+            "value" : "#F7F7F7"
+        },
+        {
+            "name" : "sub_background",
+            "value" : "#feefec"
+        },
+        {
+            "name" : "id_color_privacy_background",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "start_window_background",
+            "value" : "#F1F3F5"
+        },        {
+            "name" : "color_privacy_background_black",
+            "value" : "#1A1A1A"
+        },
+        {
+            "name" : "color_privacy_background",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "start_page_background",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "schedule_share_bg_color",
+            "value" : "#F1F3F5"
+        },
+        {
+            "name" : "caldav_net_background",
+            "value" : "#FCE3DF"
+        }
+    ]
+}

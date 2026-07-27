@@ -1,0 +1,14 @@
+{
+  "license" : "ISC",
+  "devDependencies" : {},
+  "name" : "@app/feature.account",
+  "description" : "calendar account",
+  "repository" : {},
+  "version" : "1.0.0",
+  "main": 'index.ets',
+  "dependencies" : {
+    "@app/common" : "file:../../common",
+    "@app/common.components" : "file:../../commons/components",
+    "@app/feature.importexport": "file:../../features/importexport"
+  }
+}

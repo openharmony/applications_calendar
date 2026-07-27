@@ -1,0 +1,45 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"None",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"On the day (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d day before (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"2 days before (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d days before (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"1 week before (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

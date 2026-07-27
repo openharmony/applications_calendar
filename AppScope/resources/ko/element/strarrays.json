@@ -1,0 +1,45 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"없음",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"당일(%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d일 전(%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"2일 전(%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d일 전(%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"1주 전(%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

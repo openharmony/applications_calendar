@@ -1,0 +1,45 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"མེད།",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"ཉིན་དེ་ག (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"ཉིན་ %1$d གོང་། (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"ཉིན་ 2 གོང་། (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"ཉིན་ %1$d གོང་། (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"གཟའ་འཁོར་ 1 གོང་། (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

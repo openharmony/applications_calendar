@@ -1,0 +1,18 @@
+{
+    "string":[
+        {
+            "name":"all_day_on_the_day",
+            "value":"当天(上午 %d 点)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"%1$d 周前(上午 %2$d 点)",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

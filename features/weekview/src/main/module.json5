@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.weekview",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

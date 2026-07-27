@@ -1,0 +1,13 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "@app/feature.card",
+  "description": "a npm package which contains arkUI2.0 page",
+  "main": "index.ets",
+  "repository": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@app/common": "file:../../common",
+    "@app/feature.agenda" : "file:../../features/agenda"
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"無",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "value":"當日（%s）",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d 日前（%2$s）",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"2 日前（%s）",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d 日前（%2$s）",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"1 週前（%s）",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "string":[
+        {
+            "name":"modify_schedule",
+            "value":"Click blocks to edit",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "string":[
+        {
+            "name":"my_calendar",
+            "value":"לוח השנה שלי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_year_repeat",
+            "value":"כל שנה",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"שבוע לפני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_month_repeat",
+            "value":"כל חודש",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_repeat",
+            "value":"אף פעם",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"at_time_of_event",
+            "value":"במועד האירוע",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"somebody_birthday",
+            "value":"יום ההולדת של %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tue",
+            "value":"יום שלישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"יום ראשון",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sun",
+            "value":"יום ראשון",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Mon",
+            "value":"יום שני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Wed",
+            "value":"יום רביעי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"third_day_of_week_each_month",
+            "value":"%s שלישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"יום חמישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"last_day_of_week_each_month",
+            "value":"%s אחרון",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"second_day_of_week_each_month",
+            "value":"%s שני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"יום שישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"יום שני",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Sat",
+            "value":"יום שבת",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"יום רביעי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thu",
+            "value":"יום חמישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"first_day_of_week_each_month",
+            "value":"%s ראשון",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"fourth_day_of_week_each_month",
+            "value":"%s רביעי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fri",
+            "value":"יום שישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"יום שבת",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"יום שלישי",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"‏(ללא כותרת)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"משתתפים",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"תזכורות",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"חשבונות",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"אירועים קרובים",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_repeat_type",
+            "value":"חזרה",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "@app/feature.settings",
+  "description": "calendar settings",
+  "repository": {},
+  "version": "1.0.0",
+  "main": "index.ets",
+  "dependencies": {
+    "@app/common": "file:../../common",
+    "@app/feature.sidebar": "file:../sidebar",
+    "@app/common.components" : "file:../../commons/components",
+    "@app/service.timezone": "file:../../services/timezone",
+    "@app/service.network": "file:../../services/network",
+   // "@hw-hmf/logger": "25.0.3-305"
+  }
+}

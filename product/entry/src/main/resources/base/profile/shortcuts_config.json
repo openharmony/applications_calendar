@@ -1,0 +1,34 @@
+{
+    "shortcuts": [
+        {
+            "shortcutId": "shortcut_calendar_create_agenda",
+            "label": "$string:peek_create_agenda",
+            "icon": "$media:create_agenda",
+            "wants": [
+                {
+                    "bundleName": "com.ohos.calendar",
+                    "abilityName": "MainAbility",
+                    "moduleName": "phone",
+                    "parameters": {
+                        "action": "CLICK_CREATE_EVENT"
+                    }
+                }
+            ]
+        },
+        {
+            "shortcutId": "shortcut_calendar_agenda_detail",
+            "label": "$string:show_all_agenda",
+            "icon": "$media:show_all_agenda",
+            "wants": [
+                {
+                    "bundleName": "com.ohos.calendar",
+                    "abilityName": "MainAbility",
+                    "moduleName": "phone",
+                    "parameters": {
+                        "action": "CLICK_AGENDA_DETAIL"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.monthview",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "plural":[
+        {
+            "name":"vcs_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_954680]_(%d event)"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_954678]_(%d events)"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_954677]_(%d events)"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_954682]_(%d events)"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_954681]_(%d events)"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_954679]_(%d events)"
+                }
+            ]
+        }
+    ]
+}

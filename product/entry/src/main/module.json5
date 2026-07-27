@@ -1,0 +1,378 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "srcEntry": "./ets/Application/Application.ets",
+    "description": "$string:calendar",
+    "mainElement": "MainAbility",
+    "compressNativeLibs": true,
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "MainAbility",
+        "continueType": [
+          'MainAbility_ContinueQuickStart'
+        ],
+        "srcEntry": "./ets/MainAbility/MainAbility.ets",
+        "description": "$string:calendar",
+        "icon": "$media:launcher_icon",
+        "label": "$string:calendar",
+        "startWindowIcon": "$media:transparent_picture",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "launchType": "singleton",
+        "continuable": true,
+        "orientation": "follow_desktop",
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          },
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              {
+                "type": "general.ics",
+                "scheme": 'file',
+                "linkFeature": "FileOpen"
+              },
+              {
+                "type": "general.vcs",
+                "scheme": 'file',
+                "linkFeature": "FileOpen"
+              }
+            ]
+          },
+          {
+            "actions": [
+              'ohos.want.action.sendData'
+            ],
+            "uris": [
+              {
+                "scheme": 'file',
+                "utd": "general.ics",
+                "maxFileSupported": 1
+              },
+              {
+                "scheme": 'file',
+                "utd": "general.vcs",
+                "maxFileSupported": 1
+              }
+            ]
+          }
+        ],
+        "metadata": [
+          {
+            "name": "ohos.ability.shortcuts",
+            "resource": "$profile:shortcuts_config"
+          }
+        ],
+        "minWindowWidth": 840,
+        "minWindowHeight": 560
+      },
+      {
+        "name": "AgendaAbility",
+        "srcEntry": "./ets/MainAbility/AgendaAbility.ets",
+        "description": "$string:calendar",
+        "icon": "$media:layeredImage",
+        "label": "$string:calendar",
+        "startWindowIcon": "$media:transparent_picture",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "launchType": "specified",
+        "orientation": "follow_recent",
+        "minWindowWidth": 420,
+        "minWindowHeight": 560
+      },
+      {
+        "name": "CardEditAbility",
+        "srcEntry": "./ets/abilities/form/CardEditAbility.ets",
+        "description": "$string:calendar",
+        "icon": "$media:layeredImage",
+        "label": "$string:calendar",
+        "startWindowIcon": "$media:starting_window",
+        "startWindowBackground": "$color:sub_background",
+        "removeMissionAfterTerminate": true,
+        "orientation": "follow_desktop",
+        "minWindowWidth": 640,
+        "minWindowHeight": 600
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "AllFormAbility",
+        "srcEntry": "./ets/abilities/form/AllFormAbility.ets",
+        "label": "$string:form_DayFormAbility_label",
+        "description": "$string:day_form_description",
+        "type": "form",
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      },
+      {
+        "name": "CalendarWorkSchedulerExtensionAbility",
+        "srcEntry": "./ets/abilities/workscheduler/CalendarWorkSchedulerExtensionAbility.ets",
+        "label": "$string:work_scheduler_label",
+        "description": "WorkSchedulerExtensionAbility",
+        "type": "workScheduler"
+      },
+      {
+        "name": "StaticSubscriber",
+        "srcEntry": "./ets/abilities/staticSubscriber/StaticSubscriber.ets",
+        "type": "staticSubscriber",
+        "metadata": [
+          {
+            "name": "ohos.extension.staticSubscriber",
+            "resource": "$profile:staticSubscriber"
+          }
+        ]
+      },
+      {
+        "name": "CalendarPrivacyAbility",
+        "srcEntry": "./ets/abilities/CalendarPrivacyAbility.ets",
+        "description": "CalendarPrivacyAbility",
+        "type": 'sys/commonUI',
+        "exported": true,
+        "permissions": [
+          "ohos.permission.ACCESS_SECURITY_PRIVACY_CENTER"
+        ],
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.access.business_and_privacy_statement"
+            ]
+          }
+        ],
+        "metadata": [
+          {
+            "name": "metadata.access.business_and_privacy_statement",
+            "value": 'data_privacy_center.json'
+          }
+        ]
+      }
+    ],
+    "metadata": [
+      {
+        "name": "hmos.app.quickfix",
+        "value": "cold"
+      },
+      {
+        "name": "ArkTSPartialUpdate",
+        "value": "true"
+      },
+      {
+        "name": "partialUpdateStrictCheck",
+        "value": "all"
+      },
+      {
+        "name": "client_id",
+        // 测试环境 "value": "102227435",
+        "value": "110084413"
+      },
+      {
+        "name": "license_file_path",
+        "value": "/system/etc/noticeFile/AppCalendar_OpenSource.html"
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "name": "ohos.permission.MANAGE_SETTINGS",
+        "reason": "$string:description_apply_for_calendar_permission"
+      },
+//      {
+//        // 读取云空间开关状态所需的权限，normal级别
+//        "name": "ohos.permission.READ_CLOUD_SYNC_CONFIG",
+//        "reason": "$string:description_apply_for_calendar_permission",
+//        "usedScene": {
+//          "abilities": [
+//            "FormAbility"
+//          ]
+//        }
+//      },
+      {
+        "name": "ohos.permission.ACCESS_SEARCH_SERVICE",
+        "reason": "$string:description_apply_for_calendar_permission"
+      },
+      {
+        "name": "ohos.permission.REQUIRE_FORM",
+        "reason": "$string:description_apply_for_calendar_permission"
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO",
+        "reason": "$string:description_apply_for_calendar_permission"
+      },
+      {
+        "name": "ohos.permission.NOTIFICATION_CONTROLLER",
+        "reason": "$string:description_apply_for_calendar_permission"
+      },
+      {
+        "name": "ohos.permission.WRITE_WHOLE_CALENDAR",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "abilities": [
+            "FormAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.READ_WHOLE_CALENDAR",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "abilities": [
+            "FormAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.READ_CONTACTS",
+        "reason": "$string:description_apply_for_contact_permission",
+        "usedScene": {
+          "abilities": [
+            "FormAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.READ_IMAGEVIDEO",
+        "reason": "$string:use_course_time_hit_text",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        // 拉起玩机技巧所需权限
+        "name": "ohos.permission.GET_BUNDLE_INFO",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "abilities": [
+            "IndexAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        // 马达振动所需权限
+        "name": "ohos.permission.VIBRATE",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "abilities": [
+            "IndexAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.GET_BUNDLE_INFO_PRIVILEGED",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.LAUNCH_DATA_PRIVACY_CENTER",
+        "usedScene": {
+          "abilities": [
+            "com.openharmony.calendar.CalendarPrivacyAbility"
+          ],
+          "when": "always"
+        }
+      },
+      {
+        "name": "ohos.permission.LOCATION",
+        "reason": "$string:location_services_dialog_content",
+        "usedScene": {
+          "abilities": [
+            "LocationSetupAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        "reason": "$string:location_services_dialog_content",
+        "usedScene": {
+          "abilities": [
+            "LocationSetupAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.ACCESS_BUNDLE_DIR",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.GET_FILE_ICON",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.PROXY_AUTHORIZATION_URI",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.WRITE_RINGTONE",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.WRITE_CALENDAR",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.READ_CALENDAR",
+        "reason": "$string:description_apply_for_calendar_permission",
+        "usedScene": {
+          "when": "inuse"
+        }
+      }
+//      {
+//        "name": "ohos.permission.WAKEUP_VOICE",
+//        "reason": "$string:description_apply_for_calendar_permission",
+//        "usedScene": {
+//          "when": "inuse"
+//        }
+//      }
+    ]
+  }
+}

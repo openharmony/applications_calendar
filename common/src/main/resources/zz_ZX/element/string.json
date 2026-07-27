@@ -1,0 +1,3360 @@
+{
+    "string":[
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"[TS_923423]_Week starts on"
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"[TS_923230]_Show week number"
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"[TS_923563]_Customize weekend"
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"[TS_923468]_Calendar view"
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"[TS_923477]_Alternate calendars"
+        },
+        {
+            "name":"recess_item_title",
+            "value":"[TS_923571]_Show adjusted work schedule for holidays"
+        },
+        {
+            "name":"subscription_festival",
+            "value":"[TS_923678]_Holidays"
+        },
+        {
+            "name":"pc_MainAbility",
+            "value":"[TS_777263]_Calendar"
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"[TS_923659]_Lock time zone"
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"[TS_923354]_Always show event times and dates in the selected time zone."
+        },
+        {
+            "name":"tomorrow",
+            "value":"[TS_923537]_Tomorrow"
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"[TS_923656]_Day after tomorrow"
+        },
+        {
+            "name":"today",
+            "value":"[TS_923688]_Today"
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"[TS_923238]_Day before yesterday"
+        },
+        {
+            "name":"yesterday",
+            "value":"[TS_923196]_Yesterday"
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"[TS_923499]_This is used to manage your calendar."
+        },
+        {
+            "name":"loading",
+            "value":"[TS_923336]_Loading\u2026"
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"[TS_923363]_You can copy this event and paste it into other apps."
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"[TS_923411]_Copy event"
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"[TS_923412]_Copied."
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"[TS_923613]_New event"
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"[TS_806933]_Title"
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"[TS_806933]_Title"
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"[TS_923524]_Time zone"
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"[TS_1036891]_No results"
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"[TS_923643]_Save your changes?"
+        },
+        {
+            "name":"title_account",
+            "value":"[TS_923497]_Accounts"
+        },
+        {
+            "name":"end_date",
+            "value":"[TS_923556]_End"
+        },
+        {
+            "name":"year",
+            "value":"[TS_923668]_Year"
+        },
+        {
+            "name":"month",
+            "value":"[TS_923694]_Month"
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"[TS_923626]_No events"
+        },
+        {
+            "name":"hint_where",
+            "value":"[TS_923442]_Location"
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"[TS_923671]_Events after %s"
+        },
+        {
+            "name":"delete_label",
+            "value":"[TS_923346]_Delete"
+        },
+        {
+            "name":"no_title_label",
+            "value":"[TS_923567]_(No title)"
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"[TS_923605]_Help & feedback"
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"[TS_923622]_Persian Calendar"
+        },
+        {
+            "name":"Monday",
+            "value":"[TS_923558]_Monday"
+        },
+        {
+            "name":"edit_label",
+            "value":"[TS_923229]_Edit"
+        },
+        {
+            "name":"button_ok",
+            "value":"[TS_923385]_OK"
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"[TS_923398]_Events before %s"
+        },
+        {
+            "name":"my_calendar",
+            "value":"[TS_923204]_My calendar"
+        },
+        {
+            "name":"save_label",
+            "value":"[TS_923536]_Save"
+        },
+        {
+            "name":"close",
+            "value":"[TS_923246]_Close"
+        },
+        {
+            "name":"Sunday",
+            "value":"[TS_923220]_Sunday"
+        },
+        {
+            "name":"default_weekend",
+            "value":"[TS_923483]_Use default weekend"
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"[TS_923394]_Default"
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"[TS_923438]_Third-party SDK list"
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"[TS_923500]_Show important days in Month view."
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"[TS_923611]_Buddhist Calendar"
+        },
+        {
+            "name":"snooze",
+            "value":"[TS_923618]_Snooze"
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"[TS_923699]_Personal information collected"
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"[TS_923664]_Customer service hotline"
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"[TS_923399]_Hebrew Calendar"
+        },
+        {
+            "name":"all_day",
+            "value":"[TS_923372]_All day"
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"[TS_923690]_Sync time-based to-dos from Notepad."
+        },
+        {
+            "name":"important_day",
+            "value":"[TS_923615]_Important days"
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"[TS_923446]_Add-ons"
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"[TS_923289]_Local default"
+        },
+        {
+            "name":"hint_description",
+            "value":"[TS_923692]_Description"
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"[TS_923577]_Chinese Calendar"
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"[TS_923265]_Islamic Calendar (tabular, civil epoch)"
+        },
+        {
+            "name":"deselect_all",
+            "value":"[TS_923476]_Deselect all"
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"[TS_923555]_Indian National Calendar"
+        },
+        {
+            "name":"menu_preferences",
+            "value":"[TS_923329]_Settings"
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"[TS_923670]_Reminders"
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"[TS_923439]_None"
+        },
+        {
+            "name":"search_for_events",
+            "value":"[TS_923576]_Search for events"
+        },
+        {
+            "name":"Saturday",
+            "value":"[TS_923331]_Saturday"
+        },
+        {
+            "name":"start_date",
+            "value":"[TS_806923]_Start"
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"[TS_923403]_For all-day events"
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"[TS_923258]_Security & privacy"
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"[TS_923528]_Sync to-dos"
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"[TS_923211]_Notifications"
+        },
+        {
+            "name":"schedule_view",
+            "value":"[TS_923456]_Event"
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"[TS_923237]_Japanese Calendar"
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"[TS_923590]_Delete this event?"
+        },
+        {
+            "name":"ONE_LINK_URL",
+            "value":"[TS_923192]_https://hag-drcn.op.hicloud.com/product-subscription/v1/abilities/one-link/query"
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"[TS_923525]_Cancel"
+        },
+        {
+            "name":"afternoon",
+            "value":"[TS_923376]_PM"
+        },
+        {
+            "name":"Tue",
+            "value":"[TS_923358]_Tuesday"
+        },
+        {
+            "name":"show_all_caldav_agenda",
+            "value":"[TS_923255]_View all events"
+        },
+        {
+            "name":"Friday",
+            "value":"[TS_923417]_Friday"
+        },
+        {
+            "name":"sync_tip_title",
+            "value":"[TS_923263]_Cloud Calendar"
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"[TS_923288]_Participants"
+        },
+        {
+            "name":"whether_to_delete",
+            "value":"[TS_942401]_Delete %s?"
+        },
+        {
+            "name":"add_card_to_desk",
+            "value":"[TS_923495]_Add to home screen"
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"[TS_923552]_Join"
+        },
+        {
+            "name":"no_schedule_today_tip",
+            "value":"[TS_923219]_No schedule today. Click to create the schedule"
+        },
+        {
+            "name":"Sat",
+            "value":"[TS_923508]_Saturday"
+        },
+        {
+            "name":"this_agenda",
+            "value":"[TS_923470]_This event only"
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"[TS_923342]_Shared"
+        },
+        {
+            "name":"importing",
+            "value":"[TS_923370]_Importing…"
+        },
+        {
+            "name":"account_share_limit",
+            "value":"[TS_923345]_Maximum number of shared folders reached. Unable to share."
+        },
+        {
+            "name":"add_limit",
+            "value":"[TS_923541]_Maximum number of CalDAV calendars reached."
+        },
+        {
+            "name":"agenda_can_not_delete",
+            "value":"[TS_923513]_This Agenda Can't Delete"
+        },
+        {
+            "name":"stop_share_member",
+            "value":"[TS_923267]_If you stop sharing with this user, they won't be able to access this calendar anymore."
+        },
+        {
+            "name":"important",
+            "value":"[TS_923651]_Important"
+        },
+        {
+            "name":"limited_times",
+            "value":"[TS_923320]_For a set number of events"
+        },
+        {
+            "name":"user_name",
+            "value":"[TS_923517]_Username"
+        },
+        {
+            "name":"all_agenda",
+            "value":"[TS_923274]_All events"
+        },
+        {
+            "name":"day_form_description",
+            "value":"[TS_923408]_Calendar Day Form"
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"[TS_923247]_View all events"
+        },
+        {
+            "name":"calendar_name",
+            "value":"[TS_923603]_Calendar name"
+        },
+        {
+            "name":"Wednesday",
+            "value":"[TS_923195]_Wednesday"
+        },
+        {
+            "name":"tips",
+            "value":"[TS_923457]_Tips"
+        },
+        {
+            "name":"text",
+            "value":"[TS_923359]_Text"
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"[TS_923665]_Name"
+        },
+        {
+            "name":"event_texture",
+            "value":"[TS_923285]_Pattern"
+        },
+        {
+            "name":"sync_tip_content",
+            "value":"[TS_923276]_Automatically upload Calendar data to Cloud so you can access it on any of your devices."
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"[TS_923189]_openharmony ID"
+        },
+        {
+            "name":"Sun",
+            "value":"[TS_923203]_Sunday"
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"[TS_923225]_Edit"
+        },
+        {
+            "name":"every_lunar_year_repeat",
+            "value":"[TS_923309]_农历每年"
+        },
+        {
+            "name":"all_day_three_days_before",
+            "value":"[TS_923200]_3 days before (9 AM)"
+        },
+        {
+            "name":"every_month_repeat",
+            "value":"[TS_923451]_Every month"
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"[TS_923275]_You can share this calendar with other people."
+        },
+        {
+            "name":"no_repeat",
+            "value":"[TS_923416]_Never"
+        },
+        {
+            "name":"view_all_schedules",
+            "value":"[TS_923343]_View all schedules in your account"
+        },
+        {
+            "name":"account_custom",
+            "value":"[TS_923319]_Personal"
+        },
+        {
+            "name":"show_all",
+            "value":"[TS_923475]_Show all"
+        },
+        {
+            "name":"same_day_of_every_month",
+            "value":"[TS_923348]_Same day each month"
+        },
+        {
+            "name":"two_days_before",
+            "value":"[TS_923419]_2 days before"
+        },
+        {
+            "name":"third_app_event",
+            "value":"[TS_923460]_From apps"
+        },
+        {
+            "name":"Card_Thu",
+            "value":"[TS_923254]_Thu"
+        },
+        {
+            "name":"work",
+            "value":"[TS_923521]_Work"
+        },
+        {
+            "name":"event_edit",
+            "value":"[TS_923542]_Edit event"
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"[TS_923421]_Receive shared calendars"
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"[TS_923640]_Other"
+        },
+        {
+            "name":"password",
+            "value":"[TS_923437]_Password"
+        },
+        {
+            "name":"copy",
+            "value":"[TS_923512]_Copy"
+        },
+        {
+            "name":"synced_fail",
+            "value":"[TS_923441]_Sync failed. Delete this calendar and add it again."
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"[TS_923422]_Event reminders"
+        },
+        {
+            "name":"morning",
+            "value":"[TS_923666]_AM"
+        },
+        {
+            "name":"up_to_2",
+            "value":"[TS_923489]_Until %s"
+        },
+        {
+            "name":"open_agree",
+            "value":"[TS_923194]_Enable"
+        },
+        {
+            "name":"Thu",
+            "value":"[TS_923429]_Thursday"
+        },
+        {
+            "name":"start_time",
+            "value":"[TS_923290]_Start time"
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"[TS_923443]_You need to be logged in to share calendars. Log in now?"
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"[TS_923286]_Delete"
+        },
+        {
+            "name":"day_view",
+            "value":"[TS_923415]_Day"
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"[TS_923696]_Remove"
+        },
+        {
+            "name":"Card_Wed",
+            "value":"[TS_923481]_Wed"
+        },
+        {
+            "name":"an_hour_before",
+            "value":"[TS_923190]_1 hour before"
+        },
+        {
+            "name":"every_week_repeat",
+            "value":"[TS_923406]_Every week"
+        },
+        {
+            "name":"local_calendar",
+            "value":"[TS_923266]_This device"
+        },
+        {
+            "name":"event_background",
+            "value":"[TS_923465]_Background"
+        },
+        {
+            "name":"caldav_server_address_error",
+            "value":"[TS_923598]_Incorrect server address"
+        },
+        {
+            "name":"go_back_today",
+            "value":"[TS_923401]_Today"
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"[TS_923227]_New event"
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"[TS_923471]_Purple"
+        },
+        {
+            "name":"all_the_time",
+            "value":"[TS_923326]_Forever"
+        },
+        {
+            "name":"at_time_of_event",
+            "value":"[TS_923327]_At time of event"
+        },
+        {
+            "name":"local_account",
+            "value":"[TS_923597]_openharmony ID"
+        },
+        {
+            "name":"exit_share",
+            "value":"[TS_923277]_You won't receive any more messages related to this account once you leave."
+        },
+        {
+            "name":"online_meeting_total_prefix",
+            "value":"[TS_923689]_Total"
+        },
+        {
+            "name":"first_day_of_week_each_month",
+            "value":"[TS_923695]_First %s"
+        },
+        {
+            "name":"Card_Fri",
+            "value":"[TS_923373]_Fri"
+        },
+        {
+            "name":"MondaySmall",
+            "value":"[TS_923578]_Mon"
+        },
+        {
+            "name":"select_date",
+            "value":"[TS_923636]_Select date"
+        },
+        {
+            "name":"preferences_network_title",
+            "value":"[TS_923452]_Network"
+        },
+        {
+            "name":"date",
+            "value":"[TS_923251]_Date"
+        },
+        {
+            "name":"share_server_address",
+            "value":"[TS_923559]_Server address"
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"[TS_923366]_Participants"
+        },
+        {
+            "name":"effective_date",
+            "value":"[TS_923448]_Effective"
+        },
+        {
+            "name":"address_example",
+            "value":"[TS_923474]_cal.example.com"
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"[TS_923223]_Shared"
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"[TS_923675]_Removed."
+        },
+        {
+            "name":"Card_Mon",
+            "value":"[TS_923667]_Mon"
+        },
+        {
+            "name":"read",
+            "value":"[TS_923268]_Read"
+        },
+        {
+            "name":"caldav_already_exists",
+            "value":"[TS_923504]_Username already exists"
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"[TS_923529]_Allow Calendar to download and update holiday dates, add-ons, and calendar info?"
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"[TS_923391]_On the day (%d AM)"
+        },
+        {
+            "name":"online_meeting",
+            "value":"[TS_923609]_Online meeting"
+        },
+        {
+            "name":"cancel",
+            "value":"[TS_923467]_Cancel"
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"[TS_923560]_Calendar accounts"
+        },
+        {
+            "name":"add_reminder",
+            "value":"[TS_923379]_Add reminder"
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"[TS_923627]_Delete"
+        },
+        {
+            "name":"holidays",
+            "value":"[TS_923637]_Holidays"
+        },
+        {
+            "name":"confirme_information",
+            "value":"[TS_923313]_OK"
+        },
+        {
+            "name":"no_message",
+            "value":"[TS_923287]_No messages"
+        },
+        {
+            "name":"all_recurring_agendas",
+            "value":"[TS_923593]_All events in series"
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"[TS_923259]_Share"
+        },
+        {
+            "name":"all_agendas",
+            "value":"[TS_923562]_All events"
+        },
+        {
+            "name":"Card_Sat",
+            "value":"[TS_923507]_Sat"
+        },
+        {
+            "name":"two_hours_before",
+            "value":"[TS_923232]_2 hours before"
+        },
+        {
+            "name":"back_to_today",
+            "value":"[TS_923592]_Today"
+        },
+        {
+            "name":"no_synced_to_calendar",
+            "value":"[TS_923545]_This event will no longer be synced to this calendar."
+        },
+        {
+            "name":"addAccount",
+            "value":"[TS_923458]_Add calendar"
+        },
+        {
+            "name":"agree",
+            "value":"[TS_923353]_Agree"
+        },
+        {
+            "name":"Mon",
+            "value":"[TS_923538]_Monday"
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"[TS_923402]_Blue"
+        },
+        {
+            "name":"month_form_description",
+            "value":"[TS_923646]_Calendar Month Form"
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"[TS_923236]_Upcoming events"
+        },
+        {
+            "name":"please_input_account_name",
+            "value":"[TS_923340]_Enter calendar name"
+        },
+        {
+            "name":"un_read",
+            "value":"[TS_923283]_Unread"
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"[TS_923407]_Month view"
+        },
+        {
+            "name":"every_day_repeat",
+            "value":"[TS_923209]_Every day"
+        },
+        {
+            "name":"import_success",
+            "value":"[TS_923364]_Import successful."
+        },
+        {
+            "name":"do_you_need_caldav_help",
+            "value":"[TS_923628]_Need CalDAV calendar help?"
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"[TS_923526]_Leave shared account"
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"[TS_923428]_Allow"
+        },
+        {
+            "name":"fourth_day_of_week_each_month",
+            "value":"[TS_923383]_Fourth %s"
+        },
+        {
+            "name":"view_share_status",
+            "value":"[TS_923420]_Status"
+        },
+        {
+            "name":"select_all",
+            "value":"[TS_923241]_Select all"
+        },
+        {
+            "name":"shop_share",
+            "value":"[TS_923697]_Stop sharing"
+        },
+        {
+            "name":"china_standard_time",
+            "value":"[TS_923569]_GMT+8:00 China Standard Time"
+        },
+        {
+            "name":"CalDAVAccountManagement",
+            "value":"[TS_923395]_Manage CalDAV calendar"
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"[TS_923543]_Edit calendar"
+        },
+        {
+            "name":"preferences_caldav_title",
+            "value":"[TS_923216]_CalDAV calendar"
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"[TS_923300]_Wed"
+        },
+        {
+            "name":"event_apply",
+            "value":"[TS_923506]_Apply"
+        },
+        {
+            "name":"up_to_label",
+            "value":"[TS_923505]_Until a certain date"
+        },
+        {
+            "name":"Wed",
+            "value":"[TS_923518]_Wednesday"
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"[TS_923349]_Red"
+        },
+        {
+            "name":"every_year_repeat",
+            "value":"[TS_923676]_Every year"
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"[TS_923330]_Light orange"
+        },
+        {
+            "name":"edit_event_timezone_title",
+            "value":"[TS_923427]_TIME ZONE"
+        },
+        {
+            "name":"only_this_agenda",
+            "value":"[TS_923455]_This event only"
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"[TS_923321]_Save"
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"[TS_923361]_Discard"
+        },
+        {
+            "name":"all_day_two_days_before",
+            "value":"[TS_923269]_2 days before (9 AM)"
+        },
+        {
+            "name":"server_error",
+            "value":"[TS_923318]_Server error. Please try again."
+        },
+        {
+            "name":"Fri",
+            "value":"[TS_923332]_Friday"
+        },
+        {
+            "name":"week_view",
+            "value":"[TS_923215]_Week"
+        },
+        {
+            "name":"required",
+            "value":"[TS_923553]_Required"
+        },
+        {
+            "name":"multiple_choice",
+            "value":"[TS_923390]_Select multiple"
+        },
+        {
+            "name":"event_layout",
+            "value":"[TS_923374]_Layout"
+        },
+        {
+            "name":"know_dialog_button",
+            "value":"[TS_923338]_OK"
+        },
+        {
+            "name":"SundaySmall",
+            "value":"[TS_923595]_Sun"
+        },
+        {
+            "name":"FridaySmall",
+            "value":"[TS_923310]_Fri"
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"[TS_923305]_Thu"
+        },
+        {
+            "name":"addCaldavCalendar",
+            "value":"[TS_923527]_Add CalDAV account"
+        },
+        {
+            "name":"third_day_of_week_each_month",
+            "value":"[TS_923463]_Third %s"
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"[TS_923233]_Calendar syncing needs to be enabled in Cloud to share calendars. Enable now?"
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"[TS_923226]_%d minutes before"
+        },
+        {
+            "name":"delete_with_cloudDevices",
+            "value":"[TS_923515]_This event will also be deleted from the cloud and all synced devices."
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"[TS_923549]_Sat"
+        },
+        {
+            "name":"description_Today_Agenda_Card",
+            "value":"[TS_923686]_Today's schedule"
+        },
+        {
+            "name":"open_ignore",
+            "value":"[TS_923434]_Not now"
+        },
+        {
+            "name":"schedule_preview",
+            "value":"[TS_923270]_Event preview"
+        },
+        {
+            "name":"stop_share",
+            "value":"[TS_923700]_Daily sharing limit reached. Try again tomorrow."
+        },
+        {
+            "name":"custom_account_create",
+            "value":"[TS_923396]_New calendar"
+        },
+        {
+            "name":"description_apply_for_contact_permission",
+            "value":"[TS_924297]_This is used to access profile pictures and nicknames when sharing."
+        },
+        {
+            "name":"caldav_check_username_password",
+            "value":"[TS_923669]_Please check your username and password and try again"
+        },
+        {
+            "name":"my_calendar_name",
+            "value":"[TS_923464]_My calendar"
+        },
+        {
+            "name":"share_determine",
+            "value":"[TS_923532]_Pending"
+        },
+        {
+            "name":"off",
+            "value":"[TS_923218]_Rest"
+        },
+        {
+            "name":"Thursday",
+            "value":"[TS_923367]_Thursday"
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"[TS_923380]_Delete this calendar and all its events?"
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"[TS_923546]_Help"
+        },
+        {
+            "name":"last_day_of_week_each_month",
+            "value":"[TS_923262]_Last %s"
+        },
+        {
+            "name":"add_account_custom",
+            "value":"[TS_923381]_Add personal account"
+        },
+        {
+            "name":"share_open",
+            "value":"[TS_923432]_Enable"
+        },
+        {
+            "name":"Card_Sun",
+            "value":"[TS_923205]_Sun"
+        },
+        {
+            "name":"all_day_one_day_before",
+            "value":"[TS_923568]_1 day before (9 AM)"
+        },
+        {
+            "name":"second_day_of_week_each_month",
+            "value":"[TS_923645]_Second %s"
+        },
+        {
+            "name":"24_hours_before",
+            "value":"[TS_923208]_24 hours before"
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"[TS_923264]_Month view"
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"[TS_923253]_Allow Internet access?"
+        },
+        {
+            "name":"block_contact",
+            "value":"[TS_923581]_Block contacts"
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"[TS_923572]_View"
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"[TS_923450]_Tue"
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"[TS_923619]_Gray"
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"[TS_923249]_Green"
+        },
+        {
+            "name":"cancel_import",
+            "value":"[TS_923302]_Import canceled."
+        },
+        {
+            "name":"view_share_members",
+            "value":"[TS_923231]_Manage sharing"
+        },
+        {
+            "name":"event_detail",
+            "value":"[TS_923292]_Event"
+        },
+        {
+            "name":"this_agenda_and_beyond",
+            "value":"[TS_923314]_This and all future events"
+        },
+        {
+            "name":"event_add_repeat",
+            "value":"[TS_923296]_Repeat"
+        },
+        {
+            "name":"one_week_before",
+            "value":"[TS_923239]_1 week before"
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"[TS_923478]_Message center"
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"[TS_923339]_Indigo"
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"[TS_923616]_%1$d week before (%2$d AM)"
+        },
+        {
+            "name":"custom_repeat",
+            "value":"[TS_923191]_Custom"
+        },
+        {
+            "name":"calandar_add",
+            "value":"[TS_923604]_Add"
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"[TS_923660]_Add reminder"
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"[TS_923400]_Participants"
+        },
+        {
+            "name":"view_schedule",
+            "value":"[TS_923565]_Events"
+        },
+        {
+            "name":"one_day_before",
+            "value":"[TS_923293]_1 day before"
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"[TS_923516]_You can share this event with other people."
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"[TS_923382]_No events for the next seven days"
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"[TS_923614]_Color"
+        },
+        {
+            "name":"up_to",
+            "value":"[TS_923206]_Until %s"
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"[TS_923337]_Dark orange"
+        },
+        {
+            "name":"one_week_later",
+            "value":"[TS_923530]_%s week after"
+        },
+        {
+            "name":"un_connect_server",
+            "value":"[TS_923693]_Unable to connect to server. Tap to retry."
+        },
+        {
+            "name":"Import_account",
+            "value":"[TS_923297]_Sync to Calendar"
+        },
+        {
+            "name":"Card_Tue",
+            "value":"[TS_923284]_Tue"
+        },
+        {
+            "name":"custom_repeat_type",
+            "value":"[TS_923316]_Repeat"
+        },
+        {
+            "name":"received",
+            "value":"[TS_923387]_Accept"
+        },
+        {
+            "name":"every_week_repeat_of",
+            "value":"[TS_923261]_Every week on %s"
+        },
+        {
+            "name":"this_and_future_agenda",
+            "value":"[TS_923393]_This and future events"
+        },
+        {
+            "name":"Tuesday",
+            "value":"[TS_923282]_Tuesday"
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"[TS_923431]_No events today"
+        },
+        {
+            "name":"su_icp_17040376",
+            "value":"[TS_927784]_粤A2-20044005号-163A"
+        },
+        {
+            "name":"record_manager_system_title",
+            "value":"[TS_927783]_ICP/IP/Domain name management system"
+        },
+        {
+            "name":"start_the_class",
+            "value":"[TS_928463]_Start lesson"
+        },
+        {
+            "name":"start_live_broadcast",
+            "value":"[TS_928461]_Start livestream"
+        },
+        {
+            "name":"repay_now",
+            "value":"[TS_928464]_Pay now"
+        },
+        {
+            "name":"watch_now",
+            "value":"[TS_928462]_Watch now"
+        },
+        {
+            "name":"start_shopping",
+            "value":"[TS_928459]_Shop now"
+        },
+        {
+            "name":"start_exercising",
+            "value":"[TS_928465]_Start workout"
+        },
+        {
+            "name":"no_blocked_contacts",
+            "value":"[TS_929485]_No blocked contacts"
+        },
+        {
+            "name":"about",
+            "value":"[TS_935460]_About"
+        },
+        {
+            "name":"personal_information_collected",
+            "value":"[TS_938080]_Personal information collected"
+        },
+        {
+            "name":"Copyright",
+            "value":"[TS_938081]_Copyright © %1$d–%2$d openharmony. All rights reserved."
+        },
+        {
+            "name":"find_out_how_we_use_your_data",
+            "value":"[TS_935463]_How we use your data"
+        },
+        {
+            "name":"open_screen_page_calendar_declare",
+            "value":"[TS_923691]_Statement About Calendar and Privacy"
+        },
+        {
+            "name":"label_permission_contacts_title",
+            "value":"[TS_935466]_Allow Calendar to access Contacts"
+        },
+        {
+            "name":"go_to_setting",
+            "value":"[TS_935467]_Go to Settings"
+        },
+        {
+            "name":"label_permission_notification_title",
+            "value":"[TS_952894]_Allow Calendar to send you notifications?"
+        },
+        {
+            "name":"label_permission_contacts_description",
+            "value":"[TS_935459]_This is used to obtain contacts' profile pictures and nicknames for sharing."
+        },
+        {
+            "name":"label_permission_notification_description",
+            "value":"[TS_952895]_These may include banners, lock screen notifications, sounds, and more. You can change this in Settings."
+        },
+        {
+            "name":"coming_soon",
+            "value":"[TS_935462]_Starting soon"
+        },
+        {
+            "name":"version_info",
+            "value":"[TS_946414]_Version"
+        },
+        {
+            "name":"contact_birthday",
+            "value":"[TS_947841]_Contacts' birthdays"
+        },
+        {
+            "name":"somebody_birthday",
+            "value":"[TS_944071]_%s's birthday"
+        },
+        {
+            "name":"no_name_birthday",
+            "value":"[TS_944070]_Unknown contact's birthday"
+        },
+        {
+            "name":"country_holiday",
+            "value":"[TS_944069]_%s holidays"
+        },
+        {
+            "name":"navigate_up",
+            "value":"[TS_949942]_Go back"
+        },
+        {
+            "name":"checkbox_checked",
+            "value":"[TS_949943]_Selected"
+        },
+        {
+            "name":"have_a_agenda",
+            "value":"[TS_949944]_There are events on this day"
+        },
+        {
+            "name":"reminder_time",
+            "value":"[TS_949939]_Time"
+        },
+        {
+            "name":"single_monthly_view_drag",
+            "value":"[TS_949946]_Expanded, draggable handle to change views"
+        },
+        {
+            "name":"main_page_option_button",
+            "value":"[TS_949940]_More options"
+        },
+        {
+            "name":"account_details_complete_button",
+            "value":"[TS_949949]_Done"
+        },
+        {
+            "name":"sidebar",
+            "value":"[TS_949950]_Sidebar"
+        },
+        {
+            "name":"checkbox_not_checked",
+            "value":"[TS_949948]_Not selected"
+        },
+        {
+            "name":"multiple_choice_agenda_button",
+            "value":"[TS_949941]_Select multiple events"
+        },
+        {
+            "name":"single_monthly_view_close",
+            "value":"[TS_949951]_Collapsed, draggable handle to change views"
+        },
+        {
+            "name":"search_button",
+            "value":"[TS_949947]_Search"
+        },
+        {
+            "name":"jump_to_someday",
+            "value":"[TS_958427]_Go to"
+        },
+        {
+            "name":"accessibility_button",
+            "value":"[TS_960758]_%s button"
+        },
+        {
+            "name":"accessibility_date_range",
+            "value":"[TS_960768]_%1$s to %2$s"
+        },
+        {
+            "name":"accessibility_exit_search",
+            "value":"[TS_960759]_Cancel search"
+        },
+        {
+            "name":"accessibility_close_sidebar",
+            "value":"[TS_960761]_Close sidebar"
+        },
+        {
+            "name":"accessibility_open_sidebar",
+            "value":"[TS_960764]_Open sidebar"
+        },
+        {
+            "name":"accessibility_Collapsed",
+            "value":"[TS_960767]_Collapsed"
+        },
+        {
+            "name":"accessibility_Expanded",
+            "value":"[TS_960763]_Expanded"
+        },
+        {
+            "name":"accessibility_not_available",
+            "value":"[TS_960766]_%s, not available"
+        },
+        {
+            "name":"accessibility_today",
+            "value":"[TS_960760]_Today %s"
+        },
+        {
+            "name":"connect_network_to_use",
+            "value":"[TS_961286]_This requires an Internet connection."
+        },
+        {
+            "name":"accessibility_image_gift_box",
+            "value":"[TS_967989]_Gift box"
+        },
+        {
+            "name":"accessibility_image_curves",
+            "value":"[TS_967997]_Pattern, curvy lines"
+        },
+        {
+            "name":"accessibility_image",
+            "value":"[TS_967990]_%s, image"
+        },
+        {
+            "name":"accessibility_image_love_balloons",
+            "value":"[TS_967992]_Heart-shaped balloon"
+        },
+        {
+            "name":"accessibility_image_moire",
+            "value":"[TS_967993]_Pattern, cloud-like pattern"
+        },
+        {
+            "name":"accessibility_image_arches",
+            "value":"[TS_967991]_Pattern, arches"
+        },
+        {
+            "name":"accessibility_image_time_left",
+            "value":"[TS_967998]_Number of days on left"
+        },
+        {
+            "name":"accessibility_image_paper_plane",
+            "value":"[TS_967999]_Paper airplane"
+        },
+        {
+            "name":"accessibility_image_time_right",
+            "value":"[TS_967996]_Number of days on right"
+        },
+        {
+            "name":"accessibility_image_concentric_circle",
+            "value":"[TS_967995]_Pattern, concentric circles"
+        },
+        {
+            "name":"accessibility_image_ripples",
+            "value":"[TS_967988]_Pattern, wavy lines"
+        },
+        {
+            "name":"accessibility_click_and_drag",
+            "value":"[TS_967994]_Double-tap to activate, use two fingers to drag up or down"
+        },
+        {
+            "name":"view_now",
+            "value":"[TS_928460]_View now"
+        },
+        {
+            "name":"business_privacy_declare",
+            "value":"[TS_976668]_Privacy statements"
+        },
+        {
+            "name":"content_length_exceeds_the_maximum",
+            "value":"[TS_975286]_Length limit exceeded."
+        },
+        {
+            "name":"whether_to_move_event",
+            "value":"[TS_975051]_Move %s"
+        },
+        {
+            "name":"paste",
+            "value":"[TS_975052]_Paste"
+        },
+        {
+            "name":"unable_to_drag_all_day_event",
+            "value":"[TS_975053]_Unable to drag all-day events."
+        },
+        {
+            "name":"unable_to_drag_cross_day_event",
+            "value":"[TS_975054]_Unable to drag events that span more than one day."
+        },
+        {
+            "name":"service_event_cannot_be_edited",
+            "value":"[TS_975055]_Service events can't be edited."
+        },
+        {
+            "name":"initial_fu",
+            "value":"[TS_970027]_入伏"
+        },
+        {
+            "name":"fifth_nine_days",
+            "value":"[TS_970030]_五九"
+        },
+        {
+            "name":"september_eighteenth_incident",
+            "value":"[TS_959794]_九一八事变"
+        },
+        {
+            "name":"geng",
+            "value":"[TS_970002]_庚"
+        },
+        {
+            "name":"goat",
+            "value":"[TS_970019]_羊"
+        },
+        {
+            "name":"horse",
+            "value":"[TS_970060]_马"
+        },
+        {
+            "name":"wu_1",
+            "value":"[TS_971321]_戊"
+        },
+        {
+            "name":"qixi_festival",
+            "value":"[TS_960743]_七夕节"
+        },
+        {
+            "name":"minor_cold",
+            "value":"[TS_970015]_小寒"
+        },
+        {
+            "name":"one",
+            "value":"[TS_970043]_一"
+        },
+        {
+            "name":"leap",
+            "value":"[TS_970013]_闰"
+        },
+        {
+            "name":"dragon",
+            "value":"[TS_969994]_龙"
+        },
+        {
+            "name":"seven",
+            "value":"[TS_970077]_七"
+        },
+        {
+            "name":"labor_day",
+            "value":"[TS_959390]_劳动节"
+        },
+        {
+            "name":"major_heat",
+            "value":"[TS_970049]_大暑"
+        },
+        {
+            "name":"two",
+            "value":"[TS_970074]_二"
+        },
+        {
+            "name":"spring_festival",
+            "value":"[TS_960744]_春节"
+        },
+        {
+            "name":"ji",
+            "value":"[TS_970026]_己"
+        },
+        {
+            "name":"major_snow",
+            "value":"[TS_970042]_大雪"
+        },
+        {
+            "name":"sixth_nine_days",
+            "value":"[TS_970047]_六九"
+        },
+        {
+            "name":"start_of_summer",
+            "value":"[TS_970006]_立夏"
+        },
+        {
+            "name":"eight",
+            "value":"[TS_970003]_八"
+        },
+        {
+            "name":"national_day",
+            "value":"[TS_959798]_国庆节"
+        },
+        {
+            "name":"hai",
+            "value":"[TS_970039]_亥"
+        },
+        {
+            "name":"womens_day",
+            "value":"[TS_959382]_妇女节"
+        },
+        {
+            "name":"chinese_peoples_police_day",
+            "value":"[TS_959386]_中国人民警察节"
+        },
+        {
+            "name":"christmas",
+            "value":"[TS_959791]_圣诞节"
+        },
+        {
+            "name":"si",
+            "value":"[TS_970061]_巳"
+        },
+        {
+            "name":"fourth_nine_days",
+            "value":"[TS_970062]_四九"
+        },
+        {
+            "name":"start_of_spring",
+            "value":"[TS_969996]_立春"
+        },
+        {
+            "name":"rooster",
+            "value":"[TS_970048]_鸡"
+        },
+        {
+            "name":"first_month",
+            "value":"[TS_970063]_正月"
+        },
+        {
+            "name":"thanksgiving",
+            "value":"[TS_959787]_感恩节"
+        },
+        {
+            "name":"april_fools_day",
+            "value":"[TS_959389]_愚人节"
+        },
+        {
+            "name":"double_ninth_festival",
+            "value":"[TS_960740]_重阳节"
+        },
+        {
+            "name":"white_dew",
+            "value":"[TS_970064]_白露"
+        },
+        {
+            "name":"jia",
+            "value":"[TS_970046]_甲"
+        },
+        {
+            "name":"spring_equinox",
+            "value":"[TS_970054]_春分"
+        },
+        {
+            "name":"july_seventh_incident",
+            "value":"[TS_959792]_七七事变"
+        },
+        {
+            "name":"yin",
+            "value":"[TS_970024]_寅"
+        },
+        {
+            "name":"northern_little_new_year",
+            "value":"[TS_960737]_北方小年"
+        },
+        {
+            "name":"ox",
+            "value":"[TS_970050]_牛"
+        },
+        {
+            "name":"valentines_day",
+            "value":"[TS_959387]_情人节"
+        },
+        {
+            "name":"pla_day",
+            "value":"[TS_959795]_建军节"
+        },
+        {
+            "name":"mid_fu",
+            "value":"[TS_970051]_中伏"
+        },
+        {
+            "name":"wei",
+            "value":"[TS_970007]_未"
+        },
+        {
+            "name":"eighth_nine_days",
+            "value":"[TS_970035]_八九"
+        },
+        {
+            "name":"xin",
+            "value":"[TS_970016]_辛"
+        },
+        {
+            "name":"first_nine_days",
+            "value":"[TS_970065]_入九"
+        },
+        {
+            "name":"second_nine_days",
+            "value":"[TS_969999]_二九"
+        },
+        {
+            "name":"five",
+            "value":"[TS_970055]_五"
+        },
+        {
+            "name":"ccp_founding_day",
+            "value":"[TS_959790]_建党节"
+        },
+        {
+            "name":"final_fu",
+            "value":"[TS_970069]_末伏"
+        },
+        {
+            "name":"grain_full",
+            "value":"[TS_970017]_小满"
+        },
+        {
+            "name":"arbor_day",
+            "value":"[TS_959385]_植树节"
+        },
+        {
+            "name":"halloween",
+            "value":"[TS_959793]_万圣夜"
+        },
+        {
+            "name":"ding",
+            "value":"[TS_970045]_丁"
+        },
+        {
+            "name":"monkey",
+            "value":"[TS_970066]_猴"
+        },
+        {
+            "name":"ghost_festival",
+            "value":"[TS_960735]_中元节"
+        },
+        {
+            "name":"fathers_day",
+            "value":"[TS_959788]_父亲节"
+        },
+        {
+            "name":"rat",
+            "value":"[TS_970040]_鼠"
+        },
+        {
+            "name":"you",
+            "value":"[TS_970031]_酉"
+        },
+        {
+            "name":"ten",
+            "value":"[TS_970022]_十"
+        },
+        {
+            "name":"summer_solstice",
+            "value":"[TS_970070]_夏至"
+        },
+        {
+            "name":"four",
+            "value":"[TS_969993]_四"
+        },
+        {
+            "name":"chou",
+            "value":"[TS_970038]_丑"
+        },
+        {
+            "name":"winter_month",
+            "value":"[TS_970011]_冬月"
+        },
+        {
+            "name":"xu",
+            "value":"[TS_970036]_戌"
+        },
+        {
+            "name":"start_of_autumn",
+            "value":"[TS_970010]_立秋"
+        },
+        {
+            "name":"seventh_nine_days",
+            "value":"[TS_970008]_七九"
+        },
+        {
+            "name":"wu",
+            "value":"[TS_970037]_午"
+        },
+        {
+            "name":"youth_day",
+            "value":"[TS_959384]_青年节"
+        },
+        {
+            "name":"shen",
+            "value":"[TS_970044]_申"
+        },
+        {
+            "name":"grain_in_ear",
+            "value":"[TS_970052]_芒种"
+        },
+        {
+            "name":"first",
+            "value":"[TS_970009]_正"
+        },
+        {
+            "name":"chinese_new_years_eve",
+            "value":"[TS_960736]_除夕"
+        },
+        {
+            "name":"zi",
+            "value":"[TS_970071]_子"
+        },
+        {
+            "name":"grain_rain",
+            "value":"[TS_970025]_谷雨"
+        },
+        {
+            "name":"ren",
+            "value":"[TS_970032]_壬"
+        },
+        {
+            "name":"yi",
+            "value":"[TS_970072]_乙"
+        },
+        {
+            "name":"six",
+            "value":"[TS_970067]_六"
+        },
+        {
+            "name":"waking_of_insects",
+            "value":"[TS_969991]_惊蛰"
+        },
+        {
+            "name":"three",
+            "value":"[TS_970029]_三"
+        },
+        {
+            "name":"national_memorial_day",
+            "value":"[TS_959786]_国家公祭日"
+        },
+        {
+            "name":"end_of_heat",
+            "value":"[TS_970012]_处暑"
+        },
+        {
+            "name":"rain_water",
+            "value":"[TS_969995]_雨水"
+        },
+        {
+            "name":"ninth_nine_days",
+            "value":"[TS_970073]_九九"
+        },
+        {
+            "name":"chen",
+            "value":"[TS_970005]_辰"
+        },
+        {
+            "name":"frosts_descent",
+            "value":"[TS_970068]_霜降"
+        },
+        {
+            "name":"start_of_winter",
+            "value":"[TS_970033]_立冬"
+        },
+        {
+            "name":"bing",
+            "value":"[TS_970001]_丙"
+        },
+        {
+            "name":"twelfth",
+            "value":"[TS_970053]_腊"
+        },
+        {
+            "name":"gui",
+            "value":"[TS_970020]_癸"
+        },
+        {
+            "name":"third_nine_days",
+            "value":"[TS_970023]_三九"
+        },
+        {
+            "name":"childrens_day",
+            "value":"[TS_959796]_儿童节"
+        },
+        {
+            "name":"teachers_day",
+            "value":"[TS_959789]_教师节"
+        },
+        {
+            "name":"snake",
+            "value":"[TS_969997]_蛇"
+        },
+        {
+            "name":"mid_autumn_festival",
+            "value":"[TS_960741]_中秋节"
+        },
+        {
+            "name":"mothers_day",
+            "value":"[TS_959383]_母亲节"
+        },
+        {
+            "name":"cold_dew",
+            "value":"[TS_970075]_寒露"
+        },
+        {
+            "name":"rabbit",
+            "value":"[TS_970058]_兔"
+        },
+        {
+            "name":"winter_solstice",
+            "value":"[TS_970078]_冬至"
+        },
+        {
+            "name":"minor_heat",
+            "value":"[TS_970034]_小暑"
+        },
+        {
+            "name":"major_cold",
+            "value":"[TS_970079]_大寒"
+        },
+        {
+            "name":"dog",
+            "value":"[TS_970041]_狗"
+        },
+        {
+            "name":"mao",
+            "value":"[TS_970021]_卯"
+        },
+        {
+            "name":"twelfth_month",
+            "value":"[TS_970076]_腊月"
+        },
+        {
+            "name":"christmas_eve",
+            "value":"[TS_959797]_平安夜"
+        },
+        {
+            "name":"consumers_rights_day",
+            "value":"[TS_959391]_消费者权益日"
+        },
+        {
+            "name":"labas_festival",
+            "value":"[TS_960745]_腊八节"
+        },
+        {
+            "name":"winter",
+            "value":"[TS_969992]_冬"
+        },
+        {
+            "name":"nine",
+            "value":"[TS_970059]_九"
+        },
+        {
+            "name":"autumn_equinox",
+            "value":"[TS_970004]_秋分"
+        },
+        {
+            "name":"dragon_boat_festival",
+            "value":"[TS_960738]_端午节"
+        },
+        {
+            "name":"qingming_festival",
+            "value":"[TS_970028]_清明节"
+        },
+        {
+            "name":"lantern_festival",
+            "value":"[TS_960739]_元宵节"
+        },
+        {
+            "name":"tiger",
+            "value":"[TS_970056]_虎"
+        },
+        {
+            "name":"pig",
+            "value":"[TS_970014]_猪"
+        },
+        {
+            "name":"southern_little_new_year",
+            "value":"[TS_960742]_南方小年"
+        },
+        {
+            "name":"minor_snow",
+            "value":"[TS_969998]_小雪"
+        },
+        {
+            "name":"new_years_day",
+            "value":"[TS_959388]_元旦"
+        },
+        {
+            "name":"accessibility_image_align_center",
+            "value":"[TS_979965]_Align center"
+        },
+        {
+            "name":"accessibility_image_align_left",
+            "value":"[TS_979966]_Align left"
+        },
+        {
+            "name":"accessibility_image_align_right",
+            "value":"[TS_979967]_Align right"
+        },
+        {
+            "name":"manage",
+            "value":"[TS_977590]_Manage"
+        },
+        {
+            "name":"share_multiple_agenda",
+            "value":"[TS_976832]_%2$s, including %1$s"
+        },
+        {
+            "name":"calendar_feedback_settings_title",
+            "value":"[TS_988948]_Feedback"
+        },
+        {
+            "name":"accessibility_switch_open_status",
+            "value":"[TS_977975]_Turned on"
+        },
+        {
+            "name":"notification_reminder_hints",
+            "value":"[TS_989144]_Reminders are not available because notifications are disabled for Calendar."
+        },
+        {
+            "name":"accessibility_card_next_month",
+            "value":"[TS_977986]_Next month"
+        },
+        {
+            "name":"accessibility_card_pre_month",
+            "value":"[TS_977981]_Previous month"
+        },
+        {
+            "name":"accessibility_image_squares",
+            "value":"[TS_977978]_Pattern, cubes"
+        },
+        {
+            "name":"accessibility_switch_close_status",
+            "value":"[TS_977982]_Turned off"
+        },
+        {
+            "name":"export_failed",
+            "value":"[TS_923482]_Export failed."
+        },
+        {
+            "name":"import_failed",
+            "value":"[TS_923199]_Import failed."
+        },
+        {
+            "name":"calendar_agenda",
+            "value":"[TS_923684]_Calendar event"
+        },
+        {
+            "name":"accessibility_show_agenda_btn",
+            "value":"[TS_989142]_Show event details"
+        },
+        {
+            "name":"accessibility_hide_agenda_btn",
+            "value":"[TS_989143]_Hide event details"
+        },
+        {
+            "name":"new_important_event",
+            "value":"[TS_997818]_New important day"
+        },
+        {
+            "name":"edit_important_event",
+            "value":"[TS_997816]_Edit important day"
+        },
+        {
+            "name":"delete_important_event",
+            "value":"[TS_997817]_Delete this important day?"
+        },
+        {
+            "name":"page_left",
+            "value":"[TS_995258]_Page left"
+        },
+        {
+            "name":"page_right",
+            "value":"[TS_995259]_Page right"
+        },
+        {
+            "name":"location_services_dialog_content",
+            "value":"[TS_998309]_This is used to display nearby locations and maps."
+        },
+        {
+            "name":"calendar_more_location",
+            "value":"[TS_998310]_More locations"
+        },
+        {
+            "name":"calendar_search_location_hint",
+            "value":"[TS_998311]_Enter location"
+        },
+        {
+            "name":"calendar_recent_location",
+            "value":"[TS_998312]_Recent locations"
+        },
+        {
+            "name":"calendar_current_map_position",
+            "value":"[TS_998313]_Getting location…"
+        },
+        {
+            "name":"calendar_current_position",
+            "value":"[TS_998314]_Current location"
+        },
+        {
+            "name":"location_services_dialog_title_default",
+            "value":"[TS_998315]_Calendar requires the Location permission"
+        },
+        {
+            "name":"location_clear",
+            "value":"[TS_998316]_Clear"
+        },
+        {
+            "name":"location_services_dialog_title",
+            "value":"[TS_998317]_Calendar needs access to your precise location"
+        },
+        {
+            "name":"calendar_nearby_location",
+            "value":"[TS_998318]_Nearby locations"
+        },
+        {
+            "name":"calendar_map_selection",
+            "value":"[TS_998319]_Select"
+        },
+        {
+            "name":"cancel_subcription_title",
+            "value":"[TS_1001185]_Remove add-on"
+        },
+        {
+            "name":"cancel_subcription",
+            "value":"[TS_999521]_This add-on will no longer be shown on the Calendar home screen, and related data will be deleted. Remove anyway?"
+        },
+        {
+            "name":"Constellation",
+            "value":"[TS_999522]_Horoscopes"
+        },
+        {
+            "name":"Almanac",
+            "value":"[TS_999523]_Chinese almanac"
+        },
+        {
+            "name":"add_location",
+            "value":"[TS_1000404]_Add location"
+        },
+        {
+            "name":"intelligent_creation",
+            "value":"[TS_1004281]_Quick create (Enter keywords)"
+        },
+        {
+            "name":"add_important_day_fa_to_desktop_title",
+            "value":"[TS_1004664]_Add to home screen"
+        },
+        {
+            "name":"customize_background_simplicity",
+            "value":"[TS_1003662]_Simple"
+        },
+        {
+            "name":"card_background_birthday_cake",
+            "value":"[TS_1003646]_Happy Day"
+        },
+        {
+            "name":"customize_background_graffiti",
+            "value":"[TS_1003660]_Graffiti"
+        },
+        {
+            "name":"card_background_sweet_summer",
+            "value":"[TS_1003647]_Sweet Summer"
+        },
+        {
+            "name":"select_texture",
+            "value":"[TS_1003664]_Pattern"
+        },
+        {
+            "name":"image_location_set_tips",
+            "value":"[TS_1003648]_Drag to move, pinch to zoom"
+        },
+        {
+            "name":"card_background_dreams_fly",
+            "value":"[TS_1003654]_Up and Away"
+        },
+        {
+            "name":"select_background",
+            "value":"[TS_1003658]_Background"
+        },
+        {
+            "name":"select_font",
+            "value":"[TS_1003653]_Font"
+        },
+        {
+            "name":"select_color",
+            "value":"[TS_1016009]_Color"
+        },
+        {
+            "name":"customize_card_setting",
+            "value":"[TS_1003665]_Customize"
+        },
+        {
+            "name":"original_image",
+            "value":"[TS_1003659]_Original"
+        },
+        {
+            "name":"customize_background_img",
+            "value":"[TS_1003663]_Customize background"
+        },
+        {
+            "name":"customize_background_dreams",
+            "value":"[TS_1003661]_Dreamlike"
+        },
+        {
+            "name":"select_layout",
+            "value":"[TS_1003649]_Layout"
+        },
+        {
+            "name":"add_fa_card_failed",
+            "value":"[TS_1007346]_Something went wrong."
+        },
+        {
+            "name":"add_fa_card_success",
+            "value":"[TS_1007345]_Added."
+        },
+        {
+            "name":"no_more_space_for_fa_card",
+            "value":"[TS_1007344]_Unable to add. Not enough space on home screen."
+        },
+        {
+            "name":"create_important_day",
+            "value":"[TS_1006895]_Important day"
+        },
+        {
+            "name":"copyright_text",
+            "value":"[TS_1003569]_Copyright © %d openharmony Device Co., Ltd. All rights reserved."
+        },
+        {
+            "name":"commonly_used_holidays",
+            "value":"[TS_1005808]_Suggested holidays"
+        },
+        {
+            "name":"reselect_contact_or_important_date",
+            "value":"[TS_1021919]_Reselect this contact's birthday or edit the important day."
+        },
+        {
+            "name":"contact_info_changed",
+            "value":"[TS_1019497]_Contact's birthday info has been changed"
+        },
+        {
+            "name":"location_enable_dialog_title",
+            "value":"[TS_1015877]_Allow Calendar to access system location information?"
+        },
+        {
+            "name":"course_time",
+            "value":"[TS_1010739]_Select periods"
+        },
+        {
+            "name":"course_weeks",
+            "value":"[TS_1010736]_Week No."
+        },
+        {
+            "name":"add_course_time",
+            "value":"[TS_1010738]_Add class time"
+        },
+        {
+            "name":"add_course",
+            "value":"[TS_1010729]_Add course"
+        },
+        {
+            "name":"edit_course",
+            "value":"[TS_1010745]_Edit course"
+        },
+        {
+            "name":"course_reminder",
+            "value":"[TS_1010723]_Course reminders"
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"[TS_1010731]_Pre-class reminders"
+        },
+        {
+            "name":"reminder_mode",
+            "value":"[TS_1023832]_Notification style"
+        },
+        {
+            "name":"school_open_time",
+            "value":"[TS_1010735]_Starts on"
+        },
+        {
+            "name":"current_week",
+            "value":"[TS_1010737]_Current week"
+        },
+        {
+            "name":"total_weeks",
+            "value":"[TS_1010734]_Number of weeks"
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"[TS_1010724]_Weekend lessons"
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"[TS_1010743]_Set timetable"
+        },
+        {
+            "name":"add_schedule",
+            "value":"[TS_1010727]_Create new"
+        },
+        {
+            "name":"edit_schedule",
+            "value":"[TS_1010725]_Edit schedule"
+        },
+        {
+            "name":"week_num",
+            "value":"[TS_1023729]_Week %s"
+        },
+        {
+            "name":"section_num",
+            "value":"[TS_1023733]_Period %s"
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"[TS_1039033]_Horoscopes and more"
+        },
+        {
+            "name":"jump_festival_url",
+            "value":"[TS_1043348]_https://h5hosting-drcn.dbankcdn.cn/cch5/calendarsub/CA/festival.html?serviceID=82aeabd1df944ce1b804b5764d7790fd&showTitle=false"
+        },
+        {
+            "name":"commonly_used_holidays_hint",
+            "value":"[TS_1041439]_Includes Chinese holidays and other well-known holidays."
+        },
+        {
+            "name":"macao_return_to_china",
+            "value":"[TS_1039735]_澳门回归"
+        },
+        {
+            "name":"police_day",
+            "value":"[TS_1039726]_警察节"
+        },
+        {
+            "name":"nurses_festival",
+            "value":"[TS_1039736]_护士节"
+        },
+        {
+            "name":"hong_kong_reunion_day",
+            "value":"[TS_1039731]_香港回归纪念日"
+        },
+        {
+            "name":"consumer_day",
+            "value":"[TS_1039727]_消费者日"
+        },
+        {
+            "name":"martyrs_memorial",
+            "value":"[TS_1039734]_烈士纪念"
+        },
+        {
+            "name":"macao_reunification_day",
+            "value":"[TS_1039729]_澳门回归纪念日"
+        },
+        {
+            "name":"public_sacrifice_day",
+            "value":"[TS_1039725]_公祭日"
+        },
+        {
+            "name":"victory_in_the_war_of_resistance_against_japan",
+            "value":"[TS_1039728]_抗战胜利"
+        },
+        {
+            "name":"chinese_martyrs_Day",
+            "value":"[TS_1039733]_中国烈士纪念日"
+        },
+        {
+            "name":"journalist_day",
+            "value":"[TS_1039730]_记者节"
+        },
+        {
+            "name":"victory_day_of_the_Chinese_People_war_of_resistance_against_japan",
+            "value":"[TS_1039732]_中国人民抗日战争胜利纪念日"
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"[TS_966894]_View summary"
+        },
+        {
+            "name":"course_details",
+            "value":"[TS_1043004]_Course details"
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"[TS_1043006]_Schedule name"
+        },
+        {
+            "name":"ending_time",
+            "value":"[TS_1043003]_End"
+        },
+        {
+            "name":"class_classroom",
+            "value":"[TS_1043005]_Classroom"
+        },
+        {
+            "name":"class_teacher",
+            "value":"[TS_1043007]_Teacher"
+        },
+        {
+            "name":"credits",
+            "value":"[TS_1043002]_Credits"
+        },
+        {
+            "name":"schedule_remark",
+            "value":"[TS_1043008]_Remarks"
+        },
+        {
+            "name":"enter_course_name",
+            "value":"[TS_1043206]_Enter course name"
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"[TS_1043208]_Enter schedule name"
+        },
+        {
+            "name":"course_color",
+            "value":"[TS_1010742]_Background color"
+        },
+        {
+            "name":"all_schedules",
+            "value":"[TS_1010747]_All schedules"
+        },
+        {
+            "name":"impor_from_album",
+            "value":"[TS_1045027]_Add from Gallery"
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"[TS_1045028]_Add course schedule"
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"[TS_1045021]_Number of schedules has reached the upper limit."
+        },
+        {
+            "name":"course_duration",
+            "value":"[TS_1045022]_Lesson duration"
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"[TS_1045020]_Import from teaching administration system"
+        },
+        {
+            "name":"break_duration",
+            "value":"[TS_1045024]_Break duration"
+        },
+        {
+            "name":"expand_more_info",
+            "value":"[TS_1049372]_Show more"
+        },
+        {
+            "name":"collapse_more_info",
+            "value":"[TS_1049373]_Show less"
+        },
+        {
+            "name":"normal_mode",
+            "value":"[TS_1048931]_Standard mode"
+        },
+        {
+            "name":"view_drag",
+            "value":"[TS_1048933]_Draggable bar to change view"
+        },
+        {
+            "name":"single_week_mode",
+            "value":"[TS_1048932]_Single week mode"
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"[TS_1048930]_Full screen mode"
+        },
+        {
+            "name":"this_day_in_history",
+            "value":"[TS_1049833]_Today in history"
+        },
+        {
+            "name":"calendar_cancel_enable_account_toast",
+            "value":"[TS_1050059]_Event created. Enable this account from the accounts menu."
+        },
+        {
+            "name":"calendar_enable_account_content",
+            "value":"[TS_1050060]_The account you selected has been disabled. To view this event in your Calendar, re-enable the account first."
+        },
+        {
+            "name":"calendar_to_enable_account",
+            "value":"[TS_1050062]_Enable"
+        },
+        {
+            "name":"calendar_enable_account_title",
+            "value":"[TS_1050061]_Enable Calendar account"
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"[TS_1053850]_Redirecting to %s…"
+        },
+        {
+            "name":"contacts",
+            "value":"[TS_1053849]_Contacts"
+        },
+        {
+            "name":"schedule_setting",
+            "value":"[TS_1010741]_Settings"
+        },
+        {
+            "name":"import_schedule",
+            "value":"[TS_1010733]_Import"
+        },
+        {
+            "name":"share_schedule",
+            "value":"[TS_1010732]_Share"
+        },
+        {
+            "name":"show_current_day_agenda",
+            "value":"[TS_1062365]_See your schedule for the day"
+        },
+        {
+            "name":"show_seven_day_agenda",
+            "value":"[TS_1062362]_See your schedule for the week ahead"
+        },
+        {
+            "name":"show_current_week_agenda",
+            "value":"[TS_1062366]_Check your schedule for each day of the week"
+        },
+        {
+            "name":"show_current_month",
+            "value":"[TS_1062363]_See the whole month at a glance"
+        },
+        {
+            "name":"show_important_days",
+            "value":"[TS_1062364]_Keep track of important days, birthdays, and holidays"
+        },
+        {
+            "name":"transparent_card",
+            "value":"[TS_1062367]_Transparent"
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"[TS_1062528]_On, %s, switch"
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"[TS_1062529]_Off, %s, switch"
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"[TS_1062512]_Double tap to turn on"
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"[TS_1062510]_Double tap to turn off"
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"[TS_1062516]_Double tap to activate"
+        },
+        {
+            "name":"unavailable_text",
+            "value":"[TS_1062509]_Unavailable"
+        },
+        {
+            "name":"recommended_subscription",
+            "value":"[TS_1061716]_Recommended add-ons"
+        },
+        {
+            "name":"subscription",
+            "value":"[TS_1061717]_Subscribe"
+        },
+        {
+            "name":"time_period_num",
+            "value":"[TS_1062511]_Class %s"
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"[TS_1062514]_End time is too late."
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"[TS_1062517]_Delete course"
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"[TS_1062508]_Create blank schedule"
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"[TS_1062513]_Only the %2$s class in week %1$s"
+        },
+        {
+            "name":"class_hit_text",
+            "value":"[TS_1062515]_All %s classes for this course (same teacher and location)"
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"[TS_1062561]_All classes for this course"
+        },
+        {
+            "name":"course_selection",
+            "value":"[TS_1052986]_Course schedule"
+        },
+        {
+            "name":"weekly_single",
+            "value":"[TS_1052988]_Odd"
+        },
+        {
+            "name":"weekly_double",
+            "value":"[TS_1052989]_Even"
+        },
+        {
+            "name":"every_first_sat",
+            "value":"[TS_1070033]_Every first Saturday"
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"[TS_1070007]_Every fourth Wednesday"
+        },
+        {
+            "name":"every_last_tus",
+            "value":"[TS_1070011]_Every last Tuesday"
+        },
+        {
+            "name":"every_third_tus",
+            "value":"[TS_1070004]_Every third Tuesday"
+        },
+        {
+            "name":"every_first_wed",
+            "value":"[TS_1070021]_Every first Wednesday"
+        },
+        {
+            "name":"every_third_sun",
+            "value":"[TS_1070022]_Every third Sunday"
+        },
+        {
+            "name":"every_second_sat",
+            "value":"[TS_1070005]_Every second Saturday"
+        },
+        {
+            "name":"every_first_mon",
+            "value":"[TS_1070016]_Every first Monday"
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"[TS_1070023]_Every fourth Monday"
+        },
+        {
+            "name":"every_second_wed",
+            "value":"[TS_1070020]_Every second Wednesday"
+        },
+        {
+            "name":"every_last_mon",
+            "value":"[TS_1070009]_Every last Monday"
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"[TS_1070035]_Every fourth Sunday"
+        },
+        {
+            "name":"every_second_mon",
+            "value":"[TS_1070018]_Every second Monday"
+        },
+        {
+            "name":"every_third_fri",
+            "value":"[TS_1070019]_Every third Friday"
+        },
+        {
+            "name":"every_first_sun",
+            "value":"[TS_1070001]_Every first Sunday"
+        },
+        {
+            "name":"every_first_tus",
+            "value":"[TS_1070026]_Every first Tuesday"
+        },
+        {
+            "name":"every_last_sun",
+            "value":"[TS_1070012]_Every last Sunday"
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"[TS_1070008]_Every fourth Tuesday"
+        },
+        {
+            "name":"every_second_sun",
+            "value":"[TS_1070000]_Every second Sunday"
+        },
+        {
+            "name":"every_third_sat",
+            "value":"[TS_1070027]_Every third Saturday"
+        },
+        {
+            "name":"every_last_sat",
+            "value":"[TS_1070003]_Every last Saturday"
+        },
+        {
+            "name":"every_second_tus",
+            "value":"[TS_1070025]_Every second Tuesday"
+        },
+        {
+            "name":"every_first_fri",
+            "value":"[TS_1070029]_Every first Friday"
+        },
+        {
+            "name":"every_third_thu",
+            "value":"[TS_1070006]_Every third Thursday"
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"[TS_1070032]_Every fourth Friday"
+        },
+        {
+            "name":"every_last_wed",
+            "value":"[TS_1070015]_Every last Wednesday"
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"[TS_1070031]_Every fourth Thursday"
+        },
+        {
+            "name":"every_last_fri",
+            "value":"[TS_1070017]_Every last Friday"
+        },
+        {
+            "name":"every_third_mon",
+            "value":"[TS_1070030]_Every third Monday"
+        },
+        {
+            "name":"every_first_thu",
+            "value":"[TS_1070013]_Every first Thursday"
+        },
+        {
+            "name":"every_second_fri",
+            "value":"[TS_1070028]_Every second Friday"
+        },
+        {
+            "name":"every_third_wed",
+            "value":"[TS_1070002]_Every third Wednesday"
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"[TS_1070010]_Every fourth Saturday"
+        },
+        {
+            "name":"every_last_thu",
+            "value":"[TS_1070024]_Every last Thursday"
+        },
+        {
+            "name":"every_second_thu",
+            "value":"[TS_1070014]_Every second Thursday"
+        },
+        {
+            "name":"course_limit_text",
+            "value":"[TS_1070034]_Max number of courses reached."
+        },
+        {
+            "name":"follow_system_settings",
+            "value":"[TS_1065715]_Follow system (%s)"
+        },
+        {
+            "name":"title_follow_system",
+            "value":"[TS_1094729]_Follow system"
+        },
+        {
+            "name":"notification_ringtone",
+            "value":"[TS_1065716]_Notification tone"
+        },
+        {
+            "name":"select_local_music",
+            "value":"[TS_1065717]_Music on device"
+        },
+        {
+            "name":"ringtone_default_item",
+            "value":"[TS_1065718]_%s (Default)"
+        },
+        {
+            "name":"system_ringtone",
+            "value":"[TS_1065719]_System ringtones"
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"[TS_1071834]_View your classes for the week."
+        },
+        {
+            "name":"class_schedule",
+            "value":"[TS_1071833]_Class schedule"
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"[TS_1082401]_Cloud sync is disabled. Unable to view events from other devices."
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"[TS_1082403]_This event hasn't been synced. Unable to view on this device."
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"[TS_1082402]_Tap %s to go to the selected date."
+        },
+        {
+            "name":"some_attachment_not_exist",
+            "value":"[TS_1085796]_Some attachments do not exist."
+        },
+        {
+            "name":"attachment_not_exist",
+            "value":"[TS_1085790]_Attachment does not exist."
+        },
+        {
+            "name":"memory_full_toast",
+            "value":"[TS_1085784]_Memory full. Delete some data and try again."
+        },
+        {
+            "name":"attachment_detail",
+            "value":"[TS_1085794]_Attachments"
+        },
+        {
+            "name":"attachment_size_exceed",
+            "value":"[TS_1085799]_Attachment exceeds %s size limit."
+        },
+        {
+            "name":"attachment_total_size_exceed",
+            "value":"[TS_1085795]_Attachments cannot exceed %s in total."
+        },
+        {
+            "name":"file_formate_not_support",
+            "value":"[TS_1085789]_This file format can't be opened."
+        },
+        {
+            "name":"attachment_total_num_exceed",
+            "value":"[TS_1085785]_Cannot add more than %d attachments."
+        },
+        {
+            "name":"file_save_failed",
+            "value":"[TS_1085788]_Unable to save."
+        },
+        {
+            "name":"add_attachment",
+            "value":"[TS_1085797]_Add attachment"
+        },
+        {
+            "name":"attachment_adding",
+            "value":"[TS_1085786]_Adding…"
+        },
+        {
+            "name":"course_materials",
+            "value":"[TS_1085476]_Course materials"
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"[TS_1085479]_Update the schedule according to the new period and break lengths?"
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"[TS_1085468]_There are already classes in this schedule. Overwrite them?"
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"[TS_1085463]_Image upload guide"
+        },
+        {
+            "name":"unopened_school",
+            "value":"[TS_1085478]_Not started"
+        },
+        {
+            "name":"next_step",
+            "value":"[TS_1085474]_Next"
+        },
+        {
+            "name":"course_time_limits",
+            "value":"[TS_1085462]_Maximum number of course periods reached."
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"[TS_1085460]_Overwrite"
+        },
+        {
+            "name":"no_course",
+            "value":"[TS_1085464]_No classes"
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"[TS_1086241]_%1$s (%2$s)"
+        },
+        {
+            "name":"import_completed",
+            "value":"[TS_1085454]_Imported."
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"[TS_1085455]_Add more periods"
+        },
+        {
+            "name":"modify_schedule",
+            "value":"[TS_1085470]_Tap blocks to edit"
+        },
+        {
+            "name":"participant_num",
+            "value":"[TS_1082404]_Participants (%d)"
+        },
+        {
+            "name":"my_schedule",
+            "value":"[TS_1085453]_My course schedule"
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"[TS_1085465]_Parsing schedule…"
+        },
+        {
+            "name":"delete_course",
+            "value":"[TS_1085456]_Delete course"
+        },
+        {
+            "name":"ended",
+            "value":"[TS_1085461]_Ended"
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"[TS_1085457]_Yes"
+        },
+        {
+            "name":"close_course_detail",
+            "value":"[TS_1085472]_Close course details"
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"[TS_1085467]_Optimizing image…"
+        },
+        {
+            "name":"no_schedule",
+            "value":"[TS_1085466]_No course schedule"
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"[TS_1085473]_Keep the screen on. Don't leave this app."
+        },
+        {
+            "name":"save_current_settings",
+            "value":"[TS_1085458]_No"
+        },
+        {
+            "name":"Reupload",
+            "value":"[TS_1085459]_Upload again"
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"[TS_1085471]_Edit course details"
+        },
+        {
+            "name":"selete_another_image",
+            "value":"[TS_1085475]_Image parsing failed. Please upload a new image."
+        },
+        {
+            "name":"confirm_result",
+            "value":"[TS_1085528]_Confirm schedule"
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"[TS_1085469]_Parsing course name…"
+        },
+        {
+            "name":"parsing",
+            "value":"[TS_1085477]_Parsing…"
+        },
+        {
+            "name":"import_agenda",
+            "value":"[TS_1085764]_Import events"
+        },
+        {
+            "name":"import_from_file",
+            "value":"[TS_1085763]_Import from file"
+        },
+        {
+            "name":"non_standard_format",
+            "value":"[TS_1079905]_Non-standard format"
+        },
+        {
+            "name":"correct_examples",
+            "value":"[TS_1079910]_Perfect example"
+        },
+        {
+            "name":"image_unclear",
+            "value":"[TS_1079909]_Blurry"
+        },
+        {
+            "name":"schedule_school",
+            "value":"[TS_1079907]_Course schedule"
+        },
+        {
+            "name":"art_fonts",
+            "value":"[TS_1079906]_Artistic fonts"
+        },
+        {
+            "name":"start_import_album",
+            "value":"[TS_1079902]_Select from Gallery"
+        },
+        {
+            "name":"moir_patterns",
+            "value":"[TS_1079903]_Streaky"
+        },
+        {
+            "name":"image_tilt",
+            "value":"[TS_1079899]_Slanted"
+        },
+        {
+            "name":"guide_instruction",
+            "value":"[TS_1079900]_Upload a clear and complete photo of your course schedule."
+        },
+        {
+            "name":"error_examples",
+            "value":"[TS_1079904]_Poor examples"
+        },
+        {
+            "name":"image_guide",
+            "value":"[TS_1079908]_Image tips"
+        },
+        {
+            "name":"multiple_tables",
+            "value":"[TS_1079901]_Multiple tables"
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"[TS_1089354]_Allow Calendar to access your Gallery?"
+        },
+        {
+            "name":"select_schedule",
+            "value":"[TS_1089355]_Schedule"
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"[TS_1089356]_Switch week number"
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"[TS_1089359]_First period starts at %s."
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"[TS_1089357]_This is used to help you find images related to the course."
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"[TS_1089351]_Delete this course schedule?"
+        },
+        {
+            "name":"not_allowed",
+            "value":"[TS_1089358]_Deny"
+        },
+        {
+            "name":"view_course_photos",
+            "value":"[TS_1089360]_View photos"
+        },
+        {
+            "name":"current_month",
+            "value":"[TS_1086936]_This month"
+        },
+        {
+            "name":"delete_schedule",
+            "value":"[TS_1089353]_Delete course schedule"
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"[TS_1091508]_Daily class reminders"
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"[TS_1086333]_No objects detected"
+        },
+        {
+            "name":"photo_not_found",
+            "value":"[TS_1086683]_No albums"
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"[TS_1086331]_Cut out"
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"[TS_1090960]_Cancel cutout"
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"[TS_1097796]_Stay on top of your studies by importing your course schedules."
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"[TS_1097788]_You can add course schedules from the sidebar."
+        },
+        {
+            "name":"switch_schedule",
+            "value":"[TS_1097800]_Switch schedule"
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"[TS_1097802]_You can now add course schedules to your calendar."
+        },
+        {
+            "name":"click_authorize",
+            "value":"[TS_1098098]_Preview service provided by openharmony Calendar\nTap to authorize"
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"[TS_1097792]_Tap to add a course schedule."
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"[TS_1097789]_To snooze a notification, simply tap \"Snooze\" on the banner or in the Notification Panel."
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"[TS_1097803]_Stay focused by snoozing notifications you don't want to miss. Snoozed notifications reappear after %d minutes."
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"[TS_1097790]_Disable recommendations"
+        },
+        {
+            "name":"login_popup_text",
+            "value":"[TS_1097793]_Log in to your openharmony ID to use this feature."
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"[TS_1097801]_For the best results, remove unrelated content from the image."
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"[TS_1097798]_Snooze notifications"
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"[TS_1095863]_Quickly find photos taken during classes. Applies to all course schedules."
+        },
+        {
+            "name":"show_associated_images",
+            "value":"[TS_1095861]_Suggest related images"
+        },
+        {
+            "name":"schedule_manager",
+            "value":"[TS_1100752]_Manage schedule"
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"[TS_1100747]_Swipe down to return to Month view."
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"[TS_1100756]_You can help us improve this feature by letting us know when a schedule can't be imported. Provide feedback now?"
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"[TS_1100755]_Tap on a block to edit it."
+        },
+        {
+            "name":"semester_ended",
+            "value":"[TS_1100749]_Term has ended"
+        },
+        {
+            "name":"today_no_course",
+            "value":"[TS_1100754]_No classes today"
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"[TS_1100748]_Tap to return to Month view."
+        },
+        {
+            "name":"save_across_day_recurring_agenda_tips",
+            "value":"[TS_1102207]_If you set a multi-day event to repeat, with the interval shorter than the event duration, it may appear in your schedule more than once each day. Save anyway?"
+        },
+        {
+            "name":"open_screen_page_tv",
+            "value":"[TS_1095862]_This app requires an Internet connection and the Calendar permission. By tapping Agree, you agree to these terms. For details about how your personal information is processed, refer to the %1$s."
+        },
+        {
+            "name":"broadcast_swipe_week",
+            "value":"[TS_1102261]_Swipe left or right with two fingers to switch weeks"
+        },
+        {
+            "name":"broadcast_zodiac_sign_card",
+            "value":"[TS_1102263]_Horoscope recommendations card"
+        },
+        {
+            "name":"broadcast_double_tap_view_agenda",
+            "value":"[TS_1102258]_Double-tap to view events for this day"
+        },
+        {
+            "name":"broadcast_swipe_day",
+            "value":"[TS_1102269]_Swipe left or right with two fingers to switch days"
+        },
+        {
+            "name":"broadcast_swipe_year",
+            "value":"[TS_1102254]_Swipe left or right with two fingers to switch years"
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"[TS_1104843]_Not this:"
+        },
+        {
+            "name":"broadcast_swipe_month",
+            "value":"[TS_1102255]_Swipe left or right with two fingers to switch months"
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"[TS_1105031]_Schedule name already exists."
+        },
+        {
+            "name":"broadcast_historical_card",
+            "value":"[TS_1102257]_Today in history recommendations card"
+        },
+        {
+            "name":"recommended_example",
+            "value":"[TS_1104845]_Like this:"
+        },
+        {
+            "name":"broadcast_double_tap_view_calendar",
+            "value":"[TS_1102259]_Double-tap to view this month's calendar"
+        },
+        {
+            "name":"broadcast_swipe_view_mode",
+            "value":"[TS_1102265]_Swipe up or down with two fingers to switch view modes"
+        },
+        {
+            "name":"broadcast_huangli_card",
+            "value":"[TS_1102262]_Chinese almanac recommendations card"
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"[TS_1104844]_%1$s (%2$s)"
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"[TS_1108808]_Swipe right with two fingers to delete the course schedule"
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"[TS_1108806]_From %1$s to %2$s"
+        },
+        {
+            "name":"schedule_share_phototext",
+            "value":"[TS_1115393]_Image"
+        },
+        {
+            "name":"semester_not_start",
+            "value":"[TS_1111587]_Semester has not started yet"
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"[TS_1105028]_View tomorrow's events"
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"[TS_1105029]_No events today. Enjoy your day."
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"[TS_1105030]_No more events today"
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"[TS_1114008]_Your image will be uploaded to the cloud for AI identification."
+        },
+        {
+            "name":"app_name_notepad",
+            "value":"[TS_1115269]_Notepad"
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"[TS_1114629]_Orange"
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"[TS_1114641]_Blue"
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"[TS_1114632]_Purple"
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"[TS_1114633]_White"
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"[TS_1114640]_Black"
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"[TS_1114630]_Yellow"
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"[TS_1114626]_Green"
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"[TS_1114635]_Font 2"
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"[TS_1114643]_Font 3"
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"[TS_1114634]_Font 4"
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"[TS_1114631]_Font 5"
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"[TS_1114638]_Font 1"
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"[TS_1114637]_Font 6"
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"[TS_1114627]_Font 7"
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"[TS_1114639]_Font 8"
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"[TS_1114644]_Red"
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"[TS_1114642]_Default font"
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"[TS_1114636]_Cyan"
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"[TS_1114628]_Tap to go and select an image"
+        },
+        {
+            "name":"course_credits_label",
+            "value":"[TS_1114743]_Credits: %s"
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"[TS_1114744]_Remarks: %s"
+        },
+        {
+            "name":"course_room_label",
+            "value":"[TS_1114746]_Classroom: %s"
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"[TS_1114745]_Teacher: %s"
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"[TS_1119322]_Light yellow"
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"[TS_1119321]_Light red"
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"[TS_1119317]_Light cyan"
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"[TS_1119319]_Indigo"
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"[TS_1119324]_Light purple"
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"[TS_1119320]_Light blue"
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"[TS_1119318]_Maroon"
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"[TS_1119323]_Light orange"
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"[TS_1119316]_Light green"
+        },
+        {
+            "name":"holiday_reminder_title",
+            "value":"[TS_1122328]_Show suggested holidays"
+        },
+        {
+            "name":"holiday_reminder_description",
+            "value":"[TS_1122329]_Enable this to see well-known holidays in your calendar."
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"[TS_1118942]_Customize wallpaper"
+        },
+        {
+            "name":"enable_calendar",
+            "value":"[TS_1118941]_Poster view"
+        },
+        {
+            "name":"exit_calendar",
+            "value":"[TS_1118945]_Exit poster view"
+        },
+        {
+            "name":"select_online_music",
+            "value":"[TS_1137677]_Browse online sounds"
+        }
+    ]
+}

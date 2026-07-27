@@ -1,0 +1,3084 @@
+{
+    "string":[
+        {
+            "name":"at_time_of_event",
+            "value":"Во время события",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar",
+            "value":"Мой календарь",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"за 1 неделю",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"Пятница",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"Понедельник",
+            "attr":{
+                "priority":"customer"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"Воскресенье",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"Среда",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"Четверг",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"Суббота",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"Вторник",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"Аккаунты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"Предстоящие события",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"(Без названия)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"Участники",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"Напоминания",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"Отмена",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"ПП",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_the_same_day",
+            "value":"Сегодня",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar",
+            "value":"Календарь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"Стиль уведомлений",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"Справка и обратная связь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"Переадресация в приложение %s…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"Персидский календарь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reciprocal_title_label",
+            "value":"Важный день",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"Перенос выходных дней",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"Эта неделя",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"Часовой пояс",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"Участники",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"Участвовать",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_agenda_is_all_done",
+            "value":"Сегодня больше нет событий",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"Общий доступ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"Только уроки в неделю %1$s (день проведения: %2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"События до %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"Все события",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"Вы можете скопировать это событие и вставить его в другое приложение.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"Сохранить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close",
+            "value":"Закрыть",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"Конец",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"Посмотреть все события",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"Выходные по умолчанию",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"По умолчанию",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"Другие календари",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"Недоступно",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"month",
+            "value":"Месяц",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"Имя",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"Аккаунт openharmony",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"Показывать важные дни в отображении по месяцам.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"Сведения курса",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"Изменить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"Изменение курса",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"Вы можете предоставить доступ к этому календарю другим пользователям.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"Буддийский календарь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"Выходные",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"Отложить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"За 2 дня",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"Собираемые персональные данные",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"Нет событий",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"Напоминания о курсе",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_important_agenda",
+            "value":"Канун нового года",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"Номер недели",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"Изменить событие",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"Фиксация часового пояса",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"Получать предложения общего доступа к календарям",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"on_going",
+            "value":"Идет",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"Название расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"Иудейский календарь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"Весь день",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"Другое",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"Нажмите дважды, чтобы включить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"Копировать",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"Синхронизация задач на базе времени из приложения Заметки.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"Напоминания о событиях",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"Важные дни",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"Копировать событие",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"Импорт",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"searching_for_time_zones",
+            "value":"Поиск часовых поясов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"Место",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"morning",
+            "value":"ДП",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"Региональная настройка по умолчанию",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"Выполните вход, чтобы предоставлять общий доступ к календарям. Войти?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"Уведомления перед уроками",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"Удалить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"День",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"Удалить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"За 1 час",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"Начало недели",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"Введите имя курса",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"Праздники",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_for_each_lesson",
+            "value":"Все уроки",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"Это устройство",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"Все уроки в этом курсе (%s, один учитель и место)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"Табличный исламский календарь",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"Скопировано.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"reminder_for_first_class_only",
+            "value":"Только первый урок",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"Национальный календарь Индии",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"Новое событие",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"Пурпурный",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"Контакты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"net_set_text",
+            "value":"Настройки сети",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_share",
+            "value":"Вы больше не будете получать сообщения, связанные с этим аккаунтом, если выйдете из него.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"Пн",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"Дата",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"Все расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"Участники",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"Поиск событий",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"Общий доступ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"Удалено.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"Все уроки в этом курсе",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"Безопасность и конфиденциальность",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"read",
+            "value":"Прочитано",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"Уведомления",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"Урок %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"Разрешить приложению Календарь загружать и обновлять данные календаря, праздничных дней и аддоны?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"В этот день (в %d утра)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"Добавить курс",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"Онлайн-встреча",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"Отмена",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"Аккаунты календаря",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"Добавление напоминания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"Удалить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"Отправить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"form_openharmony_calendar",
+            "value":"Из Календаря openharmony",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"Новое событие",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"Изменить расписание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_event_title_label",
+            "value":"Название",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"Общий доступ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"Выбор урока",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"За 2 часа",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"Завтра",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"Изменить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_yet_authorized",
+            "value":"Нажмите, чтобы начать",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"Загруз\u200bка\u2026",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recent_holiday",
+            "value":"Следующий праздник",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"Время",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"OK",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"Не прочитано",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"Цвет фона",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"Отображение по месяцам",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"Сохранить изменения?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"Баллы",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"Нажмите дважды, чтобы выключить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"Выйти из аккаунта общего доступа",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"Введите название расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"Разрешить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"year",
+            "value":"Год",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"Статус",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"Выбрать все",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"Остановить доступ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"Изменить календарь",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"Настройки календаря",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"Сторонние SDK",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"Переключатель %s во включенном состоянии",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"Ср",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"Красный",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"Нет результатов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"Нечетные",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_switching",
+            "value":"Переключить вид",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"Время окончания слишком позднее.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"Светло-оранжевый",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"Нажмите дважды, чтобы активировать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"Лектор",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"Послезавтра",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"Сохранить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"Не сохранять",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"Настройка расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before",
+            "value":"За день",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"Удаление курса",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_view",
+            "value":"Неделя",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"Посмотреть описание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"Выбрать несколько",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"Вс",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"Горячая линия службы поддержки клиентов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"Создание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today",
+            "value":"Сегодня",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"Пт",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"Чт",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"Отображение номера недели",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"Аддоны",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"Начало",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"Четные",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"Урок %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"Для общего доступа к календарям требуется включить функцию синхронизации календарей в Облаке. Включить?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"За %d минут",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"Сб",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"Достигнут ежедневный лимит общего доступа. Повторите попытку завтра.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"Примечание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"Новый календарь",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"Ожидание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"Удалить этот календарь и все его события?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"Конец",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"Справка",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_title_separate",
+            "value":"%1$s · %2$s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"Добавить личный аккаунт",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"Включить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"Уроки на выходных",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"События после %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"Описание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"Разрешить доступ в Интернет?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"Блокировка контактов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"Китайский календарь",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"Посмотреть",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"Вт",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"Серый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"Отображение времени и дат событий всегда в выбранном часовом поясе.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"Зеленый",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"Переключатель %s в выключенном состоянии",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"Управление общим доступом",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"Событие",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"Удалить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"Отменить выбор",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"Используется для управления вашим календарем.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"Кабинет",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"Настройки",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"Позавчера",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"Центр сообщений",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"Создать пустое расписание",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"За %1$d неделю (в %2$d утра)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"Вчера",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"Добавить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_preferences",
+            "value":"Настройки",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"Добавить напоминание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"За 1 день",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"Нет",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"Вы можете предоставить доступ к этому событию другим пользователям.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"Нет событий на предстоящие 7 дней",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"Цвет",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_date",
+            "value":"Начало",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"Для событий на весь день",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_internet_connection",
+            "value":"Нет доступа в Интернет",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"Темно-оранжевый",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"Синхронизировать задачи",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"Событие",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"card_no_agenda",
+            "value":"Нет событий",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"Количество недель",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"Гороскопы и прочее",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"Добавить время уроков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"Японский календарь",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_schedule",
+            "value":"Расписание",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"Сегодня нет событий",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"Неделя %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"Удалить это событие?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"Каждая первая суббота",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"Добавить из Галереи",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"Каждое второе воскресенье",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"Каждая четвертая среда",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"Каждая третья суббота",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"Каждый последний вторник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"Длительность перерыва",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"Каждый третий вторник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"Каждая последняя суббота",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"Каждый второй вторник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"Каждая первая среда",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"Каждое третье воскресенье",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"Добавить расписание уроков",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"Каждая вторая суббота",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"Расписание уроков",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"Достигнуто максимальное количество расписаний.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"Каждая первая пятница",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"Каждый третий четверг",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"Каждая четвертая пятница",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"Каждая последняя среда",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"Каждый первый понедельник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"Каждый четвертый понедельник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"Каждый четвертый четверг",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"Длительность урока",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"Каждая вторая среда",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"Каждая последняя пятница",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"Каждый последний понедельник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"Каждое четвертое воскресенье",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"Каждый третий понедельник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"Удобный просмотр расписания на неделю.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"Расписание уроков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"Каждый второй понедельник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"Каждая третья пятница",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"Каждый первый четверг",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"Каждая вторая пятница",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"Каждая третья среда",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"Каждая четвертая суббота",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"Достигнуто максимальное количество уроков.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"Каждое первое воскресенье",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"Каждый первый вторник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"Каждый последний четверг",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"Каждый второй четверг",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"Импорт из системы управления учебным процессом",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"Каждое последнее воскресенье",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"Каждый четвертый вторник",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"Синхронизация с Облаком выключена. Невозможно посмотреть события, сохраненные на других устройствах.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"Это событие не синхронизировано. Его невозможно посмотреть на этом устройстве.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"Нажмите на %s, чтобы перейти к выбранной дате.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"Материалы курса",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"Импортировать события",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"Добавить еще",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"Художественные шрифты",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"Выбрать из Галереи",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"Обновить расписание согласно новой продолжительности уроков и перерывов?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"Нестандартный формат",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"Нажимайте на блоки для изменения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"Участники (%d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"Расписание курсов",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"Анализ расписания...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"Удалить курс",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"В этом расписании уже есть курсы. Заменить?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"Инструкции по выгрузке изображения",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"Правильно",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"Завершено",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"Да",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"Закрыть сведения курса",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"Полосы на фото",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"Оптимизация изображения…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"Нет расписания курсов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"Импортировать из файла",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"Не выключайте экран. Не покидайте экран приложения.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"Нет",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"Выгрузить повторно",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"Изменить сведения курса",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"Наклон на фото",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"Сделайте или выгрузите четкое фото, включающее расписание уроков целиком.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"Неправильно",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"Сбой анализа изображения. Выгрузите новое изображение.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"Не началось",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"Рекомендации для фото",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"Нечеткое фото",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"Подтверждение расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"Анализ имени курса...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"Далее",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"Достигнуто максимальное количество уроков в курсе.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"Несколько таблиц",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"Анализ…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"Заменить",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"Нет курсов",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"Импортировано.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"Расписание уроков",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"Разрешить приложению Календарь доступ к Галерее?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"Расписание",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"Переключение номера недели",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"Первый урок начинается в %s.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"Это необходимо для поиска изображений, связанных с курсом.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"Удалить расписание курсов?",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"Запретить",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"Посмотреть фото",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"Удалить расписание курсов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"Ежедневные напоминания об уроках",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"Объекты не обнаружены",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"Нет альбомов",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"Вырезать объект",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"Отменить вырез",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"Обычный режим",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"lunar_calendar_text",
+            "value":"农历",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"Перетаскиваемая панель для изменения вида",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"Режим одной недели",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"Полноэкранный режим",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"Импортируйте расписания курсов в приложение, чтобы эта важная информация была всегда под рукой.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"Расписания можно добавить на боковой панели.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"Откладывайте уведомления, чтобы не отвлекаться от текущих задач. Они поступят повторно через %d минут.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"Выключить рекомендации",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"Переключение расписания",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"Чтобы использовать эту функцию, выполните вход в ваш аккаунт openharmony.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"Теперь в календарь можно добавлять расписания курсов.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"Для достижения наилучших результатов удалите с изображения нерелевантный контент.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"Нажмите, чтобы добавить расписание курсов.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"Отложенные уведомления",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"Чтобы отложить уведомление, нажмите Отложить на баннере или на панели уведомлений.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"Служба предпросмотра предоставляется приложением Календарь openharmony\nНажмите, чтобы предоставить право доступа",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"Быстрый поиск фото, снятых на уроках. Применяется ко всем расписаниям курсов.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"Рекомендовать связанные изображения",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"Управление расписанием",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"Сегодня нет уроков",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"Проведите вниз, чтобы вернуться в режим просмотра месяца целиком.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"Сообщайте нам о сбое импорта расписания, чтобы помочь улучшить эту функцию. Отправить комментарий?",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"Нажмите на блок, чтобы изменить его.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"Нажмите, чтобы вернуться в режим просмотра месяца целиком.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"Семестр завершен",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"Голубой",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"Индиго",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"Правильно:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"Неправильно:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"Такое имя расписания уже существует.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"Отображение по месяцам",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"С %1$s до %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"Проведите вправо двумя пальцами, чтобы удалить расписание курсов",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"Семестр еще не начался",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"Посмотреть события на завтра",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"Сегодня нет событий. Хорошего дня.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"Сегодня больше нет событий",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"Ваше изображение будет выгружено в облако для распознавания на базе ИИ.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"Оранжевый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"Синий",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"Фиолетовый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"Зеленый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"Шрифт 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"Шрифт 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"Шрифт 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"Шрифт 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"Шрифт 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"Белый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"Шрифт 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"Шрифт 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"Шрифт 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"Красный",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"Черный",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"Шрифт по умолчанию",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"Бирюзовый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"Нажмите, чтобы перейти и выбрать изображение",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"Желтый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"Кабинет: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"Зачетные единицы: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"Преподаватель: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"Примечания: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"Голубой",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"Светло-желтый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"Бордовый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"Светло-красный",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"Светло-бирюзовый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"Светло-оранжевый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"Светло-зеленый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"Индиго",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"Светло-фиолетовый",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collision_text",
+            "value":"Конфликт времени",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"В виде постера",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"Закрыть вид постера",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"Настроить обои",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_agenda",
+            "value":"Выбрать несколько",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_festive_holiday",
+            "value":"Показать",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"festival_holiday_Display",
+            "value":"Праздники и сезоны китайского сельскохозяйственного календаря",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hidden_festive_holiday",
+            "value":"Скрыть",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title1",
+            "value":"Важные события в истории, произошедшие в этот день.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title2",
+            "value":"Ваш ежедневный гороскоп.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"desk_sub_card_title3",
+            "value":"Информация о благоприятных днях.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name" : "double_title_guide_text",
+            "value" : "Нажмите дважды, чтобы быстро вернуться к этой неделе.",
+            "attr" : {
+                "priority" : "translate"
+            }
+        },
+        {
+            "name":"create_single_period_popup_text",
+            "value":"Нажмите, чтобы добавить один урок.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"slight_pause_mark",
+            "value":"%1$s, %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"syncing",
+            "value":"Синхронизация…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_succeed",
+            "value":"Календарь синхронизирован.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"caldav_waiting_for_validation",
+            "value":"Ожидание подтверждения...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"synchronize",
+            "value":"Синхронизация",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_fail",
+            "value":"Сбой синхронизации.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_time_invalid_toast",
+            "value":"Время окончания не может быть раньше времени начала.",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

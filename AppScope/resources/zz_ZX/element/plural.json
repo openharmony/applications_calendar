@@ -1,0 +1,758 @@
+{
+    "plural":[
+        {
+            "name":"events_selected_item",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923654]_%d events selected"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923308]_%d event selected"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923347]_%d events selected"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923655]_%d events selected"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923435]_%d events selected"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923294]_%d events selected"
+                }
+            ]
+        },
+        {
+            "name":"delete_multiple_selected_count_msg",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923566]_Delete %d events?"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923625]_Delete this event?"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923589]_Delete %d events?"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923213]_Delete %d events?"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923631]_Delete %d events?"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923635]_Delete %d events?"
+                }
+            ]
+        },
+        {
+            "name":"days_later",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923701]_In %d day"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923315]_In %d days"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923644]_In %d days"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923534]_In %d days"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923677]_In %d days"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923683]_In %d days"
+                }
+            ]
+        },
+        {
+            "name":"days_ago",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923281]_%d days before"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923511]_%d day before"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923488]_%d days before"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923360]_%d days before"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923658]_%d days before"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923485]_%d days before"
+                }
+            ]
+        },
+        {
+            "name":"days",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_898580]_days"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_898579]_day"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_898583]_days"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_898581]_days"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_898582]_days"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_898578]_days"
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923509]_Every %1$d week on %2$s"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923544]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923368]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923355]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923449]_Every %1$d weeks on %2$s"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923633]_Every %1$d weeks on %2$s"
+                }
+            ]
+        },
+        {
+            "name":"hours_later",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923221]_%d hours after"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923639]_%d hour after"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923301]_%d hours after"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923494]_%d hours after"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923243]_%d hours after"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923657]_%d hours after"
+                }
+            ]
+        },
+        {
+            "name":"hours_ago",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923389]_%d hours before"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923436]_%d hour before"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923653]_%d hours before"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923607]_%d hours before"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923687]_%d hours before"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923392]_%d hours before"
+                }
+            ]
+        },
+        {
+            "name":"minutes_later",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923472]_%d minutes after"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923573]_%d minute after"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923351]_%d minutes after"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923647]_%d minutes after"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923257]_%d minutes after"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923554]_%d minutes after"
+                }
+            ]
+        },
+        {
+            "name":"minutes_ago",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923662]_%d minutes before"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923298]_%d minute before"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923608]_%d minutes before"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923673]_%d minutes before"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923299]_%d minutes before"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923312]_%d minutes before"
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_year",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923459]_Every %d year"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923317]_Every %d years"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923479]_Every %d years"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923617]_Every %d years"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923561]_Every %d years"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923466]_Every %d years"
+                }
+            ]
+        },
+        {
+            "name":"all_day_days_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923634]_%1$d day before (%2$d AM)"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923679]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923469]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923278]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923570]_%1$d days before (%2$d AM)"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923591]_%1$d days before (%2$d AM)"
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_month",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923531]_Every %d month"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923304]_Every %d months"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923244]_Every %d months"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923425]_Every %d months"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923280]_Every %d months"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923629]_Every %d months"
+                }
+            ]
+        },
+        {
+            "name":"repetition_times",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_923210]_For %d event"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_923242]_For %d events"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923404]_For %d events"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923344]_For %d events"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923375]_For %d events"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923682]_For %d events"
+                }
+            ]
+        },
+        {
+            "name":"in_days",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923273]_%d days"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923341]_%d day"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923413]_%d days"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923490]_%d days"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923384]_%d days"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923356]_%d days"
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_week",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923378]_Every %d weeks"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923397]_Every %d week"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923642]_Every %d weeks"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923496]_Every %d weeks"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923480]_Every %d weeks"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923405]_Every %d weeks"
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_day",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_923444]_Every %d days"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_923582]_Every %d day"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_923217]_Every %d days"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_923486]_Every %d days"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_923248]_Every %d days"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_923606]_Every %d days"
+                }
+            ]
+        },
+        {
+            "name":"conflicting_agendas",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_924529]_%d events during this period"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_924528]_%d event during this period"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_924527]_%d events during this period"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_924525]_%d events during this period"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_924526]_%d events during this period"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_924524]_%d events during this period"
+                }
+            ]
+        },
+        {
+            "name":"total_times",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_929799]_(%d time)"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_929796]_(%d times)"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_929798]_(%d times)"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_929797]_(%d times)"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_929800]_(%d times)"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_929801]_(%d times)"
+                }
+            ]
+        },
+        {
+            "name":"weeks_number",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1050874]_%d week"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1050871]_%d weeks"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1050873]_%d weeks"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1050872]_%d weeks"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1050869]_%d weeks"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1050870]_%d weeks"
+                }
+            ]
+        },
+        {
+            "name":"minutes_num",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1023781]_%d minutes"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1023765]_%d minute"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1023771]_%d minutes"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1023780]_%d minutes"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1023783]_%d minutes"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1023774]_%d minutes"
+                }
+            ]
+        },
+        {
+            "name":"next_day_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1090091]_%d class tomorrow"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1090090]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1090096]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1090089]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1090094]_%d classes tomorrow"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1090087]_%d classes tomorrow"
+                }
+            ]
+        },
+        {
+            "name":"today_course_num",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1090088]_%d classes today"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1090093]_%d class today"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1090098]_%d classes today"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1090092]_%d classes today"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1090095]_%d classes today"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1090097]_%d classes today"
+                }
+            ]
+        },
+        {
+            "name":"minutes_in_advance",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"[TS_1097795]_%d minutes in advance"
+                },
+                {
+                    "quantity":"one",
+                    "value":"[TS_1097797]_%d minute in advance"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1097791]_%d minutes in advance"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1097787]_%d minutes in advance"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1097799]_%d minutes in advance"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1097794]_%d minutes in advance"
+                }
+            ]
+        },
+        {
+            "name":"today_total_classes_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1100750]_%d class today"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1100751]_%d classes today"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1100745]_%d classes today"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1100746]_%d classes today"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1100744]_%d classes today"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1100753]_%d classes today"
+                }
+            ]
+        },
+        {
+            "name":"broadcast_omit_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"[TS_1108804]_%d more course, details are hidden"
+                },
+                {
+                    "quantity":"other",
+                    "value":"[TS_1108810]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"zero",
+                    "value":"[TS_1108807]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"few",
+                    "value":"[TS_1108803]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"many",
+                    "value":"[TS_1108809]_%d more courses, details are hidden"
+                },
+                {
+                    "quantity":"two",
+                    "value":"[TS_1108805]_%d more courses, details are hidden"
+                }
+            ]
+        }
+    ]
+}

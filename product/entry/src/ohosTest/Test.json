@@ -1,0 +1,40 @@
+{
+    "description" : "Configuration for calendar Tests",
+    "driver" : {
+        "type" : "OHJSUnitTest",
+        "test-timeout" : "180000",
+        "bundle-name" : "com.openharmony.calendar",
+        "module-name" : "entry_test",
+        "shell-timeout" : "600000",
+        "testcase-timeout" : "30000",
+        "compile-mode" : "esmodule",
+        "coverage" : true,
+        "package-tool-path" : "D:\\Local\\coverage2.0\\node_modules\\@ohos\\coverage"
+    },
+    "kits" : [
+        {
+            "run-command" : [
+                "param set persist.usb.setting.gadget_conn_prompt false",
+                "reboot",
+                "wait 5",
+                "power-shell wakeup",
+                "uinput -T -m 540 1752 540 751 500",
+                "power-shell timeout -o 1800000",
+                "power-shell setmode 602",
+                "uinput -T -c 630 1700"
+            ],
+            "teardown-command" : [
+                "power-shell setmode 600"
+            ],
+            "type" : "ShellKit"
+        },
+        {
+            "test-file-name" : [
+                "AppCalendar.hap",
+                "AppCalendarTest.hap"
+            ],
+            "type" : "AppInstallKit",
+            "cleanup-apps" : true
+        }
+    ]
+}
