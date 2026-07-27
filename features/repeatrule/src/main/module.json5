@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.repeatrule",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

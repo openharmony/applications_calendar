@@ -1,0 +1,479 @@
+{
+    "plural":[
+        {
+            "name":"events_selected_item",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d event selected",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d events selected",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"delete_multiple_selected_count_msg",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Delete this event?",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Delete %d events?",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"days_later",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"In %d day",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"In %d days",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"days_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d day before",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d days before",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"in_days",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d day",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d days",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_day",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Every %d day",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Every %d days",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_week",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Every %d week",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Every %d weeks",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Every %1$d week on %2$s",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Every %1$d weeks on %2$s",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_month",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Every %d month",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Every %d months",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"every_repeat_year",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Every %d year",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Every %d years",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"repetition_times",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"For %d event",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"For %d events",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"total_times",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"(%d time)",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"(%d times)",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"hours_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d hour before",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d hours before",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"minutes_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d minute before",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d minutes before",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"hours_later",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d hour after",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d hours after",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"minutes_later",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d minute after",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d minutes after",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"all_day_days_ago",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%1$d day before (%2$d AM)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%1$d days before (%2$d AM)",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"conflicting_agendas",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d event during this period",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d events during this period",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"weeks_number",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d week",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d weeks",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"minutes_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d minute",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d minutes",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"next_day_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d class tomorrow",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d classes tomorrow",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"today_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d class today",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d classes today",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"minutes_in_advance",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d minute in advance",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d minutes in advance",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"today_total_classes_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d class today",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d classes today",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        },
+        {
+            "name":"broadcast_omit_course_num",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"%d more course, details are hidden",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"%d more courses, details are hidden",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

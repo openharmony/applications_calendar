@@ -1,0 +1,147 @@
+{
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        // 默认Product, 正式归档版本
+        "signingConfig": "default",
+        "compileSdkVersion": 23,
+        "compatibleSdkVersion": 20,
+        "runtimeOS": "OpenHarmony",
+        "buildOption": {
+          "strictMode": {
+            "useNormalizedOHMUrl": true
+          },
+        }
+      },
+      //      {
+      //        "name": "emulator-arm",
+      //        "signingConfig": "default",
+      //        "compileSdkVersion": 23,
+      //        "compatibleSdkVersion": 20,
+      //        "runtimeOS": "OpenHarmony",
+      //        "buildOption": {
+      //          "strictMode": {
+      //            "useNormalizedOHMUrl": true
+      //          },
+      //        }
+      //      },
+      //      {
+      //        "name": "emulator-x86",
+      //        "signingConfig": "default",
+      //        "compileSdkVersion": 23,
+      //        "compatibleSdkVersion": 20,
+      //        "runtimeOS": "OpenHarmony",
+      //        "buildOption": {
+      //          "strictMode": {
+      //            "useNormalizedOHMUrl": true
+      //          },
+      //        }
+      //      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "storeFile": "signature/OpenHarmony.p12",
+          "storePassword": "000000168CB6D47D84C9455C1C4B0DB09A8F14DFDC661410816C10DC3DA1B0C743717B96821B",
+          "keyAlias": "OpenHarmony Application Release",
+          "keyPassword": "00000016C9D8CCD69566032F8ACC46C3DA48383D4E20FCE2CB8E5E34A0D5222EC1A8FA6E108A",
+          "signAlg": "SHA256withECDSA",
+          "profile": "signature/Calendar.p7b",
+          "certpath": "signature/OpenHarmony.cer"
+        }
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./product/entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+          ]
+        },
+        //        {
+        //          "name": "emulator-arm",
+        //          "applyToProducts": [
+        //            "emulator-arm",
+        //          ]
+        //        },
+        //        {
+        //          "name": "emulator-x86",
+        //          "applyToProducts": [
+        //            "emulator-x86",
+        //          ]
+        //        }
+      ]
+    },
+    {
+      "name": "common",
+      "srcPath": "./common"
+    },
+    {
+      "name": "feature.card",
+      "srcPath": "./features/card"
+    },
+    {
+      "name": "feature.monthview",
+      "srcPath": "./features/monthview"
+    },
+    {
+      "name": "feature.yearview",
+      "srcPath": "./features/yearview"
+    },
+    {
+      "name": "feature.settings",
+      "srcPath": "./features/settings"
+    },
+    {
+      "name": "feature.agenda",
+      "srcPath": "./features/agenda"
+    },
+    {
+      "name": "feature.weekview",
+      "srcPath": "./features/weekview"
+    },
+    {
+      "name": "feature.account",
+      "srcPath": "./features/account"
+    },
+    {
+      "name": "feature.sidebar",
+      "srcPath": "./features/sidebar"
+    },
+    {
+      "name": "feature.importexport",
+      "srcPath": "./features/importexport"
+    },
+    {
+      "name": "feature.repeatrule",
+      "srcPath": "./features/repeatrule"
+    },
+    {
+      "name": "components",
+      "srcPath": "./commons/components"
+    },
+    {
+      "name": "service.timezone",
+      "srcPath": "./services/timezone",
+    },
+    {
+      "name": "repeatruleView",
+      "srcPath": "./commons/repeatruleview"
+    },
+    {
+      "name": "service.network",
+      "srcPath": "./services/network",
+    },
+    {
+      "name": "service.attachment",
+      "srcPath": "./services/attachment",
+    }
+  ]
+}

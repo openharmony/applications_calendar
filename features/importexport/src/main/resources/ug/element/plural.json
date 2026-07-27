@@ -1,0 +1,23 @@
+{
+    "plural":[
+        {
+            "name":"vcs_agenda_quantity",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"كۈنتەرتىپ: %d",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"كۈنتەرتىپ: %d",
+                    "attr":{
+                        "priority":"LT"
+                    }
+                }
+            ]
+        }
+    ]
+}

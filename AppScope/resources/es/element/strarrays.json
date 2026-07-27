@@ -1,0 +1,45 @@
+{
+    "strarray":[
+        {
+            "name":"reminder_days_labels",
+            "value":[
+                {
+                    "value":"Ninguna",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"Ese día (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d día antes (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"2 día antes (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"%1$d días antes (%2$s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "value":"1 semana antes (%s)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

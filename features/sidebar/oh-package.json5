@@ -1,0 +1,17 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "@app/feature.sidebar",
+  "description": "Please describe the basic information.",
+  "version": "1.0.0",
+  "main": "index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  "@app/common": "file:../../common",
+  "@app/common.components" : "file:../../commons/components",
+  "@app/feature.account": "file:../account",
+  "@app/service.network": "file:../../services/network",
+  "@app/feature.importexport": "file:../importexport"
+  }}
+

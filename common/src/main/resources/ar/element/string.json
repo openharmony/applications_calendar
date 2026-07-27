@@ -1,0 +1,4771 @@
+{
+    "string":[
+        {
+            "name":"my_calendar",
+            "value":"التقويم الخاص بي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_year_repeat",
+            "value":"سنويًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_before",
+            "value":"قبل أسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_month_repeat",
+            "value":"شهريًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_repeat",
+            "value":"مطلقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"at_time_of_event",
+            "value":"في وقت الحدث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"somebody_birthday",
+            "value":"عيد ميلاد \u202a%s\u202c",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tue",
+            "value":"الثلاثاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sunday",
+            "value":"الأحد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sun",
+            "value":"الأحد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Mon",
+            "value":"الاثنين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wed",
+            "value":"الأربعاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"third_day_of_week_each_month",
+            "value":"ثالث %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Thursday",
+            "value":"الخميس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"last_day_of_week_each_month",
+            "value":"آخر %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"second_day_of_week_each_month",
+            "value":"ثاني %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Friday",
+            "value":"الجمعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Monday",
+            "value":"الاثنين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Sat",
+            "value":"السبت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Wednesday",
+            "value":"الأربعاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Thu",
+            "value":"الخميس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"first_day_of_week_each_month",
+            "value":"أول %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"fourth_day_of_week_each_month",
+            "value":"رابع %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Fri",
+            "value":"الجمعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Saturday",
+            "value":"السبت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Tuesday",
+            "value":"الثلاثاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_title_label",
+            "value":"(بلا عنوان)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant",
+            "value":"المشاركون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_reminder_title",
+            "value":"التذكيرات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"title_account",
+            "value":"الحسابات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"AgendaCard_Proximity_Agenda",
+            "value":"أحداث قادمة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_repeat_type",
+            "value":"التكرار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_nearby_location",
+            "value":"المواقع القريبة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"afternoon",
+            "value":"مساءً",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_mode",
+            "value":"نمط عرض الإشعارات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_calendar_jumping",
+            "value":"جارٍ الانتقال إلى «%s»…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_current_day_agenda",
+            "value":"عرض جدول أعمالك لهذا اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"recess_item_title",
+            "value":"إظهار جدول العمل المعدل للعطل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"current_week",
+            "value":"الأسبوع الحالي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_failed",
+            "value":"تعذر الاستيراد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_tip_title",
+            "value":"مزامنة التقويم مع السحابة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_participant_title",
+            "value":"المشاركون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Constellation",
+            "value":"أبراج",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_card_to_desk",
+            "value":"إضافة إلى الشاشة الرئيسية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"join_the_meeting",
+            "value":"انضمام",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title_upper",
+            "value":"قيد المشاركة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"importing",
+            "value":"جارٍ الاستيراد…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_limit",
+            "value":"تجاوز عدد تقويمات CalDAV الحد الأقصى المسموح به",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"only_class_hit_text",
+            "value":"درس %2$s فقط من الأسبوع الـ %1$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"user_name",
+            "value":"اسم المستخدم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_agenda",
+            "value":"كل الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"about",
+            "value":"حول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"customize_background_simplicity",
+            "value":"بسيطة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_description",
+            "value":"يمكنك نسخ هذا الحدث ولصقه في تطبيقات أخرى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"end_date",
+            "value":"وقت الانتهاء",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_all_agenda",
+            "value":"عرض كل الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_weekend",
+            "value":"استخدام عطلة نهاية الأسبوع الافتراضية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_name",
+            "value":"اسم التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"tips",
+            "value":"التلميحات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_name_title",
+            "value":"الاسم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_texture",
+            "value":"النمط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Almanac",
+            "value":"التقويم الصيني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_seven_day_agenda",
+            "value":"عرض جدول أعمال الأسبوع القادم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"card_background_birthday_cake",
+            "value":"يوم سعيد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course",
+            "value":"تعديل الدورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"invite_multiple_people",
+            "value":"يمكنك مشاركة هذا التقويم مع أشخاص آخرين.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"customize_background_graffiti",
+            "value":"رسم جداري",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"buddhist_calendar_display_name",
+            "value":"التقويم البوذي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_weekend_title",
+            "value":"تحديد عطلة نهاية الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"account_custom",
+            "value":"تقويم شخصي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"label_permission_contacts_title",
+            "value":"اسمح للتقويم بالوصول إلى جهات الاتصال",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_all",
+            "value":"إظهار الكل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"same_day_of_every_month",
+            "value":"نفس اليوم من كل شهر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_empty_text",
+            "value":"لا توجد أحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"card_background_sweet_summer",
+            "value":"صيف جميل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_reminder",
+            "value":"تذكيرات الدروس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_weeks",
+            "value":"رقم الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_live_broadcast",
+            "value":"بدء بث مباشر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"work",
+            "value":"العمل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"contact_birthday",
+            "value":"أعياد ميلاد جهات الاتصال",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"password",
+            "value":"كلمة المرور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"double_click_finger_open",
+            "value":"انقر نقرًا مزدوجًا للتشغيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"copy",
+            "value":"نسخ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"synced_fail",
+            "value":"تعذرت المزامنة. احذف هذا التقويم وأضفه مرةً أخرى.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_current_week_agenda",
+            "value":"التحقق من جدول أعمالك لكل يوم من أيام الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_details",
+            "value":"مزامنة المهام من المفكرة بحسب الوقت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_reminder",
+            "value":"التذكير بالأحداث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"important_day",
+            "value":"الأيام المهمة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_confirm_button",
+            "value":"نسخ الحدث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hint_where",
+            "value":"المكان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"up_to_2",
+            "value":"حتى تاريخ %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"open_agree",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_openharmony_account",
+            "value":"تحتاج إلى تسجيل الدخول لمشاركة التقويمات. هل تريد تسجيل الدخول الآن؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"pre_class_reminder",
+            "value":"التذكير قبل الحصة الدراسية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"day_view",
+            "value":"يوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"page_left",
+            "value":"انتقال إلى الصفحة اليمنى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"commonly_used_holidays",
+            "value":"العُطل المقترحة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Card_Wed",
+            "value":"أربعاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"an_hour_before",
+            "value":"قبل ساعة واحدة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_week_start_day_title",
+            "value":"يوم بداية الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"enter_course_name",
+            "value":"أدخل اسم الدورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_festival",
+            "value":"العُطل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_current_month",
+            "value":"عرض الشهر بالكامل في لمحة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_background",
+            "value":"الخلفية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"class_hit_text",
+            "value":"جميع دروس %s لهذه الدورة (نفس المدرس والموقع)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_important_days",
+            "value":"تتبع الأيام الهامة وأعياد الميلاد والعطلات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"caldav_server_address_error",
+            "value":"عنوان خادم خاطئ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"location_enable_dialog_title",
+            "value":"هل تسمح لتطبيق التقويم بالوصول إلى معلومات الموقع في النظام لديك؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"contacts",
+            "value":"جهات الاتصال",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_reminder_hints",
+            "value":"التذكيرات غير متوفرة بسبب إيقاف تشغيل إشعارات التقويم.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"exit_share",
+            "value":"لن تتلقى أي رسائل أخرى مرتبطة بهذا الحساب بمجرد مغادرتك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"date",
+            "value":"التاريخ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_schedules",
+            "value":"كل الجداول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_server_address",
+            "value":"عنوان الخادم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"personal_information_collected",
+            "value":"المعلومات الشخصية المُجمَّعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting_total_suffix",
+            "value":"المشاركون",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"effective_date",
+            "value":"السريان",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"search_for_events",
+            "value":"بحث عن أحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_share_title",
+            "value":"قيد المشاركة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_texture",
+            "value":"النمط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact_successfully",
+            "value":"تمت الإزالة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Card_Mon",
+            "value":"اثنين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_subcription_title",
+            "value":"إزالة الاشتراك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"caldav_already_exists",
+            "value":"اسم المستخدم هذا موجود بالفعل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"network_dialog_description",
+            "value":"هل تسمح لتطبيق التقويم بتنزيل وتحديث تواريخ العُطل والاشتراكات ومعلومات التقويم؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"location_services_dialog_title",
+            "value":"يحتاج تطبيق التقويم إلى استخدام/الوصول إلى موقعك الدقيق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_subscription",
+            "value":"الإضافات المُقترحة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"online_meeting",
+            "value":"اجتماع عبر الإنترنت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar",
+            "value":"حسابات التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"manage",
+            "value":"إدارة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_location_set_tips",
+            "value":"اسحب للتنقل، واقرص بإصبعين للتكبير",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_reminder",
+            "value":"إضافة تذكير",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"holidays",
+            "value":"العطلات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"peek_create_agenda",
+            "value":"حدث جديد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"confirme_information",
+            "value":"موافق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Copyright",
+            "value":"حقوق الملكية ©‏ %1$d‏ -‏ %2$d شركة هواوي. جميع الحقوق محفوظة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_recurring_agendas",
+            "value":"كل الأحداث المتسلسلة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_share",
+            "value":"مشاركة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time",
+            "value":"تحديد الحصص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_search_location_hint",
+            "value":"أدخل الموقع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_hours_before",
+            "value":"قبل ساعتين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"back_to_today",
+            "value":"اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_synced_to_calendar",
+            "value":"لن تتم مزامنة هذا الحدث مع هذا التقويم بعد الآن.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_label",
+            "value":"تعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"loading",
+            "value":"جارِ التحميل\u2026",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"location_services_dialog_content",
+            "value":"يُستخدم هذا الإذن لعرض المواقع والخرائط القريبة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reminder_time",
+            "value":"الوقت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"please_input_account_name",
+            "value":"أدخل اسم التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_read",
+            "value":"غير مقروءة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_blocked_contacts",
+            "value":"لا توجد جهات اتصال محظورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Month_View_Card",
+            "value":"عرض بحسب الشهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_day_repeat",
+            "value":"يوميًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"eu3_calendar_title_issaveevent",
+            "value":"هل تريد حفظ التغييرات؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"credits",
+            "value":"الدرجات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_close",
+            "value":"انقر نقرًا مزدوجًا للإغلاق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"do_you_need_caldav_help",
+            "value":"هل تحتاج إلى مساعدة تقويم CalDAV؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enter_schedule_name",
+            "value":"أدخل اسم الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"connect_network_to_use",
+            "value":"يتطلب هذا الإجراء اتصالًا بالإنترنت",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_share_status",
+            "value":"الحالة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"new_important_event",
+            "value":"يوم جديد مهم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_modify",
+            "value":"تعديل التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_agenda",
+            "value":"حدث تقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_third_sdk_title",
+            "value":"قائمة أدوات SDK للأطراف الخارجية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_apply",
+            "value":"تطبيق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"card_background_dreams_fly",
+            "value":"أحلام طائرة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_background",
+            "value":"الخلفية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_single",
+            "value":"الفردية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"commonly_used_holidays_hint",
+            "value":"تشمل العُطل الصينية وغيرها من العُطل المعروفة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"double_click_finger_execute",
+            "value":"انقر نقرًا مزدوجًا للتفعيل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_teacher",
+            "value":"المعلم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_after_tomorrow",
+            "value":"بعد غدٍ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"discard_dialog_button",
+            "value":"تجاهل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_important_event",
+            "value":"تحرير اليوم المهم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"repay_now",
+            "value":"الدفع الآن",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirm_delete_this_course",
+            "value":"حذف الدورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"check_meeting_summary",
+            "value":"عرض ملخص الاجتماع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"required",
+            "value":"إلزامي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_choice",
+            "value":"اختيار متعدد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_layout",
+            "value":"التخطيط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"know_dialog_button",
+            "value":"حسنًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"country_holiday",
+            "value":"عُطل %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today",
+            "value":"اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ThursdaySmall",
+            "value":"خميس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_multiple_agenda",
+            "value":"%2$s، بما في ذلك \"\u202a%1$s\u202c\"",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"business_privacy_declare",
+            "value":"بيانات الخصوصية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"open_screen_page_calendar_declare",
+            "value":"البيان المتعلق بالتقويم والخصوصية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"export_failed",
+            "value":"تعذر التصدير",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"five_minutes_before",
+            "value":"قبل %d دقائق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_with_cloudDevices",
+            "value":"سيتم حذف هذا الحدث أيضًا من السحابة ومن جميع الأجهزة التي تمت المزامنة معها.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SaturdaySmall",
+            "value":"سبت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"custom_account_create",
+            "value":"تقويم جديد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"caldav_check_username_password",
+            "value":"يُرجى التحقق من اسم المستخدم وكلمة المرور، ثم إعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_exit_search",
+            "value":"إلغاء البحث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"whether_to_move_event",
+            "value":"نقل \"\u202a%s\u202c\"",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_account_delete_message",
+            "value":"هل تريد حذف هذا التقويم وكل الأحداث المرتبطة به؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"ending_time",
+            "value":"وقت الانتهاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title_upper",
+            "value":"المساعدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_open",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Card_Sun",
+            "value":"أحد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_next_more_event",
+            "value":"أحداث بعد تاريخ %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"hint_description",
+            "value":"الوصف",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"label_permission_contacts_description",
+            "value":"يُستخدم هذا الإذن للحصول على صور الحسابات الشخصية والكنيات لجهات الاتصال للمشاركة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"block_contact",
+            "value":"حظر جهات الاتصال",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"chinese_calendar_display_name",
+            "value":"التقويم الصيني",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_name_birthday",
+            "value":"عيد ميلاد جهة اتصال غير معروفة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_greying",
+            "value":"رمادي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdure",
+            "value":"أخضر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_share_members",
+            "value":"إدارة المشاركة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_detail",
+            "value":"حدث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_label",
+            "value":"حذف",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"this_agenda_and_beyond",
+            "value":"هذا الحدث وكل الأحداث القادمة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"event_add_repeat",
+            "value":"التكرار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar_message_center",
+            "value":"مركز الرسائل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_an_empty_schedule",
+            "value":"إنشاء جدول فارغ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"yesterday",
+            "value":"أمس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_repeat",
+            "value":"تخصيص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calandar_add",
+            "value":"إضافة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unable_to_drag_cross_day_event",
+            "value":"يتعذر سحب الأحداث التي تمتد لأكثر من يوم واحد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_calendar_display_name",
+            "value":"بدون تعيين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirme_shared_schedule",
+            "value":"يمكنك مشاركة هذا الحدث مع أشخاص آخرين.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"up_to",
+            "value":"حتى تاريخ %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"un_connect_server",
+            "value":"يتعذر الاتصال بالخادم. انقر هنا لإعادة المحاولة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_map_selection",
+            "value":"تحديد الموقع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"reselect_contact_or_important_date",
+            "value":"أعد تحديد عيد ميلاد جهة الاتصال هذه أو عدّل اليوم المهم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Card_Tue",
+            "value":"ثلاثاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"total_weeks",
+            "value":"عدد الأسابيع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_important_event",
+            "value":"هل تريد حذف هذا اليوم المهم؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_week_repeat_of",
+            "value":"أسبوعيًا (%s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course_time",
+            "value":"إضافة وقت الدرس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"japanese_calendar_display_name",
+            "value":"التقويم الياباني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"location_services_dialog_title_default",
+            "value":"استخدام تطبيق التقويم يتطلب استخدام/الحصول على إذن الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_agenda_today",
+            "value":"لا توجد أحداث لهذا اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_num",
+            "value":"الأسبوع %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_dialog_button",
+            "value":"إلغاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_all_caldav_agenda",
+            "value":"عرض كل الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_important_day_fa_to_desktop_title",
+            "value":"إضافة إلى الشاشة الرئيسية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_help_title",
+            "value":"المساعدة والإفادة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"persian_calendar_display_name",
+            "value":"التقويم الفارسي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"edit_event_timezone_label",
+            "value":"المنطقة الزمنية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"whether_to_delete",
+            "value":"هل تريد حذف الحدث \"\u202a%s\u202c\"؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_the_class",
+            "value":"بدء الدرس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"this_agenda",
+            "value":"هذا الحدث فقط",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"account_share_limit",
+            "value":"تتعذر المشاركة نظرًا لتجاوز عدد المجلدات المشتركة الحد الأقصى المسموح به.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share_member",
+            "value":"إذا أوقفت المشاركة مع هذا المستخدم، فلن يتمكن من الوصول إلى هذا التقويم بعد الآن.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important",
+            "value":"مهم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"limited_times",
+            "value":"لعدد محدد من الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"load_previous_more_event",
+            "value":"أحداث قبل تاريخ %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"save_label",
+            "value":"حفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close",
+            "value":"إغلاق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_recent_location",
+            "value":"المواقع المحفوظة مؤخرًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_default_reminder_title",
+            "value":"الوقت الافتراضي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"label_permission_notification_description",
+            "value":"يشمل هذا الإشعارات اللطيفة وإشعارات شاشة القفل والأصوات وغيرها المزيد. يمكنك تغيير هذا من الإعدادات.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_calendar",
+            "value":"تقويمات أخرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_color",
+            "value":"اللون",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"text",
+            "value":"نص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unavailable_text",
+            "value":"الزر غير متاح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"month",
+            "value":"شهر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sync_tip_content",
+            "value":"سيتم رفع بيانات التقويم تلقائيًا إلى السحابة حتى تتمكن من الوصول إليها على أي من أجهزتك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"sidebar_account_calendar_login",
+            "value":"حساب هواوي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"important_day_switch_details",
+            "value":"إظهار الأيام المهمة في وضع العرض الشهري.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_details",
+            "value":"تفاصيل الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_edit",
+            "value":"تعديل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"snooze",
+            "value":"غفوة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"two_days_before",
+            "value":"قبل يومين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"third_app_event",
+            "value":"من تطبيقات أخرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_collect_data_title",
+            "value":"المعلومات الشخصية المُجمَّعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"paste",
+            "value":"لصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Card_Thu",
+            "value":"خميس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_font",
+            "value":"الخط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_edit",
+            "value":"تعديل الحدث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"version_info",
+            "value":"الإصدار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone",
+            "value":"تثبيت المنطقة الزمنية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_receive_share",
+            "value":"تلقي تقويمات مشتركة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_schedule_name",
+            "value":"اسم الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"hebrew_calendar_display_name",
+            "value":"التقويم العبري",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day",
+            "value":"طوال اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_other",
+            "value":"آخر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"unable_to_drag_all_day_event",
+            "value":"يتعذر سحب الأحداث التي مدتها طوال اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_schedule",
+            "value":"استيراد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"morning",
+            "value":"صباحًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"default_week_start_day",
+            "value":"حسب الإعدادات الإقليمية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_menu_item_delete",
+            "value":"حذف",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"customize_card_setting",
+            "value":"تخصيص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"create_important_day",
+            "value":"يوم مهم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"transparent_card",
+            "value":"أداة شفافة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_block_contact",
+            "value":"إزالة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_more_location",
+            "value":"المزيد من المواقع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_week_repeat",
+            "value":"أسبوعيًا",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_current_map_position",
+            "value":"جارٍ تحديد الموقع…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"local_calendar",
+            "value":"هذا الجهاز",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_fa_card_failed",
+            "value":"حدثت مشكلة ما",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"islamic_hijilai_calendar_display_name",
+            "value":"التقويم الإسلامي المدني",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_dialog_success_toast",
+            "value":"تم النسخ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"indian_national_calendar_display_name",
+            "value":"التقويم القومي الهندي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_create",
+            "value":"حدث جديد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_purplish",
+            "value":"أرجواني",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_the_time",
+            "value":"إلى الأبد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"local_account",
+            "value":"حساب هواوي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Card_Fri",
+            "value":"جمعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"MondaySmall",
+            "value":"اثنين",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_date",
+            "value":"تحديد التاريخ",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"original_image",
+            "value":"الصورة الأصلية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_time_periods_course",
+            "value":"جميع دروس هذه الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_security_title",
+            "value":"الحماية والخصوصية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"read",
+            "value":"مقروءة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_alerts_title",
+            "value":"الإشعارات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"time_period_num",
+            "value":"الدرس %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_day_on_the_day",
+            "value":"نفس اليوم (‏%d صباحًا)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"intelligent_creation",
+            "value":"إنشاء سريع للأحداث (أدخل كلمات رئيسية)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_course",
+            "value":"إضافة دورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel",
+            "value":"إلغاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"customize_background_img",
+            "value":"تخصيص الخلفية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_dialog_button",
+            "value":"حذف",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"record_manager_system_title",
+            "value":"‏ICP‏/عنوان IP‏/نظام إدارة أسماء النطاقات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_schedule",
+            "value":"مشاركة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_schedule",
+            "value":"تعديل الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_message",
+            "value":"لا توجد رسائل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"all_agendas",
+            "value":"كل الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"Card_Sat",
+            "value":"سبت",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"tomorrow",
+            "value":"غدًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"contact_info_changed",
+            "value":"تم تغيير معلومات عيد ميلاد جهة اتصال",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_now",
+            "value":"عرض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"addAccount",
+            "value":"إضافة تقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agree",
+            "value":"أوافق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"location_clear",
+            "value":"مسح",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"content_length_exceeds_the_maximum",
+            "value":"تجاوز طول النص الحد الأقصى المسموح به",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_current_position",
+            "value":"الموقع الحالي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"label_permission_notification_title",
+            "value":"هل تسمح لتطبيق التقويم بإرسال الإشعارات إليك؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"button_ok",
+            "value":"موافق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_color",
+            "value":"لون الخلفية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_success",
+            "value":"تم الاستيراد بنجاح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_shared_account",
+            "value":"مغادرة الحساب المشترك",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"allow_dialog_button",
+            "value":"سماح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"year",
+            "value":"سنة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_all",
+            "value":"تحديد الكل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"shop_share",
+            "value":"إيقاف المشاركة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"CalDAVAccountManagement",
+            "value":"إدارة تقويم CalDAV",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_general_title",
+            "value":"عرض التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_caldav_title",
+            "value":"تقويم CalDAV",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_text_1",
+            "value":"زر %s، مفتوح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"WednesdaySmall",
+            "value":"أربعاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"copyright_text",
+            "value":"حقوق الملكية ©‏ %d شركة .openharmony Device Co., Ltd جميع الحقوق محفوظة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"up_to_label",
+            "value":"حتى تاريخ محدد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_vermilion",
+            "value":"أحمر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_fa_card_success",
+            "value":"تمت الإضافة بنجاح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"search_no_content_text",
+            "value":"لا توجد نتائج",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_date_range",
+            "value":"%1$s إلى %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"customize_background_dreams",
+            "value":"حلم سحري",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_exceeded_text",
+            "value":"وقت الانتهاء متأخر للغاية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_aubergine",
+            "value":"برتقالي فاتح",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"only_this_agenda",
+            "value":"هذا الحدث فقط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"save_dialog_button",
+            "value":"حفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"server_error",
+            "value":"مشكلة في الخادم، يُرجى إعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_time_setting",
+            "value":"إعداد الجدول الدراسي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"find_out_how_we_use_your_data",
+            "value":"كيفية استخدامنا لبياناتك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"week_view",
+            "value":"أسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"jump_to_someday",
+            "value":"انتقال إلى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"SundaySmall",
+            "value":"أحد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_customer_service_title",
+            "value":"الخط المباشر لخدمة العملاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_schedule",
+            "value":"إنشاء جدول جديد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"service_event_cannot_be_edited",
+            "value":"لا يمكن تحرير أحداث الخدمات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_location",
+            "value":"إضافة الموقع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"go_to_setting",
+            "value":"الإعدادات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"FridaySmall",
+            "value":"جمعة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"addCaldavCalendar",
+            "value":"إضافة حساب CalDAV",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"preferences_show_week_num_title",
+            "value":"إظهار رقم الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subscription_pre_title",
+            "value":"اشتراكات التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"page_right",
+            "value":"انتقال إلى الصفحة اليسرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"school_open_time",
+            "value":"وقت البدء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"weekly_double",
+            "value":"الزوجية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"section_num",
+            "value":"الدرس %s",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"share_clound_switch",
+            "value":"مطلوب تشغيل ميزة مزامنة التقويم من السحابة لمشاركة التقويمات. هل تريد تشغيلها الآن؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"open_ignore",
+            "value":"ليس الآن",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_preview",
+            "value":"معاينة الحدث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"stop_share",
+            "value":"تجاوزت الحد الأقصى اليومي للمشاركة. يمكنك إعادة المحاولة غدًا.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_remark",
+            "value":"ملاحظات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"description_apply_for_contact_permission",
+            "value":"يُستخدم هذا الإذن للوصول إلى صور الحسابات الشخصية والكنيات عند المشاركة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"my_calendar_name",
+            "value":"تقويمي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"share_determine",
+            "value":"قيد الانتظار",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"off",
+            "value":"راحة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_account_custom",
+            "value":"إضافة حساب شخصي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"coming_soon",
+            "value":"سيبدأ قريبًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"have_course_at_weekend",
+            "value":"دروس نهاية الأسبوع",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"watch_now",
+            "value":"مشاهدة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_shopping",
+            "value":"بدء التسوق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_feedback_settings_title",
+            "value":"المشاكل والمقترحات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"network_dialog_title",
+            "value":"هل تسمح بالاتصال بالإنترنت؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_menu_item_view",
+            "value":"عرض",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"TuesdaySmall",
+            "value":"ثلاثاء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_more_space_for_fa_card",
+            "value":"تعذرت الإضافة لعدم وجود مساحة كافية على الشاشة الرئيسية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"preferences_lock_time_zone_description",
+            "value":"عرض تواريخ وأوقات الأحداث وفقًا لتوقيت المنطقة الزمنية المُحددة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_import",
+            "value":"تم إلغاء الاستيراد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_layout",
+            "value":"التخطيط",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_text_1",
+            "value":"زر %s، مغلق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"deselect_all",
+            "value":"إلغاء تحديد الكل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"description_apply_for_calendar_permission",
+            "value":"يُستخدم هذا الإذن لإدارة التقويم الخاص بك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_classroom",
+            "value":"الفصل الدراسي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_setting",
+            "value":"الإعدادات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"the_day_before_yesterday",
+            "value":"قبل أمس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_one_week_before",
+            "value":"قبل أسبوع (‏%2$d صباحًا)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"menu_preferences",
+            "value":"الإعدادات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"event_add_reminder",
+            "value":"إضافة تذكير",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_schedule",
+            "value":"الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_day_before",
+            "value":"قبل يوم واحد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"no_agenda_week",
+            "value":"لا توجد أحداث للأيام السبعة القادمة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"selected_color_cvaa",
+            "value":"اللون",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"start_exercising",
+            "value":"بدء التمرين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"eu3_cl_ab_settings_alldayeventremindertime",
+            "value":"بالنسبة للأحداث المستمرة طوال اليوم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"accessibility_account_color_tangerine",
+            "value":"برتقالي غامق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"one_week_later",
+            "value":"بعد أسبوع واحد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"cancel_subcription",
+            "value":"لن يتم عرض اشتراك التقويم هذا على الشاشة الرئيسية للتقويم بعد الآن، وسيتم أيضًا حذف البيانات ذات الصلة. هل حقًا تريد الإزالة؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"notepad_task_synchronize_switch_title",
+            "value":"مزامنة المهام",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Import_account",
+            "value":"مزامنة إلى التقويم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_view",
+            "value":"الحدث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription_hint_text",
+            "value":"الأبراج والمزيد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"received",
+            "value":"قبول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"this_and_future_agenda",
+            "value":"هذا الحدث والأحداث القادمة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_this_event_title",
+            "value":"هل تريد حذف هذا الحدث؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_sat",
+            "value":"السبت الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"impor_from_album",
+            "value":"إضافة من المعرض",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_fourth_wed",
+            "value":"الأربعاء الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_tus",
+            "value":"الثلاثاء الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_tus",
+            "value":"الثلاثاء الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_wed",
+            "value":"الأربعاء الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sun",
+            "value":"الأحد الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"this_day_in_history",
+            "value":"حدث في مثل هذا اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_cancel_enable_account_toast",
+            "value":"تم إنشاء الحدث، شغّل هذا الحساب من قائمة الحسابات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_new_schedule",
+            "value":"إنشاء جدول الدورة الدراسية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_sat",
+            "value":"السبت الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_selection",
+            "value":"جدول الدورة الدراسية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_over_limited_text",
+            "value":"لقد بلغ عدد الجداول الحد الأقصى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_mon",
+            "value":"الاثنين الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_mon",
+            "value":"الاثنين الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"expand_more_info",
+            "value":"إظهار المزيد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_duration",
+            "value":"مدة الدرس",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_second_wed",
+            "value":"الأربعاء الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_mon",
+            "value":"الاثنين الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sun",
+            "value":"الأحد الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"show_weekly_course_info",
+            "value":"عرض حصصك لهذا الأسبوع.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"class_schedule",
+            "value":"جدول الحصص",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_mon",
+            "value":"الاثنين الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_fri",
+            "value":"الجمعة الثالثة من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"collapse_more_info",
+            "value":"إظهار محتوى أقل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_enable_account_content",
+            "value":"تم إيقاف تشغيل الحساب الذي حددته. لعرض هذا الحدث في التقويم، أعد تشغيل الحساب أولاً.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"calendar_to_enable_account",
+            "value":"تشغيل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"select_local_music",
+            "value":"موسيقى على الجهاز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_limit_text",
+            "value":"الحد الأقصى لعدد الدورات التي تم الوصول إليها.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_sun",
+            "value":"الأحد الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_first_tus",
+            "value":"الثلاثاء الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"notification_ringtone",
+            "value":"نغمة الإشعارات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_academic_affairs_system",
+            "value":"الاستيراد من نظام الإدارة التعليمية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_sun",
+            "value":"الأحد الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_tus",
+            "value":"الثلاثاء الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"system_ringtone",
+            "value":"نغمات الرنين للنظام",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_sun",
+            "value":"الأحد الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_sat",
+            "value":"السبت الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"break_duration",
+            "value":"مدة الاستراحة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_last_sat",
+            "value":"السبت الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_tus",
+            "value":"الثلاثاء الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"subscription",
+            "value":"اشتراك",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_fri",
+            "value":"الجمعة الأولى من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"follow_system_settings",
+            "value":"حسب النظام (%s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_thu",
+            "value":"الخميس الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_fri",
+            "value":"الجمعة الرابعة من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_wed",
+            "value":"الأربعاء الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_thu",
+            "value":"الخميس الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_fri",
+            "value":"الجمعة الأخيرة من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_mon",
+            "value":"الاثنين الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"calendar_enable_account_title",
+            "value":"تشغيل حساب التقويم",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"every_first_thu",
+            "value":"الخميس الأول من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_fri",
+            "value":"الجمعة الثانية من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_third_wed",
+            "value":"الأربعاء الثالث من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ringtone_default_item",
+            "value":"%s (افتراضية)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_fourth_sat",
+            "value":"السبت الرابع من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_last_thu",
+            "value":"الخميس الأخير من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"every_second_thu",
+            "value":"الخميس الثاني من كل شهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text2",
+            "value":"المزامنة السحابية موقوفة، يتعذّر عرض الأحداث من الأجهزة الأخرى",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sync_no_agenda_text1",
+            "value":"لم تتم مزامنة هذا الحدث يتعذّر العرض على هذا الجهاز،",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_date_hit_text",
+            "value":"انقر على %s للانتقال إلى التاريخ المحدد.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_materials",
+            "value":"مواد الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_agenda",
+            "value":"استيراد الأحداث",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"automatically_adjust_course_time",
+            "value":"هل تريد تحديث الجدول وفقًا للفترة الجديدة وطول فترات الاستراحة؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"non_standard_format",
+            "value":"تنسيق غير قياسي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"some_attachment_not_exist",
+            "value":"بعض المرفقات غير موجودة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_schedule_or_not",
+            "value":"يوجد بالفعل فصول دراسية في هذا الجدول. هل تريد استبدالها؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_upload_guide",
+            "value":"دليل رفع الصور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"correct_examples",
+            "value":"مثال ممتاز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"import_from_file",
+            "value":"الاستيراد من ملف",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"unopened_school",
+            "value":"لم تبدأ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_unclear",
+            "value":"ضبابية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"attachment_not_exist",
+            "value":"المرفق غير موجود",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"memory_full_toast",
+            "value":"الذاكرة ممتلئة، يُرجى حذف بعض البيانات وإعادة المحاولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"next_step",
+            "value":"التالي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"course_time_limits",
+            "value":"تم بلوغ الحد الأقصى لعدد فترات الدورة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"attachment_detail",
+            "value":"المرفقات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"attachment_size_exceed",
+            "value":"تجاوز حجم المرفق الحد الأقصى وهو %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"overwrite_current_schedule",
+            "value":"استبدال",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_course",
+            "value":"لا توجد فصول دراسية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_rule_txt",
+            "value":"%1$s (%2$s)",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"import_completed",
+            "value":"تم الاستيراد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_school",
+            "value":"جدول الدورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"add_more_course_time",
+            "value":"إضافة المزيد من الفترات الزمنية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"art_fonts",
+            "value":"خطوط جمالية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"start_import_album",
+            "value":"تحديد من المعرض",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"modify_schedule",
+            "value":"انقر على المربعات للتعديل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"participant_num",
+            "value":"المشاركون (%d)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"my_schedule",
+            "value":"جدول الدورة الخاص بي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"parsing_schedule",
+            "value":"جارٍ تحليل الجدول…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_course",
+            "value":"حذف الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"attachment_total_size_exceed",
+            "value":"لا يمكن أن يتجاوز إجمالي حجم المُرفقات %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ended",
+            "value":"منتهية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"automatic_adjustment",
+            "value":"نعم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"close_course_detail",
+            "value":"إغلاق تفاصيل الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"moir_patterns",
+            "value":"مُخططة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"optimizing_picture",
+            "value":"جارٍ تحسين الصورة…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule",
+            "value":"لا يوجد جدول دورات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"file_formate_not_support",
+            "value":"لا يمكن فتح تنسيق هذا الملف",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"keep_screen_lit",
+            "value":"ابقِ الشاشة قيد التشغيل. ولا تغادر هذا التطبيق.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_current_settings",
+            "value":"لا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"attachment_total_num_exceed",
+            "value":"لا يمكن إضافة أكثر من %d مُرفقًا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"Reupload",
+            "value":"الرفع مرة أخرى",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"edit_course_detail",
+            "value":"تعديل تفاصيل الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"image_tilt",
+            "value":"مائلة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"file_save_failed",
+            "value":"تعذر الحفظ",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"guide_instruction",
+            "value":"ارفع صورة واضحة وكاملة لجدول دورتك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"error_examples",
+            "value":"أمثلة سيئة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"selete_another_image",
+            "value":"تعذّر تحليل الصورة. يُرجى رفع صورة جديدة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"image_guide",
+            "value":"تلميحات بشأن الصور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"confirm_result",
+            "value":"تأكيد الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing_course_name",
+            "value":"جارٍ تحليل اسم الدورة…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_tables",
+            "value":"جداول متعددة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"parsing",
+            "value":"جارٍ التحليل…",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"add_attachment",
+            "value":"إضافة مرفق",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"attachment_adding",
+            "value":"جارٍ الإضافة...",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_calendar_title_text",
+            "value":"هل تريد السماح لتطبيق التقويم بالوصول إلى المعرض؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_schedule",
+            "value":"الجدولة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"switch_schedule_week",
+            "value":"تبديل رقم الأسبوع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"all_day_course_reminder",
+            "value":"تبدأ الفترة الأولى عند %s.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"use_course_time_hit_text",
+            "value":"يُستخدم هذا الإذن لمساعدتك على العثور على الصور المتعلقة بالدورة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"delete_schedule_title",
+            "value":"هل تريد حذف جدول الدورة هذا؟",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_allowed",
+            "value":"رفض",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_course_photos",
+            "value":"عرض الصور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"current_month",
+            "value":"هذا الشهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"delete_schedule",
+            "value":"حذف جدول الدورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"daily_course_reminders",
+            "value":"تذكيرات الدروس اليومية",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"subject_not_identified",
+            "value":"لم يتم اكتشاف أيّ أشياء",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"photo_not_found",
+            "value":"لا توجد ألبومات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_and_cutout",
+            "value":"اقتصاص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"cancel_cutout",
+            "value":"إلغاء الاقتصاص",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"normal_mode",
+            "value":"الوضع القياسي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"view_drag",
+            "value":"شريط قابل للسحب لتغيير العرض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_week_mode",
+            "value":"وضع الأسبوع الواحد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"full_screen_mode",
+            "value":"وضع ملء الشاشة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext1",
+            "value":"ابقَ على اطلاع على دراساتك من خلال استيراد جداول دوراتك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_oobe_subtext2",
+            "value":"يمكنك إضافة جداول الدورات من الشريط الجانبي.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"switch_schedule",
+            "value":"تبديل الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"popup_text_schedule_online",
+            "value":"يمكنك الآن إضافة جداول الدورات إلى تقويمك.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"popup_text_add_schedule",
+            "value":"انقر لإضافة جدول للدورة.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext1",
+            "value":"حافظ على تركيزك من خلال تأجيل الإشعارات التي لا تريد تفويتها. تظهر الإشعارات التي تم تأجيلها مرة أخرى بعد %d دقائق.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"month_view_close_recommendations",
+            "value":"إيقاف الاقتراحات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"login_popup_text",
+            "value":"سجل الدخول إلى حساب هواوي لاستخدام هذه الميزة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_toast_text",
+            "value":"للحصول على أفضل النتائج، أزل المحتوى غير المرتبط من الصورة.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_title",
+            "value":"تأجيل الإشعارات",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_authorize",
+            "value":"يقدم تقويم هواوي خدمة المعاينة\nانقر للتخويل",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"agenda_notify_reminder_subtext2",
+            "value":"ما عليك سوى النقر على \"غفوة\" في شريط الإشعار أو في لوحة الإشعارات لتأجيل الإشعار.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images_description",
+            "value":"العثور بسرعة على الصور المُلتقطة أثناء الدروس. يسري هذا الإجراء على جميع جداول الدورات.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"show_associated_images",
+            "value":"اقتراح الصور ذات الصلة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"title_follow_system",
+            "value":"حسب النظام",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_manager",
+            "value":"إدارة الجدول",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"swipe_down_to_monthly_view",
+            "value":"اسحب لأسفل للعودة إلى عرض الشهر.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"photo_import_fail_toast_text",
+            "value":"يمكنك مساعدتنا على تحسين هذه الميزة بإعلامنا عندما يتعذّر استيراد جدول زمني. هل تود مشاركة إفادتك الآن؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"click_course_block_text",
+            "value":"انقر على خانة لتعديلها.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"semester_ended",
+            "value":"انتهى الفصل الدراسي",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"today_no_course",
+            "value":"لا توجد دروس اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"click_to_monthly_view",
+            "value":"انقر للعودة إلى عرض الشهر.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"save_across_day_recurring_agenda_tips",
+            "value":"إذا قمت بتعيين حدث يمتد لعدة أيام ليتم تكراره بفاصل زمني أقصر من مدة الحدث، فقد يظهر في جدولك أكثر من مرة في اليوم الواحد. هل حقًا تريد الحفظ؟",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"open_screen_page_tv",
+            "value":"يتطلب هذا التطبيق الاتصال بالإنترنت وإذن التقويم. بالنقر على أوافق، فأنت تعني بذلك موافقتك على هذه الشروط. يمكنك الاطلاع على %1$s لمعرفة تفاصيل عن كيفية معالجة معلوماتك الشخصية.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"have_a_agenda",
+            "value":"توجد أحداث في هذا اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_button",
+            "value":"زر %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image",
+            "value":"%s، صورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_Expanded",
+            "value":"تم التوسيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_show_agenda_btn",
+            "value":"إظهار تفاصيل الحدث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_card_next_month",
+            "value":"الشهر التالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"search_button",
+            "value":"بحث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_monthly_view_drag",
+            "value":"موسّع، زر قابل للسحب لتغيير أشكال العرض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_close_status",
+            "value":"مغلق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"multiple_choice_agenda_button",
+            "value":"تحديد عدة أحداث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_close_sidebar",
+            "value":"إغلاق الشريط الجانبي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_time_right",
+            "value":"عدد الأيام على اليسار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_open_sidebar",
+            "value":"فتح الشريط الجانبي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"checkbox_checked",
+            "value":"محدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_Collapsed",
+            "value":"تم الطي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_switch_open_status",
+            "value":"مُشغَّل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_click_and_drag",
+            "value":"انقر مرتين للتفعيل، واستخدم إصبعين للسحب لأعلى أو لأسفل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_paper_plane",
+            "value":"طائرة ورقية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_squares",
+            "value":"النمط، مكعبات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"sidebar",
+            "value":"الشريط الجانبي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_concentric_circle",
+            "value":"النمط، دوائر متحدة المركز",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"navigate_up",
+            "value":"رجوع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"checkbox_not_checked",
+            "value":"غير محدد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_align_center",
+            "value":"محاذاة في الوسط",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"single_monthly_view_close",
+            "value":"مطوي، زر قابل للسحب لتغيير أشكال العرض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_card_pre_month",
+            "value":"الشهر السابق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_arches",
+            "value":"النمط، أقواس",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_hide_agenda_btn",
+            "value":"إخفاء تفاصيل الحدث",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_verdant",
+            "value":"أزرق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_today",
+            "value":"اليوم %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_account_color_indigo",
+            "value":"نيلي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_ripples",
+            "value":"النمط، خطوط متموجة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_align_left",
+            "value":"محاذاة لليمين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"main_page_option_button",
+            "value":"المزيد من الخيارات",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_gift_box",
+            "value":"صندوق هدايا",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_curves",
+            "value":"النمط، خطوط منحنية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_love_balloons",
+            "value":"بالون على شكل قلب",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_moire",
+            "value":"النمط، نمط يشبه السحابة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_align_right",
+            "value":"محاذاة لليسار",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_image_time_left",
+            "value":"عدد الأيام على اليمين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"account_details_complete_button",
+            "value":"تم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"accessibility_not_available",
+            "value":"%s، غير متاح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_week",
+            "value":"اسحب بإصبعين لليمين أو لليسار لتبديل الأسابيع",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_zodiac_sign_card",
+            "value":"بطاقة الاقتراحات الفلكية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_double_tap_view_agenda",
+            "value":"انقر مرتين لعرض الأحداث لهذا اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_day",
+            "value":"اسحب بإصبعين لليمين أو لليسار لتبديل الأيام",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_year",
+            "value":"اسحب بإصبعين لليمين أو لليسار لتبديل السنين",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_month",
+            "value":"اسحب بإصبعين لليمين أو لليسار لتبديل الشهور",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_historical_card",
+            "value":"بطاقة اقتراحات حدث في مثل هذا اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_double_tap_view_calendar",
+            "value":"انقر مرتين لعرض تقويم هذا الشهر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_swipe_view_mode",
+            "value":"اسحب لأعلى أو لأسفل بإصبعين لتبديل أوضاع العرض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_huangli_card",
+            "value":"بطاقة اقتراحات التقويم الصيني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"not_recommended_example",
+            "value":"أمثلة خاطئة:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"schedule_name_repeat",
+            "value":"اسم الجدول موجود بالفعل",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"agenda_repeat_text_val",
+            "value":"%1$s ‏(%2$s)",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"recommended_example",
+            "value":"مثال صحيح:",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"description_Month_Card",
+            "value":"عرض بحسب الشهر",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"broadcast_swipe_delete_schedule",
+            "value":"اسحب إلى اليسار بإصبعين لحذف جدول الدورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_form_date_to_newdate",
+            "value":"من %1$s إلى %2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_share_phototext",
+            "value":"صورة",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"semester_not_start",
+            "value":"لم يبدأ الفصل الدراسي بعد",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"view_tomorrow_schedule_text",
+            "value":"عرض أحداث الغد",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"no_schedule_today_relax_text",
+            "value":"لا توجد أحداث اليوم. استمتع بيومك.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"worked_goot_rest_text",
+            "value":"لا مزيد من الأحداث اليوم",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"schedule_import_to_ai_text",
+            "value":"سيتم رفع صورتك إلى السحابة للتعرف عليها بالذكاء الاصطناعي.",
+            "attr":{
+                "priority":"LT"
+            }
+        },
+        {
+            "name":"app_name_notepad",
+            "value":"المفكرة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_orange",
+            "value":"برتقالي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_blue",
+            "value":"أزرق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_purple",
+            "value":"أرجواني",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_white",
+            "value":"أبيض",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_black",
+            "value":"أسود",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_yellow",
+            "value":"أصفر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_green",
+            "value":"أخضر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_2",
+            "value":"الخط 2",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_3",
+            "value":"الخط 3",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_4",
+            "value":"الخط 4",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_5",
+            "value":"الخط 5",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_1",
+            "value":"الخط 1",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_6",
+            "value":"الخط 6",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_7",
+            "value":"الخط 7",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_8",
+            "value":"الخط 8",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_red",
+            "value":"أحمر",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_font_default",
+            "value":"الخط الافتراضي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_cyan",
+            "value":"سماوي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_card_edit_select_photo_text",
+            "value":"انقر للانتقال وتحديد صورة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_credits_label",
+            "value":"الدرجات: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_remarks_label",
+            "value":"الملاحظات: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_room_label",
+            "value":"الفصل الدراسي: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"course_teacher_label",
+            "value":"المُعلم: %s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_yellow",
+            "value":"أصفر فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_red",
+            "value":"أحمر فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_cyan",
+            "value":"سماوي فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_Indigo_purple",
+            "value":"نيلي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_purple",
+            "value":"أرجواني فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_blue",
+            "value":"أزرق فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_violet_purple",
+            "value":"كستنائي",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_orange",
+            "value":"برتقالي فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"broadcast_color_light_green",
+            "value":"أخضر فاتح",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"holiday_reminder_title",
+            "value":"إظهار العُطلات المقترحة",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"holiday_reminder_description",
+            "value":"شغّل هذه الميزة لمعرفة أيام العطل المعروفة في التقويم.",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"custom_calendar_wallpaper",
+            "value":"تخصيص الخلفية",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"enable_calendar",
+            "value":"عرض الملصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"exit_calendar",
+            "value":"إنهاء عرض الملصق",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_online_music",
+            "value":"تصفح النغمات عبر الإنترنت",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

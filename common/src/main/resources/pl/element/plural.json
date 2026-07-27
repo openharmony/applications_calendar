@@ -1,0 +1,37 @@
+{
+    "plural":[
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Co tydzień w(e) %2$s",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Co %1$d tygodnia w(e) %2$s",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"few",
+                    "value":"Co %1$d tygodnie w(e) %2$s",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"many",
+                    "value":"Co %1$d tygodni w(e) %2$s",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "string":[
+        {
+            "name":"course_schedule",
+            "value":"Agenda",
+            "attr":{
+                "priority":"LT"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "plural" : [
+        {
+            "name" : "events_selected_item",
+            "value" : [
+                {
+                    "quantity" : "other",
+                    "value" : "[TS_806898]_%d events selected"
+                }
+            ]
+        },
+        {
+            "name" : "delete_multiple_selected_count_msg",
+            "value" : [
+                {
+                    "quantity" : "other",
+                    "value" : "[TS_806914]_Delete %d events?"
+                }
+            ]
+        }
+    ]
+}

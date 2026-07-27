@@ -1,0 +1,21 @@
+{
+  "module": {
+    "name": "common",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "installationFree": false,
+    "metadata": [
+      {
+        "name": "ArkTSPartialUpdate",
+        "value": "true"
+      },
+      {
+        "name": "partialUpdateStrictCheck",
+        "value": "all"
+      }
+    ]
+  }
+}

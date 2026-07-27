@@ -1,0 +1,103 @@
+{
+    "preferencesFileType" : 1,
+    "preferencesConfigs" : [
+        {
+            "preferencesName" : "settings",
+            "isSupportClone" : true,
+            "preferencesItems" : [
+                {
+                    "preferencesKey" : "SHOW_IMPORTANT_DAY",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "IS_RECESS_TOGGLE_ON",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "SHOW_WEEK_NUMBER",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "START_OF_WEEK",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "WEEKENDS",
+                    "valueType" : 2,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "DEFAULT_REMIND_TIME",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "ALL_DAY_EVENTS_DEFAULT_REMIND_TIME",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "ENABLE_RECEIVE_SHARE_DATA_SWITCH",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "IS_CHOOSE_SUBSCRIPTION_CALENDAR",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "SUBSCRIPTION_CALENDAR",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "IS_TIME_ZONE_LOCKED",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "LOCKED_TIME_ZONE",
+                    "valueType" : 2,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "IS_SHOW_RECOMMENDED_SUBSCRIPTION",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                },
+                {
+                    "preferencesKey" : "SYNC_TODO",
+                    "valueType" : 0,
+                    "version" : 1,
+                    "minSupportVersion" : 1
+                }
+            ]
+        },
+        {
+            "preferencesName" : "important_card_config",
+            "isSupportClone" : true
+        },
+        {
+            "preferencesName" : "holiday",
+            "isSupportClone" : true
+        }
+    ]
+}

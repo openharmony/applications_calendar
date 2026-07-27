@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"every_repeat_week_of",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"%1$d ပတ် တစ်ကြိမ် %2$s တွင်",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

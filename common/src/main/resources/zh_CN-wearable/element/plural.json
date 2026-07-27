@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"all_day_days_ago",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"%1$d 天前(上午 %2$d 点)",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

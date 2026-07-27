@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "feature.importexport",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

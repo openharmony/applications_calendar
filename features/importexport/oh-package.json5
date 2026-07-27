@@ -1,0 +1,15 @@
+{
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "@app/feature.importexport",
+  "description": "Please describe the basic information.",
+  "version": "1.0.0",
+  "main": "index.ets",
+  "author": "",
+  "dependencies": {
+    "@app/common": "file:../../common",
+    "@app/common.components": "file:../../commons/components",
+    "@app/feature.repeatrule": "file:../../features/repeatrule"
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "name": "@app/commons.repeatruleview",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@app/common": "file:../../common",
+    "@app/feature.repeatrule": "file:../../features/repeatrule",
+    "@app/common.components" : "file:../../commons/components"
+  }
+}
