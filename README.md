@@ -1,317 +1,310 @@
 # Calendar
 
 ## Introduction
-**Calendar** is a pre-installed system application in OpenHarmony, providing users with essential calendar features including event management, multi-view switching, calendar cards, and dark mode. It supports various device types such as Phone and Pad, delivering a full-scenario calendar experience.
-![Calendar应用与系统服务架构](./figures/Calendar应用与系统服务架构_en.png) 
+
+**Calendar** (bundle name: `com.ohos.calendar`) is a pre-installed **system application** in OpenHarmony. The app manages event data through the system calendar service, providing calendar cards, multi-view calendar display, event management, calendar account management, and reminder notification capabilities, and is adapted for phone and tablet device types.
+
+This application is a pre-installed system app. Users can access Calendar from the home screen icon, home screen cards, notification bar, and other entry points.
 
 ### Core Capabilities
-**Multi-View Calendar Display**
-- Year view: View lunar calendar dates and Heavenly Stems/Earthly Branches, with quick month selection and year switching.
-- Month view: View all events for a selected day, including holidays, 24 solar terms, and monthly busy/free indicators.
-- Week view: View weekly event busy/free levels and conflicts, with quick time selection for creating events.
-- Day view: View daily event busy/free levels and conflicts, with quick time selection for creating events.
-
-**Event Management**
-- Create regular and important events (anniversaries/countdowns) manually, with fields for basic info, location, time (including lunar calendar), reminders (including conflict reminders), account assignment, and notes. Supports modifying count-up/countdown timing of important days.
-- Edit and delete events.
-- Search events by keyword within the app.
 
 **Calendar Cards**
-- Support for event cards, important day cards, and month-view cards in various sizes — view schedules directly on the home screen without opening the app.
+- Provides 8 sizes of home screen widgets, allowing users to view event schedules and important day countdowns directly on the home screen without opening the app.
 
-> Calendar cards support 8 size options: event cards (2×2/2×4/4×4/4×6), important day cards (2×2/2×4), and month-view cards (2×2/4×4).
+**Multi-View Calendar Display**
+- Supports four view modes — year, month, week, and day — allowing users to switch freely between different time granularities.
+- Supports phone sidebar, all events list, and quick navigation to the current date.
+
+**Event Management**
+- Supports viewing, creating, editing, and deleting regular events and important days (anniversaries/countdowns), with fields for title, location, time (including lunar calendar), repeat rules, reminders, account assignment, notes, and more.
+- Supports event search and important day timing (count-up/countdown switching).
 
 **Calendar Account Management**
-- Manage default account ("My Calendar"), personal accounts, and third-party accounts.
-- Fine-grained account settings: name, color, reminders, etc.
+- Supports creation, deletion, and fine-grained settings for default account, personal accounts, and third-party accounts.
+- Supports viewing all events under an account.
 
 **Reminder Notifications**
-- Banner notification for regular events at their due time, with enhanced banner notifications for important events (effective in both lock-screen and screenshot scenarios).
-
-**Other Capabilities**
-- Dark mode (including cards), calendar settings (Chinese lunar calendar display).
-- Import/Export (.ics / .vcs formats), internationalization (57 languages).
-- Enhanced keyboard and mouse support (drag-and-drop, copy-paste), app continuity (seamless cross-device handoff).
+- Regular events trigger a banner notification at their due time; important events trigger an enhanced notification (effective in both lock-screen and screenshot scenarios).
 
 ## Architecture
 
-The Calendar app adopts a layered and modular architecture, divided into four layers: Product Layer, Feature Layer, Common Capability Layer, and Base Service Layer.
-![Calendar分层架构](./figures/Calendar分层架构_en.png) 
+The Calendar app adopts a layered and modular design, organized by product type, business features, and common capabilities, as shown below:
+![Architecture](./figures/Calendar_en.png)
 
-### Layered Design
+### Application Layer Design
 
-**Basic Principle**: Layers are divided based on module function reusability; each layer is divided along business boundaries between modules.
+The app is divided into three layers: product layer, feature layer, and common layer:
 
-**Responsibilities**
+| Layer | Key Directories / Components | Description |
+|-------|------------------------------|-------------|
+| Product Layer | `product/entry` | Adapted for phone and tablet device types |
+| Feature Layer | `features/agenda`, `features/monthview`, `features/weekview`, `features/yearview`, `features/sidebar`, `features/account`, `features/card`, `features/importexport`, `features/repeatrule`, `features/settings` | Calendar cards, multi-view calendar display, event management, calendar account management, reminder notifications |
+| Common Layer | `common`, `services` | DAO data access, date processing, layout system, router system, database, utilities, attachment service, network service, timezone service |
 
-1. **Product Layer (product/entry)**:
-   - Hosts the app entry point, main pages, Ability lifecycle, and home screen widgets.
-   - Responsible for integrating the feature layer and common capability layer, compiling into a deployable HAP package.
+**Feature Layer Module Details**:
 
-2. **Feature Layer (features/)**:
-   - Hosts feature modules divided by business boundaries, each with high cohesion and low coupling, supporting product-layer customization.
-   - Contains 10 independent modules: agenda, monthview, weekview, yearview, sidebar, account, card (home screen cards), importexport, repeatrule, settings.
+| Core Capability | Key Modules and Classes | Description |
+|-----------------|------------------------|-------------|
+| Calendar Cards | features/card | Three-layer Controller/ViewModel/View architecture for event cards, important day cards, and month-view cards; 8 size options |
+| Multi-View Calendar Display | features/monthview, features/weekview, features/yearview, features/sidebar | `MonthlyViewModel` / `SingleMonthlyViewModel` / `SingleWeekViewModel` drive view rendering; `LayoutModel` / `LayoutModelTree` manage layout adaptation |
+| Event Management | features/agenda, features/importexport, features/repeatrule, features/settings | Event CRUD, search, import/export, repeat rule parsing, 9-group settings configuration |
+| Calendar Account Management | features/account | Details, creation, deletion, and fine-grained settings for default/personal/third-party accounts |
+| Reminder Notifications | CalendarWorkSchedulerExtensionAbility, StaticSubscriber | Background task scheduling, system broadcast event reception |
 
-3. **Common Capability Layer (common/)**:
-   - Hosts the foundational capability set required for the calendar app to function — a mandatory core module.
-   - Includes: DAO data access layer (ORM + Repository + Service), date processing (lunar calendar/holidays/timezones), layout system, service framework, router system, database, event bus, account model, utility set, etc.
+### Relationship with Other Apps
 
-4. **Base Service Layer (services/)**:
-   - Provides cross-module reusable base services, using an interface-implementation separation + IDL design.
-   - Includes: attachment (attachment service), network (network service with interceptor chain), timezone (timezone service).
-
-**Relationships**
-- The product layer depends downward on the feature layer and common capability layer.
-- The feature layer depends downward on the common capability layer and base service layer.
-- Dependencies flow top-down only; reverse dependencies are not allowed.
-
-### Modular Design
-
-**1. Product Layer** — located in the `product/entry` directory:
-
-| Module | Path | Description |
-| --- | --- | --- |
-| Entry Point | product/entry/src/main/ets/MainAbility/ | MainAbility and AgendaAbility |
-| Pages | product/entry/src/main/ets/pages/ | Main page, tab container, event detail, splash, privacy |
-| System Capabilities | product/entry/src/main/ets/abilities/ | Form card Ability, static broadcast subscriber, work scheduler |
-| Home Screen Widgets | product/entry/src/main/ets/widget/form/ | 8 sizes of event/important day/month-view cards |
-
-**2. Feature Layer** — located in the `features/` directory:
-
-| Feature Module | Path | Description |
-| --- | --- | --- |
-| Agenda | features/agenda | Event detail, event list, event creation, event search, event preview, attachments |
-| Month View | features/monthview | Month view layout model, views, and view models |
-| Week View | features/weekview | Week view data model, Gantt chart views/ViewModels, date cells |
-| Year View | features/yearview | Year view layout model, single-month/single-year views, legends |
-| Sidebar | features/sidebar | Sidebar main component, account management, mini month view |
-| Account | features/account | Account detail and content display |
-| Cards | features/card | Event cards, important day cards, month-view cards — Controllers/ViewModels/Views |
-| Import/Export | features/importexport | .ics/.vcs import and export, vCalendar processing |
-| Repeat Rules | features/repeatrule | Repeat rule data access, parsing, time processing |
-| Settings | features/settings | Settings pages, grouped configurations (about/calendar view/reminders/timezone/network, 9 groups) |
-
-**3. Common Capability Layer** — located in the `common/` directory:
-
-| Module | Path | Description |
-| --- | --- | --- |
-| Data Access (DAO) | common/src/main/ets/dao/ | ORM annotations, 12 repositories, 11 business services, type mappers, model converters |
-| Date Processing | common/src/main/ets/date/ | Calendar dates, lunar/holiday/solar terms, date formatting, timezones, holiday utilities |
-| Layout System | common/src/main/ets/layout/ | Layout model/tree, layout properties/rules, breakpoint helpers, global layout environment |
-| Service Framework | common/src/main/ets/service/ | Service factory, service manager, service tree, state observer, 7 service implementations |
-| Router System | common/src/main/ets/router/ | Navigation page builder factory, navigation path manager, router constants/models |
-| Database | common/src/main/ets/database/ | BaseDBHelper, CalendarDBHelper |
-| Utilities | common/src/main/ets/util/ | ~45 utility classes (device/file/HTTP/i18n/permissions/timezone/broadcast/contacts, etc.) |
-
-**4. Base Service Layer** — located in the `services/` directory:
-
-| Service Module | Path | Description |
-| --- | --- | --- |
-| Attachment Service | services/attachment | Attachment info entities, IDL interfaces/proxies, service implementation |
-| Network Service | services/network | HTTP engine, interceptor chain (permission/log/response), OneLink service |
-| Timezone Service | services/timezone | Timezone service interface and implementation |
+| Item | Description |
+|------|-------------|
+| Callable by other apps | Yes. `MainAbility` declares `exported=true`; system apps can launch Calendar via Want |
+| Supported Want parameters | `action.system.home` (home screen icon), `ohos.want.action.viewData` (open .ics/.vcs files), `ohos.want.action.sendData` (receive event data) |
+| Calling scenarios | Home screen icon, home screen cards, notification bar, .ics/.vcs file opening |
+| Cross-process services | Provides background task scheduling via `CalendarWorkSchedulerExtensionAbility`, system broadcast reception via `StaticSubscriber`, and privacy statement entry via `CalendarPrivacyAbility` |
 
 ## Build
-![Calendar编译构建](./figures/Calendar编译构建_en.png) 
 
-This project is a multi-module HAR + HAP application project, built with Hvigor, producing a system application package.
-
-The four-layer architecture modules are compiled as follows:
-
-1. Product Layer:
-   - Divided by product type and compiled into deployable HAP packages.
-
-2. Feature Layer:
-   - Each module is divided by business boundaries and functional cohesion, compiled into HAR packages.
-   - In principle, modules in this layer are optional.
-
-3. Common Capability Layer:
-   - Each module is divided by business boundaries and functional cohesion, compiled into HAR packages.
-   - In principle, modules in this layer are mandatory.
-
-4. Base Service Layer:
-   - Each module is divided by business boundaries and functional cohesion, compiled into HAR packages.
+This project is a multi-module HAR + HAP application project, built with Hvigor, producing the `com.ohos.calendar` system application package.
 
 ### Environment Requirements
-- OpenHarmony SDK (this project's `compileSdkVersion` is 23)
+- OpenHarmony SDK (this project uses `compileSdkVersion` 23, `compatibleSdkVersion` 20)
 - DevEco Studio or command-line Hvigor toolchain
-
-### Module Dependencies
-
-Each module's `oh-package.json5` configures its dependencies. For example, in the entry product's `product/entry/oh-package.json5`:
-
-```json
-{
-  "name": "entry",
-  "version": "1.0.0",
-  "dependencies": {
-    "@app/common": "file:../../common",
-    "@app/common.components": "file:../../commons/components",
-    "@app/feature.agenda": "file:../../features/agenda",
-    "@app/feature.monthview": "file:../../features/monthview",
-    "@app/feature.weekview": "file:../../features/weekview",
-    "@app/feature.yearview": "file:../../features/yearview",
-    "@app/feature.sidebar": "file:../../features/sidebar",
-    "@app/service.network": "file:../../services/network",
-    "@app/service.attachment": "file:../../services/attachment",
-    "@app/service.timezone": "file:../../services/timezone",
-    // ...
-  }
-}
-```
+- System signing certificates (see `signature/`)
 
 ### Build Commands
 
 Run in the project root directory:
 
 ```bash
-# Use DevEco Studio to open the project and execute Build, or use the hvigor command line
+# Open the project in DevEco Studio and run Build, or use the hvigor command line
 hvigorw assembleHap
 ```
 
-If integrated into the OpenHarmony source tree as a system component, the app can be packaged as a pre-installed system application using the platform's unified build method.
-
 ## Calendar Development
 
-The calendar is developed in ArkTS, using the ArkUI framework for UI. Reference: [ArkUI Development Overview](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/ui/arkts-ui-development-overview.md)
+Calendar is developed in **ArkTS**, with UI based on the ArkUI Stage model. The app uses `MainAbility` to host the main interface, with feature modules in `features/` handling event management and view display, and the common capability layer (`CommonService`, `CalendarDBHelper`, `LayoutModel`, etc.) in `common/` maintaining data, layout, and service consistency. Reference: [ArkUI Development Overview](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/ui/arkts-ui-development-overview.md)
 
 ### Developing Based on Existing Modules
 
-Applicable scenarios: customizing functionality provided by existing modules, such as integrating or trimming modules, replacing APIs not supported by OpenHarmony with alternatives that provide equivalent functionality, or modifying existing UI.
+Applicable scenarios: customizing existing capabilities, such as modifying default event settings, adjusting view display rules, extending settings items, or replacing system APIs.
 
-**Module Integration or Trimming**
+Identify the change point: locate by business boundary — `product/entry` (entry and home page), `features/` (feature modules), `common/` (common capabilities), or `services/`.
 
-1. Refer to the module dependency configuration described above to add or remove module dependencies as needed.
-2. When integrating:
-    - The interface export declaration for each module is located in `{module_path}\oh-package.json5`. Example: the `common` module:
-    ```json
-    {
-      "name": "@app/common",
-      "version": "1.0.0",
-      "description": "Please describe the basic information.",
-      "main": "./src/main/ets/TsIndex.ts", // Interface declaration file
-      "author": "",
-      "license": "Apache-2.0",
-      "dependencies": {}
-    }
-    ```
-3. When trimming:
-    - First remove the module dependency, then clean up all calls to the interfaces declared by the removed module.
-    - For example, trimming the map location selection feature from the agenda module (`features/agenda`):
-        - Why: `@kit.MapKit` depends on a map SDK not supported on OpenHarmony.
-        - What: Removed `@kit.MapKit`-dependent code from `LocationSetupAbility.ets`.
-        ```typescript
-        // Before — map location selection based on MapKit
-        import { DeviceConfig, FeatureType, ... } from '@app/common';
-        import { map, mapCommon, MapComponent, site } from '@kit.MapKit';
-        import { AsyncCallback, BusinessError } from '@kit.BasicServicesKit';
+Below are some common modification scenarios:
 
-        private mapOption?: mapCommon.MapOptions;
-        private mapController?: map.MapComponentController;
-        @State mapLocation: string = '';
-        @State isMapVisibility: boolean = false;
-        private readonly isSupportMapSelectionPoint: boolean =
-          DeviceConfig.instance().isSupport(FeatureType.MAP_SELECTION_POINT);
+**Scenario 1: Modify the event creation chain**
+   - The event creation page entry is at `features/agenda/src/main/ets/CreateAgenda/view/CreateAgendaRoot.ets`
+   - Event creation business logic is at `features/agenda/src/main/ets/CreateAgenda/viewmodel/CreateAgendaViewModel.ets`
+   - Reminder editing is at `features/agenda/src/main/ets/CreateAgenda/view/AgendaReminderInfo.ets`
 
-        private mapInitCallback: AsyncCallback<map.MapComponentController> =
-          async (err, mapController) => {
-            this.mapController = mapController;
-            this.mapController?.setMyLocationEnabled(true);
-            ...
-          };
-        ```
-        ```typescript
-        // After — map location removed, location input retained
-        import { ... } from '@app/common';
-        import { BusinessError } from '@kit.BasicServicesKit';
-        // Removed: DeviceConfig, FeatureType, @kit.MapKit, AsyncCallback
-        // Removed: mapOption, mapController, mapLocation, isMapVisibility
-        // Removed: isSupportMapSelectionPoint, mapInitCallback
-        ```
-        - Result: When creating events, users can set the location by entering an address, selecting the current location, or choosing from history.
+   For example, to adjust the rounding rule for the default start time of a new event, modify `CreateAgendaViewModel.getStartDateByCombine()`:
+   ```typescript
+   // CreateAgendaViewModel.ets — rounding logic for default start time of new events
+   public getStartDateByCombine(dateParam: number, needSaveTime: SaveTimeType): number {
+     let nowTimeMills = dateParam;
+     // [Modification] Change the rounding interval from half an hour (MILLS_PER_HOUR / 2) to 15 minutes
+     const halfHourMills = MILLS_PER_HOUR / 2;
+     if (nowTimeMills % halfHourMills < MILLS_PER_MINUTE) {
+       return Math.trunc(nowTimeMills / MILLS_PER_MINUTE) * MILLS_PER_MINUTE;
+     }
+     return Math.trunc(nowTimeMills / halfHourMills) * halfHourMills + (isNeedFloor ? halfHourMills : 0);
+   }
+   ```
+**Scenario 2: Modify settings and reminder configuration**
 
-**Replacing APIs Not Integrated in OpenHarmony**
+   - Reminder settings are at `features/settings/src/main/ets/groupConfig/remind.ets`
+   - Calendar view settings are at `features/settings/src/main/ets/groupConfig/calendarView.ets`
 
-Taking the migration of the network layer from `@kit.RemoteCommunicationKit` (rcp) to `@kit.NetworkKit` (`@ohos.net.http`) as an example:
-- Why: rcp is not integrated in OpenHarmony and must be replaced with the system-native API.
-- What: Removed rcp dependency, added `HttpClient` wrapping `@kit.NetworkKit`, adapted interceptor chain and HAG service.
-```typescript
-// Before — based on rcp
-const session = rcp.createSession(config);
-const request = new rcp.Request(url, method, headers, body);
-const response = await session.fetch(request);
-const result = response.toString();
-```
-```typescript
-// After — based on @kit.NetworkKit
-const client = new HttpClient(config);
-const response = await client.execute({
-  url: url,
-  method: method,
-  headers: headers,
-  body: body
-});
-const result = response.toString();
-```
-- Result: HAG service and other functionality work normally.
+   For example, to change the default reminder time, adjust `defaultVal` in `remind.ets`:
+   ```typescript
+   // remind.ets — defaultVal controls the default reminder time (unit: minutes)
+   {
+     compId: CompId.SETTINGS_DEFAULT_REMINDER_TIME,
+     title: $r('app.string.preferences_default_reminder_title'),
+     action: eventAction.DIALOG,
+     settingKey: settingKeys.defaultRemindTime,
+     // [Modification] Change the default reminder time from 10 minutes to 15 minutes
+     defaultVal: 15,
+     syncState(val: number) {
+       GlobalData.instance().set(GlobalDataKeys.DEFAULT_REMIND_TIME, val);
+     }
+   }
+   ```
+**Scenario 3: Modify UI components**
 
-**Modifying Existing UI**
+   - Common UI components are at `commons/components/src/main/ets/`, and page components for each feature module are in their respective `features/*/src/main/ets/` directories.
+   - Settings dialogs are at `features/settings/src/main/ets/dialogs/` (e.g., `DefaultRemindTime.ets`, `StartOfWeek.ets`).
 
-Taking the bottom button layout fix in the account detail page ([AccountDetail.ets](features/account/src/main/ets/AccountDetail.ets)) as an example:
-- Issue: The "Share" and "Delete" buttons overlapped with the navigation bar on the edit screen.
-- Cause: The bottom buttons (`BottomBuilder()`) were placed inside the scrollable area of `buildContent()`, separated by a `Blank()`, so the buttons scrolled with the content instead of being fixed at the page bottom.
-- Fix: Moved `BottomBuilder()` out of `buildContent()` into the outer `build()` method, placing it alongside the content area so the buttons stay fixed at the page bottom.
-```typescript
-// build() — moved BottomBuilder to the outer layer, keeping buttons fixed at page bottom
-build() {
-  Column() {
-    Column() {
-      this.NaviTitle()
-      this.buildContent()
-      if (this.editMode && !this.isAcceptAccount &&
-        (this.showBottomShare || this.showBottomDelete)) {
-        this.BottomBuilder()
-      }
-    }
-    .padding({ bottom: this.getPadding() })
-  }
-}
-```
+   For example, to modify the all-day event default reminder dialog, adjust in `AllDayEventsDefaultRemindTime.ets`:
+   ```typescript
+   // AllDayEventsDefaultRemindTime.ets — all-day event default reminder dialog
+   @Component
+   export struct AllDayEventsDefaultRemindTime {
+     // [Modification] Adjust the initial value of the all-day event default reminder time (minutes)
+     @StorageLink('allDayEventsDefaultRemindTime') allDayEventsDefaultRemindTime: number = 0;
+
+     build() {
+       Column() {
+         RadioListDialog({
+           title: $r('app.string.eu3_cl_ab_settings_alldayeventremindertime'),
+           compId: CompId.ALL_DAY_EVENTS_DEFAULT_REMIND_TIME,
+           style: RadioListStyle.Menu,
+           options: DEFAULT_ALL_DAY_REMINDER_OPTIONS,
+           radioGroup: this.RADIO_GROUP,
+           onChange: (value: number) => {
+             GlobalData.instance().set(GlobalDataKeys.ALL_DAY_EVENTS_DEFAULT_REMIND_TIME, value);
+             SettingStore.INSTANCE.set(settingKeys.allDayEventsDefaultRemindTime, value);
+             this.callback(value)
+           }
+         })
+       }
+     }
+   }
+   ```
+
+Common modification entry points:
+
+| Target | Path |
+|--------|------|
+| App Home Page | `product/entry/src/main/ets/pages/MainPage.ets` |
+| Event Creation Page | `features/agenda/src/main/ets/CreateAgenda/view/CreateAgendaRoot.ets` |
+| Event Detail Page | `features/agenda/src/main/ets/AgendaDetail/view/AgendaDetail.ets` |
+| Month / Week / Year Views | `features/monthview/`, `features/weekview/`, `features/yearview/` |
+| Home Screen Cards | `features/card/`, `product/entry/src/main/ets/widget/form/` |
+| Settings & Reminders | `features/settings/src/main/ets/` |
+
+### Developing New Feature Capabilities
+
+Applicable scenarios: adding new calendar capabilities, extending card types, adding differentiated interactions, or adapting to new device types.
+
+> **Note**: The current project uses a `product + features + common + services` directory structure, with the main entry point at `product/entry`. New capabilities should generally extend within the existing layering. To add a new product type HAP, create a corresponding directory under `product/` and register it in `build-profile.json5`.
+
+**Scenario 1: Extend Business Capabilities (Most Common)**
+
+1. Add or supplement pages, ViewModels, or controller logic in `features/`.
+2. For persistence, extend `CommonService` or add new data repositories in `common/src/main/ets/dao/`.
+3. For cards, extend both `features/card/` and `product/entry/src/main/ets/widget/form/` in sync.
+4. Add corresponding unit test cases in `product/entry/src/ohosTest/`.
+5. Configure / verify Ability entry points
+
+   The project entry points are declared in `product/entry/src/main/module.json5`. When extending capabilities, verify that the permissions, Abilities, Forms, and shortcut configurations meet the needs of the new scenario:
+
+   ```json
+   {
+     "module": {
+       "name": "entry",
+       "type": "entry",
+       "srcEntry": "./ets/Application/Application.ets",
+       "mainElement": "MainAbility",
+       "deviceTypes": [
+         "default",
+         "tablet"
+       ],
+       "abilities": [
+         {
+           "name": "MainAbility",
+           "srcEntry": "./ets/MainAbility/MainAbility.ets",
+           "exported": true,
+           "launchType": "singleton",
+           "continuable": true
+         },
+         {
+           "name": "AgendaAbility",
+           "srcEntry": "./ets/MainAbility/AgendaAbility.ets",
+           "exported": true,
+           "launchType": "specified"
+         }
+       ],
+       "extensionAbilities": [
+         {
+           "name": "AllFormAbility",
+           "srcEntry": "./ets/abilities/form/AllFormAbility.ets",
+           "type": "form"
+         },
+         {
+           "name": "CalendarWorkSchedulerExtensionAbility",
+           "srcEntry": "./ets/abilities/workscheduler/CalendarWorkSchedulerExtensionAbility.ets",
+           "type": "workScheduler"
+         }
+       ]
+     }
+   }
+   ```
+
+**Scenario 2: Customize UI**
+
+After completing business capabilities and Ability configuration, extend the home page, view pages, event editing pages, or card pages following the UI component modification approach in the previous section "Developing Based on Existing Modules".
+
+To add a new standalone page:
+1. Create a new page file under the corresponding module's `pages/` directory.
+2. If system route registration is required, declare it in `resources/base/profile/main_pages.json`.
+3. Launch from `MainPage`, `NavPathManager`, or Want routing.
 
 ## Directory
 
 ```text
 calendar
-├── AppScope                           # Resources, multi-language, and app-level configuration
-├── product                            # Product layer
-│   └── entry                          #   entry product module
-├── feature                            # Feature layer
-│   ├── account                        #   Account
-│   ├── agenda                         #   Agenda
-│   ├── card                           #   Home screen cards
-│   ├── importexport                   #   Import/export (.ics / .vcs)
-│   ├── monthview                      #   Month view
-│   ├── repeatrule                     #   Repeat rules
-│   ├── settings                       #   Settings
-│   ├── sidebar                        #   Sidebar
-│   ├── weekview                       #   Week view
-│   └── yearview                       #   Year view
-├── common                             # Common capability layer (DAO/date/layout/service framework/router/database/utilities, etc.)
-├── commons                            # Common UI component library
-│   ├── components                     #   Common UI components
-│   └── repeatruleview                 #   Repeat rule UI components
-├── services                           # Base service layer
-│   ├── attachment                     #   Attachment service
-│   ├── network                        #   Network service
-│   └── timezone                       #   Timezone service
-└── hvigor                             # Build scripts
+├─AppScope                              # App-level configuration and multi-language resources
+│  ├─app.json5                          # bundleName, version, etc.
+│  └─resources/                         # Global strings / icons and other resources
+├─product                               # Product layer
+│  └─entry/                             # entry product module (HAP)
+│     └─src/main/ets/
+│        ├─Application/                 # App lifecycle management
+│        ├─MainAbility/                 # App main entry
+│        ├─pages/                       # Home page
+│        ├─abilities/                   # Form lifecycle management, work scheduler, static broadcast subscriber
+│        └─widget/form/                 # 8 sizes of home screen cards
+├─features                              # Feature layer (10 independent HAR modules)
+│  ├─account/                           # Account management
+│  ├─agenda/                            # Event management
+│  ├─card/                              # Home screen cards
+│  ├─importexport/                      # Import/export (.ics / .vcs)
+│  ├─monthview/                         # Month view
+│  ├─repeatrule/                        # Repeat rules
+│  ├─settings/                          # Settings
+│  ├─sidebar/                           # Sidebar
+│  ├─weekview/                          # Week view
+│  └─yearview/                          # Year view
+├─common                                # Common capability layer
+│  └─src/main/ets/
+│     ├─dao/                            # Data access layer (CommonService, DBUtils, Parser)
+│     ├─date/                           # Date processing (lunar/solar calendar/holidays/solar terms/timezone)
+│     ├─layout/                         # Layout system (LayoutModel, LayoutModelTree, LayoutRule)
+│     ├─router/                         # Router system (NavPathManager, RouterConstants, NavPageBuilderFactory)
+│     ├─database/                       # Database (CalendarDBHelper, BaseDBHelper)
+│     └─util/                           # Utilities (device/file/HTTP/permissions/timezone/broadcast/contacts, etc.)
+├─commons                               # Common UI component library
+│  ├─components/                        # Common UI components
+│  └─repeatruleview/                    # Repeat rule UI components
+├─services                              # Attachment/Network/Timezone services
+│  ├─attachment/                        # Attachment service
+│  ├─network/                           # Network service
+│  └─timezone/                          # Timezone service
+├─signature                             # Signing certificates and profiles
+├─hvigor                                # Build tool configuration
+├─build-profile.json5                   # Project-level SDK / signing / product configuration
+├─oh-package.json5
+├─OAT.xml                               # Open source compliance audit
+├─LICENSE
+├─README.md                             # English documentation
+└─README_zh.md                          # Chinese documentation
 ```
 
 ## Constraints
 
 - **Language**: ArkTS
-- **Runtime**: System pre-installed app, running as a `UIAbility` process
-- **Device Types**: Phone, Pad
+- **Runtime**: System pre-installed app (`com.ohos.calendar`), depending on calendar data service, network and other system capabilities
+- **Device Types**: Phone, tablet (see `product/entry/src/main/module.json5`)
+- **Form Factor Adaptation**: Different devices will change page layout; when modifying UI, validation must cover multiple form factors
+- **Permissions**: The main permissions required by Calendar are as follows (see `product/entry/src/main/module.json5`)
+
+  | Permission | Authorization | Usage |
+  |------------|--------------|-------|
+  | ohos.permission.READ_CALENDAR | User grant | Read calendar event data |
+  | ohos.permission.WRITE_CALENDAR | User grant | Create, modify, delete calendar events |
+  | ohos.permission.READ_WHOLE_CALENDAR | User grant | Read all calendar information |
+  | ohos.permission.WRITE_WHOLE_CALENDAR | User grant | Add, remove, or modify all calendar events |
+
+- **Supported Import/Export Formats**: .ics, .vcs
 
 ## Contributing
 
@@ -320,4 +313,3 @@ Contributions of code, documentation, and more are welcome. See [Contributing](h
 ## Related Repositories
 
 - [applications_calendar_data](https://gitcode.com/openharmony/applications_calendar_data)
-- [arkui_ace_engine](https://gitcode.com/openharmony/arkui_ace_engine)
