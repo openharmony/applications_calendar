@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Calendar** (bundle name: `com.ohos.calendar`) is a pre-installed **system application** in OpenHarmony. The app manages event data through the system calendar service, providing calendar cards, multi-view calendar display, event management, calendar account management, and reminder notification capabilities, and is adapted for phone and tablet device types.
+**Calendar** (bundle name: `com.ohos.calendar`) is a pre-installed **system application** in OpenHarmony. The app manages event data through the system calendar service, providing calendar cards, multi-view calendar display, event management, and calendar account management capabilities, and is adapted for phone and tablet device types.
 
 This application is a pre-installed system app. Users can access Calendar from the home screen icon, home screen cards, notification bar, and other entry points.
 
@@ -23,8 +23,6 @@ This application is a pre-installed system app. Users can access Calendar from t
 - Supports creation, deletion, and fine-grained settings for default account, personal accounts, and third-party accounts.
 - Supports viewing all events under an account.
 
-**Reminder Notifications**
-- Regular events trigger a banner notification at their due time; important events trigger an enhanced notification (effective in both lock-screen and screenshot scenarios).
 
 ## Architecture
 
@@ -38,18 +36,18 @@ The app is divided into three layers: product layer, feature layer, and common l
 | Layer | Key Directories / Components | Description |
 |-------|------------------------------|-------------|
 | Product Layer | `product/entry` | Adapted for phone and tablet device types |
-| Feature Layer | `features/agenda`, `features/monthview`, `features/weekview`, `features/yearview`, `features/sidebar`, `features/account`, `features/card`, `features/importexport`, `features/repeatrule`, `features/settings` | Calendar cards, multi-view calendar display, event management, calendar account management, reminder notifications |
-| Common Layer | `common`, `services` | DAO data access, date processing, layout system, router system, database, utilities, attachment service, network service, timezone service |
+| Feature Layer | `features/agenda`, `features/monthview`, `features/weekview`, `features/yearview`, `features/sidebar`, `features/account`, `features/card`, `features/importexport`, `features/repeatrule`, `features/settings` | Calendar cards, multi-view calendar display, event management, calendar account management |
+| Common Layer | `common`, `services` | DAO data access, date processing, layout adaptation, page routing, database, utilities, attachment service, network service, timezone service |
 
 **Feature Layer Module Details**:
 
 | Core Capability | Key Modules and Classes | Description |
 |-----------------|------------------------|-------------|
-| Calendar Cards | features/card | Three-layer Controller/ViewModel/View architecture for event cards, important day cards, and month-view cards; 8 size options |
-| Multi-View Calendar Display | features/monthview, features/weekview, features/yearview, features/sidebar | `MonthlyViewModel` / `SingleMonthlyViewModel` / `SingleWeekViewModel` drive view rendering; `LayoutModel` / `LayoutModelTree` manage layout adaptation |
-| Event Management | features/agenda, features/importexport, features/repeatrule, features/settings | Event CRUD, search, import/export, repeat rule parsing, 9-group settings configuration |
-| Calendar Account Management | features/account | Details, creation, deletion, and fine-grained settings for default/personal/third-party accounts |
-| Reminder Notifications | CalendarWorkSchedulerExtensionAbility, StaticSubscriber | Background task scheduling, system broadcast event reception |
+| Calendar Cards | features/card | Three-layer Controller/ViewModel/View architecture for event cards, important day cards, and month-view cards; 8 desktop cards in 4 sizes (2×2, 2×4, 4×4, 4×6) |
+| Multi-View Calendar Display | features/monthview, features/weekview, features/yearview, features/sidebar | Month view: `MonthlyViewModel` / `SingleMonthlyViewModel`; Week view: `GanttViewModel` / `DateViewModel`; Year view: `YearViewModel`; Sidebar: `SideBarMonthViewModel` — driving view rendering and layout adaptation |
+| Event Management | features/agenda, features/importexport, features/repeatrule, features/settings | Event CRUD, search, import/export, repeat rule parsing, settings configuration (calendar display, views, reminders, network, about, etc.) |
+| Calendar Account Management | features/account | Detail viewing, deletion, and fine-grained settings for default/personal/third-party accounts |
+
 
 ### Relationship with Other Apps
 
@@ -65,7 +63,7 @@ The app is divided into three layers: product layer, feature layer, and common l
 This project is a multi-module HAR + HAP application project, built with Hvigor, producing the `com.ohos.calendar` system application package.
 
 ### Environment Requirements
-- OpenHarmony SDK (this project uses `compileSdkVersion` 23, `compatibleSdkVersion` 20)
+- OpenHarmony SDK (this project uses `compileSdkVersion` "26.0.0", `compatibleSdkVersion` 20)
 - DevEco Studio or command-line Hvigor toolchain
 - System signing certificates (see `signature/`)
 
@@ -268,8 +266,8 @@ calendar
 │  └─src/main/ets/
 │     ├─dao/                            # Data access layer (CommonService, DBUtils, Parser)
 │     ├─date/                           # Date processing (lunar/solar calendar/holidays/solar terms/timezone)
-│     ├─layout/                         # Layout system (LayoutModel, LayoutModelTree, LayoutRule)
-│     ├─router/                         # Router system (NavPathManager, RouterConstants, NavPageBuilderFactory)
+│     ├─layout/                         # Layout adaptation (LayoutModel, LayoutModelTree, LayoutRule)
+│     ├─router/                         # Page routing (NavPathManager, RouterConstants, NavPageBuilderFactory)
 │     ├─database/                       # Database (CalendarDBHelper, BaseDBHelper)
 │     └─util/                           # Utilities (device/file/HTTP/permissions/timezone/broadcast/contacts, etc.)
 ├─commons                               # Common UI component library
@@ -281,7 +279,7 @@ calendar
 │  └─timezone/                          # Timezone service
 ├─signature                             # Signing certificates and profiles
 ├─hvigor                                # Build tool configuration
-├─build-profile.json5                   # Project-level SDK / signing / product configuration
+├─build-profile.json5                   # Project configuration
 ├─oh-package.json5
 ├─OAT.xml                               # Open source compliance audit
 ├─LICENSE
@@ -299,10 +297,9 @@ calendar
 
   | Permission | Authorization | Usage |
   |------------|--------------|-------|
-  | ohos.permission.READ_CALENDAR | User grant | Read calendar event data |
-  | ohos.permission.WRITE_CALENDAR | User grant | Create, modify, delete calendar events |
   | ohos.permission.READ_WHOLE_CALENDAR | User grant | Read all calendar information |
   | ohos.permission.WRITE_WHOLE_CALENDAR | User grant | Add, remove, or modify all calendar events |
+  | ohos.permission.NOTIFICATION_CONTROLLER | System grant | Manage calendar notification subscription and reminder settings |
 
 - **Supported Import/Export Formats**: .ics, .vcs
 
