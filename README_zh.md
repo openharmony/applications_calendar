@@ -2,7 +2,7 @@
 
 ## 简介
 
-**日历**（包名：`com.ohos.calendar`）是 OpenHarmony 中预置的 **系统应用**，应用通过系统日历服务管理日程数据，提供日历卡片、多视图日历展示、日程管理、日历账户管理、提醒通知能力，并适配手机、平板设备形态。
+**日历**（包名：`com.ohos.calendar`）是 OpenHarmony 中预置的 **系统应用**，应用通过系统日历服务管理日程数据，提供日历卡片、多视图日历展示、日程管理、日历账户管理能力，并适配手机、平板设备形态。
 
 本应用为系统预置应用，用户可从桌面图标、桌面卡片、通知栏等场景进入日历。
 
@@ -23,8 +23,6 @@
 - 支持默认账户、个人账户、三方账户的创建、删除与精细化设置。
 - 支持查看账户下所有日程。
 
-**提醒通知**
-- 普通日程到期后触发横幅通知，重要日程触发强通知（锁屏/截屏场景均生效）。
 
 ## 架构说明
 
@@ -38,18 +36,18 @@
 | 层次 | 主要目录 / 组件 | 说明 |
 |------|--------------|------|
 | 产品层 | `product/entry` | 适配手机、平板形态 |
-| 特性层 | `features/agenda`、`features/monthview`、`features/weekview`、`features/yearview`、`features/sidebar`、`features/account`、`features/card`、`features/importexport`、`features/repeatrule`、`features/settings` | 日历卡片、多视图日历展示、日程管理、日历账户管理、提醒通知 |
-| 公共层 | `common`、`services` | DAO 数据访问、日期处理、布局系统、路由系统、数据库、工具集、附件服务、网络服务、时区服务 |
+| 特性层 | `features/agenda`、`features/monthview`、`features/weekview`、`features/yearview`、`features/sidebar`、`features/account`、`features/card`、`features/importexport`、`features/repeatrule`、`features/settings` | 日历卡片、多视图日历展示、日程管理、日历账户管理 |
+| 公共层 | `common`、`services` | DAO 数据访问、日期处理、布局适配、页面路由、数据库、工具集、附件服务、网络服务、时区服务 |
 
 **特性层模块说明**：
 
 | 核心能力 | 主要模块与关键类 | 说明 |
 |---------|----------------|------|
-| 日历卡片 | features/card | 日程卡/重要日卡/月视图卡的 Controller/ViewModel/View 三层架构，8 种尺寸规格 |
-| 多视图日历展示 | features/monthview, features/weekview, features/yearview, features/sidebar | `MonthlyViewModel` / `SingleMonthlyViewModel` / `SingleWeekViewModel` 驱动视图渲染，`LayoutModel` / `LayoutModelTree` 管理布局适配 |
-| 日程管理 | features/agenda, features/importexport, features/repeatrule, features/settings | 日程 CRUD、搜索、导入导出、重复规则解析、9 组设置配置 |
-| 日历账户管理 | features/account | 默认/个人/三方账户的详情、创建、删除与精细化设置 |
-| 提醒通知 | CalendarWorkSchedulerExtensionAbility, StaticSubscriber | 后台延时任务调度，系统广播事件接收 |
+| 日历卡片 | features/card | 日程卡/重要日卡/月视图卡的 Controller/ViewModel/View 三层架构，8 款桌面卡片（含 2×2、2×4、4×4、4×6 四种尺寸） |
+| 多视图日历展示 | features/monthview, features/weekview, features/yearview, features/sidebar | 月视图 `MonthlyViewModel` / `SingleMonthlyViewModel`，周视图 `GanttViewModel` / `DateViewModel`，年视图 `YearViewModel`，侧边栏 `SideBarMonthViewModel` 驱动各视图渲染与布局适配 |
+| 日程管理 | features/agenda, features/importexport, features/repeatrule, features/settings | 日程 CRUD、搜索、导入导出、重复规则解析、设置项配置（含日历显示、视图、提醒、网络、关于等） |
+| 日历账户管理 | features/account | 默认/个人/三方账户的详情查看、删除与精细化设置 |
+
 
 ### 与其它应用的关系
 
@@ -65,7 +63,7 @@
 本工程为多模块 HAR + HAP 应用工程，使用 Hvigor 构建，产物为 `com.ohos.calendar` 系统应用包。
 
 ### 环境要求
-- OpenHarmony SDK（本工程 `compileSdkVersion` 为 23，`compatibleSdkVersion` 为 20）
+- OpenHarmony SDK（本工程 `compileSdkVersion` 为 "26.0.0"，`compatibleSdkVersion` 为 20）
 - DevEco Studio 或命令行 Hvigor 工具链
 - 系统签名证书（见 `signature/`）
 
@@ -268,8 +266,8 @@ calendar
 │  └─src/main/ets/
 │     ├─dao/                            # 数据访问层（CommonService、DBUtils、Parser）
 │     ├─date/                           # 日期处理（农历/公历/节日/节气/时区）
-│     ├─layout/                         # 布局系统（LayoutModel、LayoutModelTree、LayoutRule）
-│     ├─router/                         # 路由系统（NavPathManager、RouterConstants、NavPageBuilderFactory）
+│     ├─layout/                         # 布局适配（LayoutModel、LayoutModelTree、LayoutRule）
+│     ├─router/                         # 页面路由（NavPathManager、RouterConstants、NavPageBuilderFactory）
 │     ├─database/                       # 数据库（CalendarDBHelper、BaseDBHelper）
 │     └─util/                           # 工具集（设备/文件/HTTP/权限/时区/广播/联系人等）
 ├─commons                               # 公共 UI 组件库
@@ -281,7 +279,7 @@ calendar
 │  └─timezone/                          # 时区服务
 ├─signature                             # 签名证书与 profile
 ├─hvigor                                # 构建工具配置
-├─build-profile.json5                   # 工程级 SDK / 签名 / product 配置
+├─build-profile.json5                   # 工程配置
 ├─oh-package.json5
 ├─OAT.xml                               # 开源合规审计
 ├─LICENSE
@@ -299,10 +297,9 @@ calendar
 
   | 权限 | 授权方式 | 使用场景 |
   |------|---------|------|
-  | ohos.permission.READ_CALENDAR | 用户授权 | 读取日历日程数据 |
-  | ohos.permission.WRITE_CALENDAR | 用户授权 | 创建、修改、删除日历日程 |
   | ohos.permission.READ_WHOLE_CALENDAR | 用户授权 | 读取所有的日历信息 |
   | ohos.permission.WRITE_WHOLE_CALENDAR | 用户授权 | 添加、移除或更改所有的日历活动 |
+  | ohos.permission.NOTIFICATION_CONTROLLER | 系统授权 | 管理日历通知订阅与提醒设置 |
 
 - **支持的导入导出格式**：.ics、.vcs
 
