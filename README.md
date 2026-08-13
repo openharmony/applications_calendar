@@ -63,7 +63,7 @@ The app is divided into three layers: product layer, feature layer, and common l
 This project is a multi-module HAR + HAP application project, built with Hvigor, producing the `com.ohos.calendar` system application package.
 
 ### Environment Requirements
-- OpenHarmony SDK (this project uses `compileSdkVersion` "26.0.0", `compatibleSdkVersion` 20)
+- OpenHarmony SDK (this project uses `compileSdkVersion` "26.0.0", `compatibleSdkVersion` 23, `targetSdkVersion` 23)
 - DevEco Studio or command-line Hvigor toolchain
 - System signing certificates (see `signature/`)
 
@@ -297,8 +297,8 @@ calendar
 
   | Permission | Authorization | Usage |
   |------------|--------------|-------|
-  | ohos.permission.READ_WHOLE_CALENDAR | User grant | Read all calendar information |
-  | ohos.permission.WRITE_WHOLE_CALENDAR | User grant | Add, remove, or modify all calendar events |
+  | [ohos.permission.READ_WHOLE_CALENDAR](https://gitcode.com/openharmony/docs/blob/master/en/application-dev/calendarmanager/calendarmanager-overview.md) | User grant | Read all calendar information |
+  | [ohos.permission.WRITE_WHOLE_CALENDAR](https://gitcode.com/openharmony/docs/blob/master/en/application-dev/calendarmanager/calendarmanager-overview.md) | User grant | Add, remove, or modify all calendar events |
   | ohos.permission.NOTIFICATION_CONTROLLER | System grant | Manage calendar notification subscription and reminder settings |
 
 - **Supported Import/Export Formats**: .ics, .vcs
