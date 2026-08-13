@@ -63,7 +63,7 @@
 本工程为多模块 HAR + HAP 应用工程，使用 Hvigor 构建，产物为 `com.ohos.calendar` 系统应用包。
 
 ### 环境要求
-- OpenHarmony SDK（本工程 `compileSdkVersion` 为 "26.0.0"，`compatibleSdkVersion` 为 20）
+- OpenHarmony SDK（本工程 `compileSdkVersion` 为 "26.0.0"，`compatibleSdkVersion` 为 23，`targetSdkVersion` 为 23）
 - DevEco Studio 或命令行 Hvigor 工具链
 - 系统签名证书（见 `signature/`）
 
@@ -297,8 +297,8 @@ calendar
 
   | 权限 | 授权方式 | 使用场景 |
   |------|---------|------|
-  | ohos.permission.READ_WHOLE_CALENDAR | 用户授权 | 读取所有的日历信息 |
-  | ohos.permission.WRITE_WHOLE_CALENDAR | 用户授权 | 添加、移除或更改所有的日历活动 |
+  | [ohos.permission.READ_WHOLE_CALENDAR](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/calendarmanager/calendarmanager-overview.md) | 用户授权 | 读取所有的日历信息 |
+  | [ohos.permission.WRITE_WHOLE_CALENDAR](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/calendarmanager/calendarmanager-overview.md) | 用户授权 | 添加、移除或更改所有的日历活动 |
   | ohos.permission.NOTIFICATION_CONTROLLER | 系统授权 | 管理日历通知订阅与提醒设置 |
 
 - **支持的导入导出格式**：.ics、.vcs
