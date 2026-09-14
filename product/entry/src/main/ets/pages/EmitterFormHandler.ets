@@ -104,10 +104,12 @@ export class EmitterFormHandler {
           break;
         }
         ReportUtil.reportBehaviorEvent(behaviorEvents.clickPreviewJumpToCalendar);
-        let timeStamp = Number.parseInt(parameters.startTimestamp);
-        if (isNaN(timeStamp)) {
+        let timeStamp = Date.now();
+        const startTimestampText: string = String(parameters.startTimestamp);
+        if (/^\d+$/.test(startTimestampText)) {
+          timeStamp = Number.parseInt(startTimestampText, 10);
+        } else {
           Log.warn(TAG, `parameters.startTimestamp is not a valid number: ${parameters.startTimestamp}`);
-          timeStamp = Date.now();
         }
         if (new CalendarDate(AGENDA_SEARCH_DATE_BEGIN).getTime() > timeStamp ||
           new CalendarDate(AGENDA_SEARCH_DATE_END).getTime() < timeStamp) {
@@ -279,21 +281,18 @@ export class EmitterFormHandler {
         switch (key) {
           case DETAIL_WANT_PARAM_ID:
             Log.info(TAG, `tryJumpToAgendaDetail eventId is ${keyValue[1]}`);
-            const id = Number.parseInt(value);
-            if (!isNaN(id)) {
-              jumpParam.id = id;
+            if (/^\d+$/.test(value)) {
+              jumpParam.id = Number.parseInt(value, 10);
             }
             break;
           case DETAIL_WANT_PARAM_START_TIME:
-            const instanceStartMills = Number.parseInt(value);
-            if (!isNaN(instanceStartMills)) {
-              jumpParam.instanceStartMills = instanceStartMills;
+            if (/^\d+$/.test(value)) {
+              jumpParam.instanceStartMills = Number.parseInt(value, 10);
             }
             break;
           case DETAIL_WANT_PARAM_END_TIME:
-            const instanceEndMills = Number.parseInt(value);
-            if (!isNaN(instanceEndMills)) {
-              jumpParam.instanceEndMills = instanceEndMills;
+            if (/^\d+$/.test(value)) {
+              jumpParam.instanceEndMills = Number.parseInt(value, 10);
             }
             break;
           default:

@@ -980,11 +980,15 @@ export struct MainPage {
           break;
         }
         ReportUtil.reportBehaviorEvent(behaviorEvents.clickPreviewJumpToCalendar);
-        let timeStamp = Number.parseInt(parameters.startTimestamp);
-        if (new CalendarDate(AGENDA_SEARCH_DATE_BEGIN).getTime() > timeStamp ||
-          new CalendarDate(AGENDA_SEARCH_DATE_END).getTime() < timeStamp) {
-          Log.info(TAG, 'jump by preview timeStamp exceeding the time limit ')
-          timeStamp = Date.now();
+        let timeStamp = Date.now();
+        const startTimestampText: string = String(parameters.startTimestamp);
+        if (/^\d+$/.test(startTimestampText)) {
+          timeStamp = Number.parseInt(startTimestampText, 10);
+          if (new CalendarDate(AGENDA_SEARCH_DATE_BEGIN).getTime() > timeStamp ||
+            new CalendarDate(AGENDA_SEARCH_DATE_END).getTime() < timeStamp) {
+            Log.info(TAG, 'jump by preview timeStamp exceeding the time limit ')
+            timeStamp = Date.now();
+          }
         }
         const desDate = new CalendarDate(timeStamp);
         parameters.year = desDate.getFullYear();
@@ -1348,19 +1352,27 @@ export struct MainPage {
       switch (key) {
         case DETAIL_WANT_PARAM_ID:
           Log.info(TAG, `parseParams eventId is ${keyValue[1]}`);
-          jumpParam.id = Number.parseInt(value);
+          if (/^\d+$/.test(value)) {
+            jumpParam.id = Number.parseInt(value, 10);
+          }
           break;
         case DETAIL_WANT_PARAM_START_TIME:
-          jumpParam.instanceStartMills = Number.parseInt(value);
+          if (/^\d+$/.test(value)) {
+            jumpParam.instanceStartMills = Number.parseInt(value, 10);
+          }
           break;
         case DETAIL_WANT_PARAM_END_TIME:
-          jumpParam.instanceEndMills = Number.parseInt(value);
+          if (/^\d+$/.test(value)) {
+            jumpParam.instanceEndMills = Number.parseInt(value, 10);
+          }
           break;
         case 'scheduleUuid':
           jumpParam.scheduleUuid = value;
           break;
         case 'targetTime':
-          jumpParam.targetTime = Number.parseInt(value);
+          if (/^\d+$/.test(value)) {
+            jumpParam.targetTime = Number.parseInt(value, 10);
+          }
           break;
         case 'courseInstanceUuid':
           jumpParam.courseInstanceUuid = value;
