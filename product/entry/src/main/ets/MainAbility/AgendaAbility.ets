@@ -43,6 +43,17 @@ export default class AgendaAbility extends UIAbility {
   private storage: LocalStorage = new LocalStorage();
   private key: string = ''; // 用于跳转ability的key值,不同的ability key值正常不相等
 
+  private parseWantWholeTokenIntOrThrow(value: Object | undefined | null, fieldName: string): number {
+    if (typeof value === 'number' && Number.isFinite(value)) {
+      return value;
+    }
+    const valueText: string = String(value ?? '');
+    if (/^\d+$/.test(valueText)) {
+      return Number.parseInt(valueText, 10);
+    }
+    throw new Error(`invalid parameter ${fieldName} ${value}`);
+  }
+
   onCreate(want: Want, launchParam: AbilityConstant.LaunchParam) {
     super.onCreate(want, launchParam);
     Log.info(TAG, `onCreate new AgendaAbility`);
@@ -112,18 +123,9 @@ export default class AgendaAbility extends UIAbility {
     }
 
     try {
-      eventId = Number(parameter['eventId']);
-      if (isNaN(eventId)) {
-        throw new Error(`invalid parameter eventId ${parameter['eventId']}`);
-      }
-      instanceStartMills = Number(parameter['instanceStartMills']);
-      if (isNaN(instanceStartMills)) {
-        throw new Error(`invalid parameter instanceStartMills ${parameter['instanceStartMills']}`);
-      }
-      instanceEndMills = Number(parameter['instanceEndMills']);
-      if (isNaN(instanceEndMills)) {
-        throw new Error(`invalid parameter instanceEndMills ${parameter['instanceEndMills']}`);
-      }
+      eventId = this.parseWantWholeTokenIntOrThrow(parameter['eventId'], 'eventId');
+      instanceStartMills = this.parseWantWholeTokenIntOrThrow(parameter['instanceStartMills'], 'instanceStartMills');
+      instanceEndMills = this.parseWantWholeTokenIntOrThrow(parameter['instanceEndMills'], 'instanceEndMills');
       isHoliday = Boolean(parameter['isHoliday']);
       holidayTitle = String(parameter['holidayTitle']);
       instanceKey = String(parameter['instanceKey']);
